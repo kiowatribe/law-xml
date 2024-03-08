@@ -2,7 +2,7 @@
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>Kiowa Tribe Law Library</heading>
   <meta>
-    <description></description>
+    <description/>
     <contact>
       <email>help@openlawlib.org</email>
     </contact>
@@ -10,12 +10,15 @@
       <xml-bulk>https://github.com/kiowatribe/law-xml</xml-bulk>
       <html-bulk>https://github.com/kiowatribe/law-html</html-bulk>
       <static-assets>https://github.com/kiowatribe/law-static-assets</static-assets>
-      <html></html>
+      <html/>
     </canonical-urls>
     <history-start>2023-12-12</history-start>
   </meta>
   <collection name="us/nsn/kiowa/council/resolutions">
     <heading>Legislative Resolutions/Bills</heading>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2024/index.xml"/>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2023/index.xml"/>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2019/index.xml"/>
