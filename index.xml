@@ -10,7 +10,7 @@
       <xml-bulk>https://github.com/kiowatribe/law-xml</xml-bulk>
       <html-bulk>https://github.com/kiowatribe/law-html</html-bulk>
       <static-assets>https://github.com/kiowatribe/law-static-assets</static-assets>
-      <html/>
+      <html>https://law.kiowatribe.org</html>
     </canonical-urls>
     <history-start>2023-12-12</history-start>
   </meta>
