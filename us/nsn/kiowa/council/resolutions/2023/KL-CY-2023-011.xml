@@ -247,7 +247,7 @@
     <prefix>TITLE</prefix>
     <num>X</num>
     <heading>BUSINESS CODE</heading>
-    <container>
+    <container name="preamble">
       <text class="center">
         <em>(Enacted Resolution KL-CY-2023-011)</em>
       </text>
