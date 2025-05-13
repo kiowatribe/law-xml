@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-015">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-015" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2023-015</num>
   <heading>Kiowa Tribe Annual Budget Transparency Act of 2023</heading>
   <meta>
@@ -313,27 +313,33 @@
       </table>
     </text>
   </procedural-data>
-  <section>
-    <num>1.1</num>
-    <heading>Short Title</heading>
-    <text><cite path="">This enactment</cite> shall be known as the "Kiowa Tribe Annual Budget Transparency Act of 2023".</text>
-  </section>
-  <section>
-    <num>1.2</num>
-    <heading>Purpose</heading>
-    <text>The purpose of the resolution is to direct Kiowa Tribe Executive Branch to create a comprehensive annual budget narrative. This document includes a summary and detailed line-item breakdown of the annual budget, as well as reports from various programs and departments. It will be presented, processed, and distributed prior to the annual election of the Kiowa Tribe.</text>
-  </section>
-  <section>
-    <num>1.3</num>
-    <heading>Findings</heading>
-    <text>The Legislature hereby finds and declares that:</text>
-    <para>
-      <num>(a)</num>
-      <text>Kiowa Tribe Citizens needs more informative detailed information regarding the full disclosure of the Annual Budget Appropriation, to exercise their right to vote in the Annual Election of the Kiowa Tribe.</text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The Executive Branch will publish and distribute the budget in accordance with the Kiowa Tribe Constitution, <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6</cite>, Powers, (ii) The annual budget shall include appropriation of operating funds for the Council, the Legislature, the Executive Branch, and the Judicial Branch. The annual budget shall include all revenue and funds controlled by the Tribe including government funding, grants, business revenue, gaming revenue, and all revenue and funds received by the Tribe from all sources.</text>
-    </para>
-  </section>
+  <attachment id="law">
+    <codified:at path="1.04"/>
+    <section>
+      <codify:insert/>
+      <num codify:value="1.04.010">1.1</num>
+      <heading>Short Title</heading>
+      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Kiowa Tribe Annual Budget Transparency Act of 2023".</text>
+    </section>
+    <section>
+      <codify:insert/>
+      <num codify:value="1.04.020">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of the resolution is to direct Kiowa Tribe Executive Branch to create a comprehensive annual budget narrative. This document includes a summary and detailed line-item breakdown of the annual budget, as well as reports from various programs and departments. It will be presented, processed, and distributed prior to the annual election of the Kiowa Tribe.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.04.030">1.3</num>
+      <heading>Findings</heading>
+      <text>The Legislature hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>Kiowa Tribe Citizens needs more informative detailed information regarding the full disclosure of the Annual Budget Appropriation, to exercise their right to vote in the Annual Election of the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Executive Branch will publish and distribute the budget in accordance with the Kiowa Tribe Constitution, <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6</cite>, Powers, (ii) The annual budget shall include appropriation of operating funds for the Council, the Legislature, the Executive Branch, and the Judicial Branch. The annual budget shall include all revenue and funds controlled by the Tribe including government funding, grants, business revenue, gaming revenue, and all revenue and funds received by the Tribe from all sources.</text>
+      </para>
+    </section>
+  </attachment>
 </document>
