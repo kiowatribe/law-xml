@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>2</num>
+  <heading>Government Administration</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.01</num>
+    <heading>Newsletter Publishing</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.02</num>
+    <heading>Youth Council</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.03</num>
+    <heading>477 Resolution</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.04</num>
+    <heading>Minimum Commission Standards</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.05</num>
+    <heading>Audit Authorization, Acceptance, And Responsibility</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.06</num>
+    <heading>Executive Branch Four Division Structure And Organizational Chart</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.07</num>
+    <heading>Sponsorship</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.08</num>
+    <heading>Delegate to The Inter-Tribal Buffalo Council (ITBC)</heading>
+  </container>
+</container>
