@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-012">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-012" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2024-012</num>
   <heading>Kiowa Tribe Executive Branch Four (4) Division Structure And Organizational Chart Act of 2024</heading>
   <meta>
@@ -302,18 +302,22 @@
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="2.06"/>
     <section>
-      <num>1.1</num>
+      <codify:insert/>
+      <num codify:value="2.06.010">1.1</num>
       <heading>Short Title</heading>
       <text><cite path="attachments|law">This enactment</cite> shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert/>
+      <num codify:value="2.06.020">1.2</num>
       <heading>Purpose</heading>
       <text>This resolution approves Kiowa Tribe Executive Branch, four division and organizational chart structure, for a clear pattern of accountability that enables the delegation of power between the Executive Branch and departments.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="2.06.030">1.3</num>
       <heading>Findings</heading>
       <text>The Legislature hereby finds and declares that:</text>
       <para>
@@ -350,7 +354,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert/>
+      <num codify:value="2.06.040">1.4</num>
       <heading>Approval and Enactment</heading>
       <text>The Legislature hereby approves and enacts the <em>"Kiowa Tribe Executive Branch Four (4) Division Structure and Organizational Chart Act of 2024".</em></text>
     </section>
