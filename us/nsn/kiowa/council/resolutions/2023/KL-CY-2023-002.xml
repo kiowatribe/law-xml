@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-002">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-002" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2023-002</num>
   <heading>Kiowa Tribe Judiciary Act of 2023</heading>
   <meta>
@@ -257,16 +257,19 @@
     <text>Secretary of the Legislature</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="5.05"/>
     <text class="center">
       <strong>KIOWA TRIBE JUDICIARY ACT OF 2023</strong>
     </text>
     <text>The following is the Kiowa Tribe Judiciary Act of 2023:</text>
     <section>
-      <num>1</num>
+      <codify:insert/>
+      <num codify:value="5.05.010">1</num>
       <text>The Justices of the Supreme Court may select any person licensed to practice law in the United States, to serve as a "<em>Judge pro-tem</em>" of the Trial court, until the Justices of the Supreme Court determine a <em>pro-tem</em> appointment is no longer necessary; and,</text>
     </section>
     <section>
-      <num>2</num>
+      <codify:insert/>
+      <num codify:value="5.05.020">2</num>
       <text>The Chief Justice of the Supreme Court shall be responsible for managing or delegating the management of the dockets of all Courts in the Judicial Branch.</text>
     </section>
   </attachment>
