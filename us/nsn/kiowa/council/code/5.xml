@@ -2,10 +2,35 @@
 <container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
   <prefix>Title</prefix>
   <num>5</num>
-  <heading></heading>
+  <heading>Court</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>5.01</num>
-    <heading></heading>
+    <heading>Courts and Appointment of Judges and Justices</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.02</num>
+    <heading>Rules of Criminal Procedure</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.03</num>
+    <heading>Rules of Civil Procedure</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.04</num>
+    <heading>Model Rules of Judicial Conduct</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.05</num>
+    <heading>Judiciary</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.06</num>
+    <heading>Full Faith and Credit</heading>
   </container>
 </container>

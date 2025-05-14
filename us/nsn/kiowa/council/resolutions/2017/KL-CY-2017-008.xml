@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-008">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-008" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2017-008</num>
   <heading>Kiowa Rules of Civil Procedure</heading>
   <meta>
@@ -234,13 +234,15 @@
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="5.03"/>
     <text>KIOWA RULES OF CIVIL PROCEDURE</text>
     <section>
       <num>I</num>
       <heading>GENERAL PROVISIONS.</heading>
       <container>
-        <prefix>Rule</prefix>
-        <num>1</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.010">1</num>
         <heading>SCOPE OF RULES.</heading>
         <para>
           <num>(a)</num>
@@ -260,8 +262,9 @@
       <num>II</num>
       <heading>COMMENCEMENT OF ACTION AND PRELIMINARY MATTERS.</heading>
       <container>
-        <prefix>Rule</prefix>
-        <num>2</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.020">2</num>
         <heading>COMMENCEMENT OF ACTION; SERVICE OF PROCESS.</heading>
         <para>
           <num>(a)</num>
@@ -301,8 +304,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>3</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.030">3</num>
         <heading>TIME.</heading>
         <para>
           <num>(a)</num>
@@ -322,8 +326,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>4</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.040">4</num>
         <heading>PLEADINGS, MOTIONS, AND ORDERS.</heading>
         <para>
           <num>(a)</num>
@@ -343,8 +348,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>5</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.050">5</num>
         <heading>GENERAL RULES OF PLEADING.</heading>
         <para>
           <num>(a)</num>
@@ -380,8 +386,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>6</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.060">6</num>
         <heading>FORM OF PLEADINGS.</heading>
         <para>
           <num>(a)</num>
@@ -401,8 +408,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>7</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.070">7</num>
         <heading>DEFENSES AND OBJECTIONS</heading>
         <para>
           <num>(a)</num>
@@ -414,8 +422,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>8</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.080">8</num>
         <heading>COUNTERCLAIM OR CROSSCLAIM</heading>
         <para>
           <num>(a)</num>
@@ -431,8 +440,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>9</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.090">9</num>
         <heading>AMENDMENT OF PLEADINGS.</heading>
         <para>
           <num>(a)</num>
@@ -444,8 +454,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>10</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.100">10</num>
         <heading>PARTIES.</heading>
         <para>
           <num>(a)</num>
@@ -461,26 +472,30 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>11</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.110">11</num>
         <heading>INTERVENTION.</heading>
         <text>A person may intervene and be treated in all respects as a party to an action in cases in which property in which he has an interest may be affected or a question of law or fact common to a claim of his may be litigated.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>12</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.120">12</num>
         <heading>SUBSTITUTION OF PARTIES.</heading>
         <text>If a party dies or becomes incompetent or transfers his interest or separates from some official capacity, a substitute party may be jointed or substituted as justice requires.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>13</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.130">13</num>
         <heading>DISCOVERY.</heading>
         <text>Reasonable discovery shall be permitted.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>14</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.140">14</num>
         <heading>JURY TRIALS.</heading>
         <para>
           <num>(a)</num>
@@ -508,8 +523,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>15</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.150">15</num>
         <heading>ASSIGNING CASES FOR TRIAL.</heading>
         <para>
           <num>(a)</num>
@@ -521,8 +537,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>16</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.160">16</num>
         <heading>DISMISSAL OF ACTION.</heading>
         <para>
           <num>(a)</num>
@@ -559,8 +576,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>17</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.170">17</num>
         <heading>CONSOLIDATION; SEPARATE TRIALS.</heading>
         <para>
           <num>(a)</num>
@@ -568,8 +586,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>18</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.180">18</num>
         <heading>EVIDENCE.</heading>
         <para>
           <num>(a)</num>
@@ -605,8 +624,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>19</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.190">19</num>
         <heading>SUBPOENAS.</heading>
         <para>
           <num>(a)</num>
@@ -618,8 +638,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>20</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.200">20</num>
         <heading>JURORS.</heading>
         <para>
           <num>(a)</num>
@@ -695,14 +716,16 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>21</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.210">21</num>
         <heading>SPECIAL VERDICTS AND INTERROGATORIES.</heading>
         <text>The court may require the jury to return their verdict in the form of specific findings on specified issues or may require the jury to return a general verdict accompanied by answers to questions related to the issue under consideration.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>22</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.220">22</num>
         <heading>INSTRUCTIONS TO THE JURY; ARGUMENTS,</heading>
         <para>
           <num>(a)</num>
@@ -714,8 +737,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>23</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.230">23</num>
         <heading>MOTIONS FOR DIRECTED VERDICT AND FOR JUDGMENT NOTWITHSTANDING THE VERDICT.</heading>
         <para>
           <num>(a)</num>
@@ -727,14 +751,16 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>24</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.240">24</num>
         <heading>FINDINGS BY THE COURT.</heading>
         <text>In cases tried without a jury, and except in cases where a party defaults, fails to appear or otherwise waives such, findings of fact and conclusions of law shall be made by the court in support of all final judgments. Upon its own motion or the motion of any party within ten days of the entry of judgment, findings may be amended or added to and the judgment may be amended accordingly.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>25</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.250">25</num>
         <heading>JUDGMENT: COSTS.</heading>
         <para>
           <num>(a)</num>
@@ -766,8 +792,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>26</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.260">26</num>
         <heading>DEFAULT.</heading>
         <para>
           <num>(a)</num>
@@ -783,15 +810,17 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>27</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.270">27</num>
         <heading>SUMMARY JUDGMENT.</heading>
         <text>Anytime 20 days after commencement of an action, any party may move the court for summary judgment as to any or all of the issues presented in the case and such shall be granted by the court if it appears that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.</text>
         <text>Such motions, which shall be served not less than 10 days prior to the hearing on said motion, may be supported by affidavits, discovery, or memoranda, all of which must be made available to opposing parties at least two days prior to the hearing.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>28</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.280">28</num>
         <heading>ENTRY OF JUDGMENT.</heading>
         <para>
           <num>(a)</num>
@@ -815,8 +844,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>29</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.290">29</num>
         <heading>NEW TRIALS: AMENDMENTS OF JUDGMENT.</heading>
         <para>
           <num>(a)</num>
@@ -865,8 +895,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>30</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.300">30</num>
         <heading>RELIEF FROM JUDGMENT OR ORDER.</heading>
         <para>
           <num>(a)</num>
@@ -878,14 +909,16 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>31</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.310">31</num>
         <heading>HARMLESS ERROR.</heading>
         <text>No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in anything done or omitted by the court or by any of the parties, is ground for granting a new trial or otherwise disturbing a judgment or order, unless refusal to take such action appears to the court inconsistent with substantial justice. The court at every stage of the proceeding shall disregard any error or defect in the proceeding that does not affect the substantial rights of the parties.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>32</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.320">32</num>
         <heading>STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT.</heading>
         <para>
           <num>(a)</num>
@@ -921,8 +954,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>33</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.330">33</num>
         <heading>DISABILITY OR DISQUALIFICATION OF A JUDGE.</heading>
         <para>
           <num>(a)</num>
@@ -935,8 +969,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>34</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.340">34</num>
         <heading>INJUNCTIONS.</heading>
         <para>
           <num>(a)</num>
@@ -977,8 +1012,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>35</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.350">35</num>
         <heading>EXTRAORDINARY WRITS.</heading>
         <para>
           <num>(a)</num>
@@ -1016,8 +1052,9 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>36</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.360">36</num>
         <heading>EXECUTION.</heading>
         <para>
           <num>(a)</num>
@@ -1036,9 +1073,9 @@
           <text>Redemption from Sale. At any time within 6 months after sale under <cite path="attachments|law|II|36">this Rule</cite>, the judgment debtor may redeem his property from the purchases thereof by paying the amount such purchaser paid for the property plus 8 percent interest, plus any expense actually incurred by the purchaser, such as taxes and insurance, to maintain the property.</text>
         </para>
       </container>
-      <container>
-        <prefix>Rule</prefix>
-        <num>37</num>
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.370">37</num>
         <heading>APPEAL.</heading>
         <para>
           <num>(a)</num>
@@ -1086,20 +1123,23 @@
         </para>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>38</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.380">38</num>
         <heading>CITATION.</heading>
         <text>These Rules shall be known as the Kiowa Rules of Civil Procedure and may be abbreviated K.R.C.P.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>39</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.390">39</num>
         <heading>FEES.</heading>
         <text>The Chief Judge of the Trial Court, under recommendation of the Clerk of the Court, shall, from time to time, set a schedule of fees. Under no circumstances may the fee for an Order of Protection be more than ten dollars ($10). Thirty days prior to the fee schedule going into effect, the Chief Judge shall give notice to the Tribal Legislature and Council that a new schedule is going into effect and provide a copy of the schedule.</text>
       </container>
       <container>
-        <prefix>Rule</prefix>
-        <num>40</num>
+        <codify:insert/>
+        <prefix codify:value="">Rule</prefix>
+        <num codify:value="5.03.400">40</num>
         <heading>USE AND APPLICATION OF FEDERAL AND STATE RULES.</heading>
         <text>To the extent that it is found that certain necessary court procedures and laws have not been adequately addressed in the Kiowa Tribal District Court Rules, the Kiowa Tribal Code of Civil Procedure or by the Kiowa Tribal Law &amp; Order Code, the Kiowa Judiciary may draw upon the Federal Rules of Civil and Criminal Procedure, as well as the Local Court Rules of the United States District Court for the Western District of Oklahoma for guidance and application as in the discretion of the Kiowa Judiciary will best serve the efficient and timely dispensing of justice. Only upon a finding that a such void in the Kiowa Codes and Rules is not adequately addressed by the federal rules, may the Kiowa Judiciary then look to employ the Oklahoma Criminal, Civil and Appellate Procedures.</text>
       </container>
