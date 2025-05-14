@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-012">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-012" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2023-012</num>
   <heading>Kiowa Tribe 477 Resolution</heading>
   <meta>
@@ -294,18 +294,22 @@
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="2.03"/>
     <section>
-      <num>1.1</num>
+      <codify:insert/>
+      <num codify:value="2.03.010">1.1</num>
       <heading>Short Title</heading>
       <text><cite path="attachments|law">This enactment</cite> shall be known as the "477 Resolution".</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert/>
+      <num codify:value="2.03.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of the resolution is to authorize the Executive Branch of the Kiowa Tribe to pursue funding in support of establishing the Kiowa Tribe as a 477 Self-Governance Tribe.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="2.03.030">1.3</num>
       <heading>Findings</heading>
       <text>The Legislature hereby finds and declares that:</text>
       <para>

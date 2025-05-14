@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-009">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-009" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2024-009</num>
   <heading>Audit Authorization, Acceptance, And Responsibility Act</heading>
   <meta>
@@ -281,13 +281,16 @@
     <text>Secretary of the Legislature</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="2.05"/>
     <section>
-      <num>1.0</num>
+      <codify:insert/>
+      <num codify:value="2.05.010">1.0</num>
       <heading>Short Title.</heading>
         <text><cite path="attachments|law">This enactment</cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
     </section>
     <section>
-      <num>1.1</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="2.05.020">1.1</num>
       <heading>Purpose.</heading>
         <text>The purpose of <cite path="attachments|law">this Act</cite> is to:</text>
       <para>
@@ -308,7 +311,8 @@
       </para>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="2.05.030">1.2</num>
       <heading>Findings.</heading>
       <text>The Legislature hereby finds that:</text>
       <para>
@@ -346,7 +350,8 @@
       </para>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="2.05.040">1.3</num>
       <heading>Contract Authorization for Independent Auditors.</heading>
       <para>
         <num>(a)</num>
