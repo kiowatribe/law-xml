@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2020-004">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2020-004" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2020-004</num>
   <heading>Kiowa Tribe Housing Assistance for Renovation/Repairs and Rental Costs Startup Act of 2020</heading>
   <meta>
@@ -281,18 +281,22 @@
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="9.03"/>
     <section>
-      <num>1.1</num>
+      <codify:insert/>
+      <num codify:value="9.03.010">1.1</num>
       <heading>Short Title</heading>
       <text><cite path="attachments|law">This enactment</cite> shall be known as the Kiowa Tribe Housing Assistance for Renovation/Repairs and Rental Costs Startup Act of 2020. ("Act").</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert/>
+      <num codify:value="9.03.020">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="attachments|law">this Act</cite> is the Kiowa Tribe is interested in providing specific housing assistance to Kiowa Elders and Tribal Members who require this type of assistance cited in <cite path="attachments|law">this Act</cite>; and the Kiowa Tribe seeks to improve the living conditions of certain tribal members who do not otherwise qualify or receive housing assistance for home repairs/renovation and rental startup funds from NAHASDA.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="9.03.030">1.3</num>
       <heading>Findings</heading>
       <para>
         <num>(a)</num>
@@ -316,7 +320,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert/>
+      <num codify:value="9.03.040">1.4</num>
       <heading>Kiowa Tribe Housing Assistance</heading>
       <text>The Tribe requests Kiowa Tribe Housing Authority to continue on an annual basis henceforth to manage any funds if provided by the Kiowa Tribe for the two housing activities mentioned above.</text>
     </section>
