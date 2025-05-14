@@ -6,6 +6,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8.01</num>
-    <heading></heading>
+    <heading>Motor Vehicle Code</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.02</num>
+    <heading>Road Inventory and Repair Authorization</heading>
   </container>
 </container>
