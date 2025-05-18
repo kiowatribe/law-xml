@@ -219,7 +219,7 @@
       <codify:insert/>
       <num codify:value="6.01.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "FINANCE DEPARTMENT REFORM AND ACCOUNTABILITY ACT OF 2017" ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "FINANCE DEPARTMENT REFORM AND ACCOUNTABILITY ACT OF 2017" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
