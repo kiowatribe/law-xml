@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-011">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-011" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2023-011</num>
   <heading>Kiowa Tribe Uniform Commercial Business Code of 2023</heading>
   <meta>
@@ -15,7 +15,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to Article VI, Section 6(a) of the Constitution of the Kiowa Tribe; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -239,12 +239,13 @@
     <text>
       <b>C E R T I F I C A T I O N</b>
     </text>
-    <text>The foregoing Legislative Order, KL-CY-2023-000 was duly voted upon by the Legislature on _________________ 2023, at a Legislative Override Order Session with a vote of __________ in favor and _________ opposed, and _________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>The foregoing Legislative Order, KL-CY-2023-000 was duly voted upon by the Legislature on _________________ 2023, at a Legislative Override Order Session with a vote of __________ in favor and _________ opposed, and _________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
     <text>Anita Johnson</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
   <attachment id="law">
     <container>
+      <codified:at path="7.01"/>
       <prefix>TITLE</prefix>
       <num>X</num>
       <heading>BUSINESS CODE</heading>
@@ -270,11 +271,12 @@
           <text> the Legislature hereby establishes within the Commission, possessing all the powers, duties, rights and functions hereinafter described by <cite path="attachments|law|">this Act</cite> or which may hereafter be conferred upon it by law.</text>
         </recital>
       </recitals>
-      <container>
-        <prefix>Article</prefix>
-        <num>1</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.010">1</num>
         <heading>BUSINESS LICENSES</heading>
-        <section>
+        <section codify:tag="para">
           <num>1.0</num>
           <heading>License Required of all Businesses, No Effect on Other Laws</heading>
           <para>
@@ -302,7 +304,7 @@
             <text>Nothing in <cite path="attachments|law|X|1">this Chapter</cite> affects, limits, alters, modifies, or waives the need for a business to obtain all licenses and permits required by applicable law. The issuance of a business license shall not be deemed or construed as a certification of a business's compliance with other applicable regulations or laws. Additional permits and licenses may be necessary before a person may lawfully conduct business.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>2.0</num>
           <heading>Exemptions.</heading>
           <para>
@@ -346,7 +348,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.0</num>
           <heading>Application for Business License.</heading>
           <para>
@@ -402,7 +404,7 @@
             <text>The Commission shall, in accordance with its duly promulgated rules, issue a License within 24 hours of the date of application. The Commission shall establish a unique Kiowa Taxpayer Identification Number for each licensee, and such Taxpayer Identification number shall be communicated to the Applicant and to the Kiowa Tax Commission and shall be the number used to maintain and track the eligibility of any person to conduct business in the Kiowa Territory or with the Kiowa Tribe.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.0</num>
           <heading>Classes of Licenses, Term of License.</heading>
           <para>
@@ -434,7 +436,7 @@
             <text>An Annual Business License and Peddler License shall expire at 11:59 p.m. on December 31 of the year of issuance.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.0</num>
           <heading>Grant and Denial of License or Renewal.</heading>
           <para>
@@ -458,7 +460,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>6.0</num>
           <heading>Conditions of License.</heading>
           <para>
@@ -478,7 +480,7 @@
             <text>Each licensee shall respond in a timely manner to requests for information about the licensee's business for the purpose of establishing whether the licensee is in compliance with the terms of <cite path="attachments|law|X|1">this Chapter</cite>.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>7.0</num>
           <heading>Revocation of License; Reinstatement of License.</heading>
           <para>
@@ -490,7 +492,7 @@
             <text>Upon application, the Kiowa Tribe may reinstate a business license that has been revoked upon the payment of all license fees, penalties, and interest owed by the business pursuant to <cite path="attachments|law|X|1">this Chapter</cite>, provided that the business is otherwise in compliance with Kiowa Tribe law. An applicant shall pay a reinstatement fee in an amount established by the Commission, in addition to any other fees and penalties due.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>8.0</num>
           <heading>Non-Transferable License.</heading>
           <para>
@@ -498,7 +500,7 @@
             <text>The license provided for in <cite path="attachments|law|X|1">this Chapter</cite> is not transferable, and is valid only for the person in whose name it is issued and for the transaction of business of the same type and at the place or places designated therein.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>9.0</num>
           <heading>Posting of License.</heading>
           <para>
@@ -506,7 +508,7 @@
             <text>If a business has a physical location, each person shall post its tribal business license in a conspicuous location at its place of business.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>10.0</num>
           <heading>Penalties, Interest, Collection Costs.</heading>
           <para>
@@ -530,7 +532,7 @@
             <text><u>Due Process</u>. A licensee found to have violated any provision of <cite path="attachments|law|X|1">this Chapter</cite> and before any penalty may be imposed, shall have the right to within 10 business days, file a written appeal to the Commission Director requesting any penalty assessed be reversed, along with the reason for non- compliance and corrective action plan. The Commission Director shall provide a written decision within 10 business days, and if the Commission Director does not provide the licensee with a written decision within 10 business days, the initial determination shall be vacated. If the Commission Director rejects the licensee's appeal the licensee shall have the right to file an appeal with the Kiowa Trial Court within 20 business days. The courts of the Kiowa Tribe shall have exclusive jurisdiction to resolve any disputes arising under <cite path="attachments|law|X|1">this Chapter</cite>.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>11.0</num>
           <heading>Sovereign Immunity.</heading>
           <para>
@@ -539,26 +541,28 @@
           </para>
         </section>
       </container>
-      <container>
-        <prefix>Article</prefix>
-        <num>2</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.020">2</num>
         <heading>ADOPTION OF UNIFORM COMMERICIAL CODE (RESERVED)</heading>
       </container>
-      <container>
-        <prefix>Article</prefix>
-        <num>3</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.030">3</num>
         <heading>CORPORATIONS</heading>
-        <section>
+        <section codify:tag="para">
           <num>3.1</num>
           <heading>Purpose of incorporation and incorporators.</heading>
           <text>A corporation may be formed under <cite path="attachments|law|X|3">this chapter</cite> by any person for any lawful purpose.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.2</num>
           <heading>Corporate Name.</heading>
           <text>The name of any corporation formed under <cite path="attachments|law|X|3">this chapter</cite> shall not be the same or similar to any other named corporation formed under <cite path="attachments|law|X|3">this chapter</cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd." The Commission shall keep a public, searchable, list of all corporate names, which shall be accessible on a website. However, it is the responsibility of the business to ensure its proposed name does not violate any copyrights, trademarks, or patents.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.3</num>
           <heading>Articles of Incorporation.</heading>
           <text>The incorporators of a corporation must file an Application and proposed Articles of Incorporation with the Director of the Commission along with any applicable filing fee, based on the schedule of fees approved by the Commission. The Articles of Incorporation must be signed by a person 18 years of age or older. The Articles shall include, at a minimum, the following:</text>
@@ -616,7 +620,7 @@
               <text>Incorporator</text>
           </include>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.4</num>
           <heading>Certificate of incorporation.</heading>
           <text>Upon filing the Articles of Incorporation and payment of the filing fee, the Director of the Commission, if the Articles are in conformity with <cite path="attachments|law|X|3">this chapter</cite>, may issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
@@ -629,12 +633,12 @@
           </include>
           <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <cite path="attachments|law|X|3">this chapter</cite>, but not that the corporation is in compliance with any other provision of law.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.5</num>
           <heading>Amended articles of incorporation.</heading>
           <text>A corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the shareholders. A filing fee in an amount approved by the Commission shall accompany that filing. Provided the proposed amended articles are consistent with <cite path="attachments|law|X|3">this chapter</cite>, the Commission may issue an Amended Certificate of Incorporation.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.6</num>
           <heading>Bylaws.</heading>
           <text>Every entity incorporated in the Kiowa Tribe shall be governed by a set of bylaws. Every entity incorporated in the Kiowa Tribe may adopt bylaws of their own choosing by filing its bylaws with the Commission. If no bylaws are filed with the Commission the bylaws for every company shall be as follows:</text>
@@ -770,7 +774,7 @@
               </container>
           </include>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>3.7</num>
           <heading>Dissolution.</heading>
           <text>A corporation formed pursuant to <cite path="attachments|law|X|3">this chapter</cite> may be dissolved whenever a resolution is adopted by at least two-thirds of the shareholders requesting dissolution and a certified copy of the resolution is filed with the Kiowa Tribe Business Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
@@ -789,21 +793,21 @@
           </para>
         </section>
       </container>
-      <container>
-        <prefix>Article</prefix>
-        <num>4</num>
-        <heading>CORPORATIONS (NON-PROFIT)</heading>
-        <section>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.040">4</num>
+        <section codify:tag="para">
           <num>4.1</num>
           <heading>Purpose of incorporation and incorporators.</heading>
           <text>A non-profit corporation may be formed under <cite path="attachments|law|X|4">this chapter</cite> for any lawful purpose not involving pecuniary gain to its owners and not paying dividends or other pecuniary remuneration, directly or indirectly, to its owners.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.2</num>
           <heading>Corporate name.</heading>
           <text>The name of any non-profit corporation formed under <cite path="attachments|law|X|4">this Article</cite> shall not be the same or similar to any other named corporation formed under <cite path="attachments|law|X|4">this Article</cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd."</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.3</num>
           <heading>Articles of incorporation.</heading>
           <text>The incorporators of a non-profit corporation must file an Application and proposed Articles of Incorporation with the Director of the Commission. No fee shall be required for a non-profit corporation. The Articles of Incorporation must be signed by a person 18 years of age or older. The Articles shall include, at a minimum, the following:</text>
@@ -857,7 +861,7 @@
           </include>
           <text>Note: Non-profit corporations seeking certification to receive tax deductible contributions under section 501(c)(3) or other provisions of the Internal Revenue Code must separately seek status as a non-profit as required by the United States Internal Revenue Service.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.4</num>
           <heading>Certificate of incorporation.</heading>
           <text>Upon filing the Articles of Incorporation of a Non-profit entity with the Director of the Commission, if the Articles are in conformity with this ordinance, shall issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
@@ -870,12 +874,12 @@
           </include>
           <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <cite path="attachments|law|X|4">this chapter</cite>, but not that the corporation is in compliance with any other provision of law.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.5</num>
           <heading>Amended articles of incorporation.</heading>
           <text>A non-profit corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the members, if any. A filing fee of $25.00 shall accompany that filing. Provided those amended articles are consistent with <cite path="attachments|law|X|4">this chapter</cite>, the Kiowa Tribe Business &amp; Commerce Department shall issue a Certificate of Amendment to the Corporation.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.6</num>
           <heading>Bylaws.</heading>
           <text>A not-for-profit corporation created pursuant to <cite path="attachments|law|X|4">this chapter</cite> may adopt such bylaws at it deems necessary and appropriate, which shall become effective when filed with the Commission. Unless there is submitted to the Kiowa Tribe Business &amp; Commerce Department a different form of bylaws, the bylaws shall be as follows:</text>
@@ -1011,7 +1015,7 @@
             </container>
           </include>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>4.7</num>
           <heading>Dissolution.</heading>
           <text>A corporation formed pursuant to <cite path="attachments|law|X|4">this chapter</cite> may be dissolved whenever a resolution is adopted by the Board of Directors requesting dissolution, approved by a majority of the members, if any, and a certified copy of the resolution is filed with the Kiowa Tribe Business &amp; Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
@@ -1030,14 +1034,15 @@
           <text>Any assets remaining after discharging the debts and liabilities of the corporation shall be distributed to another non-profit corporation organized for the same or similar purposes as the corporation, or to the Kiowa Tribe for public and charitable purposes.</text>
         </section>
       </container>
-      <container>
-        <prefix>Article</prefix>
-        <num>5</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.050">5</num>
         <heading>Tribally Owned Corporations Act of 2022 (CORPORATIONS OWNED BY THE KIOWA TRIBE)</heading>
         <text>
           <strong>GENERAL PROVISIONS</strong>
         </text>
-        <section>
+        <section codify:tag="para">
           <num>5.1</num>
           <heading>Authority.</heading>
           <para>
@@ -1053,7 +1058,7 @@
             <text><cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> gives the Legislature the power to establish Executive Boards and Commissions for economic or other purposes, and to regulate their activities.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.2</num>
           <heading>Purpose.</heading>
           <para>
@@ -1173,12 +1178,12 @@
             <text>The Tribe shall not be limited in its operation of its businesses.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.3</num>
           <heading>Applicability.</heading>
           <text>The provisions of <cite path="attachments|law|">this Act</cite> shall apply to all corporations as chartered under Kiowa Law that are wholly or partially owned by the Kiowa Tribe, and whether such corporations are owned directly or owned indirectly as a subsidiary of another entity wholly or partially owned by the Tribe. Preexisting corporations shall not be subject to <cite path="attachments|law|">this Act</cite>. Except as otherwise provided, the provisions of <cite path="attachments|law">this Act</cite> do not apply to the business or undertakings of the Tribe that are not conducted by a corporation.</text>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.4</num>
           <heading>Rules of Construction.</heading>
           <text>Rules of construction set forth in <cite path="attachments|law|X|5|5.4">this section</cite> are applicable for the purposes of <cite path="attachments|law">this Act</cite>.</text>
@@ -1207,7 +1212,7 @@
             <text>No corporation formed by the tribe under this law shall be taxed by the Kiowa Tribe.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.5</num>
           <heading>Definitions.</heading>
           <text>Terms used in <cite path="attachments|law|">this Act</cite> have the following meaning:</text>
@@ -1340,7 +1345,7 @@
             <text>"Trust Land" means land held in trust by the United States for the benefit of the Kiowa Tribe, a Corporation, or the Tribe's members.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.6</num>
           <heading>Name.</heading>
           <para>
@@ -1348,7 +1353,7 @@
             <text>The name of a corporation shall be as set forth in its Charter. All corporations formed under <cite path="attachments|law|">this Act</cite> shall contain the phrase "A Kiowa Tribe Corporation."</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.7</num>
           <heading>Privileges and Immunities.</heading>
           <para>
@@ -1416,7 +1421,7 @@
             <text>The Corporation shall not be immune to any suit brought against it by the Chairman of the Kiowa Tribe.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.8</num>
           <heading>Organization and Powers of Corporations.</heading>
           <para>
@@ -1504,7 +1509,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.9</num>
           <heading>Registered Office and Agent.</heading>
           <para>
@@ -1524,7 +1529,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.10</num>
           <heading>Shares, Earnings and Ownership.</heading>
           <para>
@@ -1564,7 +1569,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.11</num>
           <heading>Board of Directors.</heading>
           <para>
@@ -1700,7 +1705,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.12</num>
           <heading>Officers of the Corporation.</heading>
           <para>
@@ -1720,7 +1725,7 @@
             <text>Contract Rights. The appointment of an officer does not itself create contract rights nor does the resignation or removal of an officer affect the contract rights, if any, of the officer or Corporation. However, the Board of Directors may enter into a contract of employment with an officer as an inducement for the service of the officer.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.13</num>
           <heading>General Standards for Directors and Officers.</heading>
           <para>
@@ -1756,7 +1761,7 @@
             <text>A Corporation may not lend money to or guarantee the personal obligation of a director, officer or employee of the Corporation under any circumstances.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.14</num>
           <heading>Use of Tribal Employees, Products and Services.</heading>
           <para>
@@ -1764,7 +1769,7 @@
             <text>A Corporation or its Subsidiaries shall have the authority in the conduct of its business to contract with the Tribe or the appropriate department of the Tribe to use the services of the Tribe's employees, the Tribe's products or the Tribe's services.b. 	Contracts for such purposes shall be on terms deemed reasonable by the Corporation or Subsidiary and the Tribe or the appropriate department of the Tribe as the case may be.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.15</num>
           <heading>Shareholder Meetings.</heading>
           <para>
@@ -1796,7 +1801,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.16</num>
           <heading>Actions by Legislature.</heading>
           <para>
@@ -1824,7 +1829,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.17</num>
           <heading>Actions by Tribal Chairman.</heading>
           <para>
@@ -1864,7 +1869,7 @@
             <text>Board of Director Vacancies. Notice of any vacancy on the Board of Directors shall be immediately given by the Corporation to the Kiowa Chairman and to the Legislature. If the Corporation's Articles of Incorporation provides that the Tribe's Chairman is required to fill the vacancy, a special meeting of the Tribe's Legislature shall be called for the purpose of initiating necessary action to confer with the Tribe's Chairman and/or confirm or reject the Chairman's nominee(s) to fill the vacancy.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.18</num>
           <heading>Challenges to Corporate Actions.</heading>
           <para>
@@ -1884,7 +1889,7 @@
             </para>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.19</num>
           <heading>Merger, Consolidation, Sale of Assets.</heading>
           <para>
@@ -1904,7 +1909,7 @@
             <text>The approval of the Kiowa Chairman shall be required in connection with such sale, lease, exchange or other disposition of all or substantially all of the properties and assets, including goodwill and corporate franchise by the Corporation.</text>
           </para>
         </section>
-        <section>
+        <section codify:tag="para">
           <num>5.20</num>
           <heading>Dissolution of Tribally Owned Corporation.</heading>
           <text>All Tribally Owned Corporations formed under <cite path="attachments|law|X|5|5.20">this section</cite> may be dissolved as follows:</text>
@@ -1978,9 +1983,10 @@
           </para>
         </section>
       </container>
-      <container>
-        <prefix>Article</prefix>
-        <num>6</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Article</prefix>
+        <num codify:value="7.01.060">6</num>
         <heading>Federal Charters.</heading>
         <text>The Chairman of the Kiowa Tribe is hereby authorized now or in the future to organize and charter any entity under any federal law, including but not limited to the Oklahoma Indian Welfare Act, 25 U.S.C. §§ 5201, <em>et. seq.</em>, or the Indian Reorganization Act, 25 U.S. C. § § 5101, <em>et. seq</em>.</text>
       </container>
