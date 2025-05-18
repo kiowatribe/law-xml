@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2020-007">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2020-007" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2020-007</num>
   <heading>A Resolution Duly Proposed to the Kiowa Legislature Approving the Kiowa Code of Laws</heading>
   <meta>
@@ -261,35 +261,37 @@
       <text>The Legislature shall have the power to assert the Sovereignty and Jurisdiction of the Tribe by law over all matters that affect the interests of the Tribe. "<em>Nothing in <cite path="">this Article</cite> shall be construed to limit the ability of the Tribe to exercise its Jurisdiction based upon its inherent sovereignty as an Indian tribe.</em>" (Constitution of the Kiowa Tribe, <cite doc="Constitution of the Kiowa Tribe">Article III, Section 2</cite>-Jurisdiction)</text>
     </para>
   </section>
-  <attachment id="Code of Law">
+  <attachment id="law">
     <text>PREAMBLE</text>
     <text>It is the intent of this Kiowa Code to adopt the essential provisions of the United States Government's Tribal Law and Order Act of 2010. Therefore, in accordance with Section 234(a) of the Act, the Kiowa Code provides for:</text>
     <para>
       <num>1.</num>
-      <text>The effective assistance of counsel, <cite path="attachments|law|II|8|2.8.5">Section 2.8.5 </cite>(Rights of Accused);</text>
+      <text>The effective assistance of counsel, <cite path="attachments|Peacemaking Act|II|8|2.8.5">Section 2.8.5 </cite>(Rights of Accused);</text>
     </para>
     <para>
       <num>2.</num>
-      <text>Access to a licensed attorney for the indigent at Tribal expense, <cite path="attachments|law|I|6|1.6.3">Section 1.6.3 </cite>(Kiowa Public Defender);</text>
+      <text>Access to a licensed attorney for the indigent at Tribal expense, <cite path="attachments|Peacemaking Act|I|6|1.6.3">Section 1.6.3 </cite>(Kiowa Public Defender);</text>
     </para>
     <para>
       <num>3.</num>
-      <text>Licensed judges presiding over cases with enhanced sentencing, <cite path="attachments|law|I|3|1.3.3">Sections 1.3.3 </cite>(Qualifications of Chief Judge and Senior Associate Judge), <cite path="attachments|law|I|3|1.3.6">1.3.6 </cite>(Pro-Tern Judge), and <cite path="attachments|law|II|2|2.2.4">2.2.4 </cite>(Assignment of Criminal Actions Involving Serious or Dangerous Offenses); and</text>
+      <text>Licensed judges presiding over cases with enhanced sentencing, <cite path="attachments|Peacemaking Act|I|3|1.3.3">Sections 1.3.3 </cite>(Qualifications of Chief Judge and Senior Associate Judge), <cite path="attachments|Peacemaking Act|I|3|1.3.6">1.3.6 </cite>(Pro-Tern Judge), and <cite path="attachments|Peacemaking Act|II|2|2.2.4">2.2.4 </cite>(Assignment of Criminal Actions Involving Serious or Dangerous Offenses); and</text>
     </para>
     <para>
       <num>4.</num>
-      <text>A Record of court proceedings, <cite path="attachments|law|I|5|1.5.7">Section 1.5.7 </cite>(Courts of Record).</text>
+      <text>A Record of court proceedings, <cite path="attachments|Peacemaking Act|I|5|1.5.7">Section 1.5.7 </cite>(Courts of Record).</text>
     </para>
     <text>
       <strong>The Legislature hereby requests the U.S. Bureau of Indian Affairs to provide law enforcement services including but not limited to enforcing this Kiowa Code and all orders issued by the Judicial Branch of the Tribe.</strong>
     </text>
     <container>
+      <codified:at path="5.01"/>
       <prefix>Title</prefix>
       <num>I</num>
       <heading>COURTS AND APPOINTMENT OF JUDGES AND JUSTICES</heading>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>1</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.010">1</num>
         <heading>JUDICIAL POWER</heading>
         <para>
           <num>1.1.1</num>
@@ -313,9 +315,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>2</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.020">2</num>
         <heading>SUPREME COURT</heading>
         <para>
           <num>1.2.1</num>
@@ -376,9 +379,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>3</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.030">3</num>
         <heading>TRIAL COURT</heading>
         <para>
           <num>1.3.1</num>
@@ -421,9 +425,10 @@
           <text>Upon the adoption of <cite path="attachments|law">this Code</cite>, the Judges currently serving shall remain in office with the full judicial authority to act, in accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, and pursuant to their employment or contractual terms.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>4</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.040">4</num>
         <heading>JURISDICTION OF TRIAL COURT</heading>
         <para>
           <num>1.4.1</num>
@@ -446,9 +451,10 @@
           <text>The Trial Court has original jurisdiction over all civil actions or controversies, whether at law or equity, arising under <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, laws, customs, and traditions of the Tribe, including cases in which the Tribe or its officials and employees shall be a party. All civil causes of action arising within the Jurisdiction of the Tribe shall be brought in the Trial Court before they can be litigated in any other court. The Trial Court shall also have original jurisdiction over civil regulatory actions involving the registration of convicted sex offenders, as defined in The Kiowa Sex Offender Registration Code (SORNA).</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>5</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.050">5</num>
         <heading>POWERS &amp; DUTIES OF TRIAL COURT</heading>
         <para>
           <num>1.5.1</num>
@@ -594,9 +600,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>6</num>
+      <container codify:tag="section"> 
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.01.060">6</num>
         <heading>OFFICERS OF THE COURT</heading>
         <para>
           <num>1.6.1</num>
@@ -728,12 +735,14 @@
       </container>
     </container>
     <container>
+      <codified:at path="5.02"/>
       <prefix>Title</prefix>
       <num>II</num>
       <heading>COURT PROCEDURES</heading>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>1</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.010">1</num>
         <heading>GENERAL PROVISIONS</heading>
         <para>
           <num>2.1.1</num>
@@ -751,9 +760,10 @@
           <text>In construing <cite path="attachments|law">this Code</cite>, each general provision shall be controlled by any special provision on the same subject if a conflict exists.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>2</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.020">2</num>
         <heading>COMMENCEMENT OF CRIMINAL PROCEEDINGS</heading>
         <para>
           <num>2.2.1</num>
@@ -788,9 +798,10 @@
           <text>Criminal Actions that include allegations of an offense or offenses, which could result in a sentence of incarceration for more than one (1) year as defined in <cite path="attachments|law|III|4|1.">section 3.4.1 </cite>in <cite path="attachments|law">this Code</cite>, shall only be heard by the Chief Judge, Senior Associate Judge, or a Pro-Tem Judge.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>3</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.030">3</num>
         <heading>ARREST, DELIVERY ON WARRANT, AND HOT PURSUIT</heading>
         <para>
           <num>2.3.1</num>
@@ -1038,9 +1049,10 @@
           <text>For the purpose of <cite path="attachments|law">this Code</cite>, the term "hot pursuit" shall mean the act of chasing or following a person by a law enforcement officer who has reason to believe the person has committed a violation of the laws of the Kiowa Tribe, beyond the boundaries of the Trial Court's jurisdiction with the intent to arrest the person for such violation. The term shall include and be limited to immediate and uninterrupted pursuit. Any law enforcement officer as defined in <cite path="attachments|law">this Code</cite> shall have the authority to engage in hot pursuit to apprehend and return to this jurisdiction and to incarcerate and charge such person with a violation of the Kiowa Criminal Code.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>4</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.040">4</num>
         <heading>SEARCH WARRANT</heading>
         <para>
           <num>2.4.1</num>
@@ -1073,9 +1085,10 @@
           <text>All reasonable searches and seizures that are incidental to a legal arrest are valid.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>5</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.050">5</num>
         <heading>BAIL</heading>
         <para>
           <num>2.5.1</num>
@@ -1153,9 +1166,10 @@
           <text>No bail shall be required of any person who has not reached his sixteenth birthday. Custody and detention of minors under the age of sixteen shall be governed by Kiowa Children's Code.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>6</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.060">6</num>
         <heading>ARRAIGNMENT</heading>
         <para>
           <num>2.6.1</num>
@@ -1193,9 +1207,10 @@
           <text>The defendant may plead, "guilty," "not guilty," "not guilty by reason of former jeopardy," or "not guilty by reason of insanity." If the defendant wishes to plead "not guilty," he may demand a jury trial. After a plea of "not guilty," the Court shall set a date for trial which shall allow sufficient time for defendant to prepare his defense. If the defendant refuses to plead, a plea of "not guilty" will be entered for him by the Court. If the defendant wishes to plead "guilty," he may be sentenced immediately or within a reasonable time thereafter. A plea made to the Court must be made in open court with the defendant himself in Court. When the defendant pleads a former jeopardy and shall have been acquitted or convicted upon complaint, the conviction or acquittal is a bar to another complaint for the offense charged in the former, or for an attempt to commit the same, or an offense necessarily included therein of which he might have been convicted under that complaint.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>7</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.070">7</num>
         <heading>PRE-TRIAL MOTIONS</heading>
         <para>
           <num>2.7.1</num>
@@ -1245,9 +1260,10 @@
           <text>A defendant has the right to file with the Trial Court a motion to suppress evidence which he contends has been obtained in an unlawful manner. The evidence in question may be a tangible item or an intangible item. If the Court is satisfied that the evidence has been unlawfully obtained, it shall order the evidence suppressed. If the Court decides that the evidence was lawfully obtained, it may be used against the defendant.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>8</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.080">8</num>
         <heading>TRIAL, GENERAL PROVISIONS</heading>
         <para>
           <num>2.8.1</num>
@@ -1363,9 +1379,10 @@
           <text>After the commencement of the trial of a criminal action or proceeding, if the judge presiding at such trial shall die, become ill, or for any other reason be unable to proceed with and finish the trial, another judge may proceed with and finish the trial. If no other judge is available, then the Clerk of that Court shall adjourn the Court until such time as by stipulation in writing between the parties to the proceeding, a judge shall be agreed upon by them and shall arrive to complete the trial. The judge authorized by <cite path="attachments|law|II|8|2.8.10">this section</cite> shall proceed with and complete the trial and has the same power, authority, and jurisdiction as if the trial had originally commenced before him.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>9</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.090">9</num>
         <heading>FORMATION OF THE JURY</heading>
         <para>
           <num>2.9.1</num>
@@ -1496,9 +1513,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>10</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.100">10</num>
         <heading>TRIAL PROCEDURE</heading>
         <para>
           <num>2.10.1</num>
@@ -1579,9 +1597,10 @@
           <text>At any time after the evidence on either side is closed, the Court may, upon motion of the defendant or upon its own motion, direct the jury to return a verdict of acquittal; and in the event of the failure of the jury to return such a verdict of acquittal, the Court may refuse to receive any other verdict and may discharge the jury and enter a judgment of acquittal. The denial of the motion may be reviewed upon appeal to the Supreme Court of the Kiowa Tribe by the defendant.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>11</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.110">11</num>
         <heading>SUBMISSION TO THE JURY &amp; VERDICT</heading>
         <para>
           <num>2.11.1</num>
@@ -1609,9 +1628,10 @@
           <text>In the event the jury is unable to agree upon a verdict, the Judge shall dismiss the jury and order a new trial.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>12</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.120">12</num>
         <heading>JUDGMENT</heading>
         <para>
           <num>2.12.1</num>
@@ -1656,9 +1676,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>13</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.130">13</num>
         <heading>PROBATION</heading>
         <para>
           <num>2.13.1</num>
@@ -1671,9 +1692,10 @@
           <text>Any person who violated the terms and conditions of his probation may be required to serve an additional jail sentence as a condition of continuing the person on probation or the Court may terminate probation and order the defendant to serve a jail term of up to one year, with no credit for time served.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>14</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.140">14</num>
         <heading>NEW TRIAL</heading>
         <para>
           <num>2.14.1</num>
@@ -1722,9 +1744,10 @@
           <text>If the defendant timely appeals, the Court, in its discretion, may stay a sentence of imprisonment, fine, or probation. The Court may set the terms of any stay.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>15</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.150">15</num>
         <heading>CONTEMPT OF COURT</heading>
         <para>
           <num>2.15.1</num>
@@ -1767,9 +1790,10 @@
           <text>A judge may punish contempt of court in either criminal or civil proceedings by assessing a fine or by ordering imprisonment, or both; such fine not to exceed Five Hundred Dollars ($500.00) and/or imprisonment not to exceed forty-five (45) days plus Court costs.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>16</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="5.02.160">16</num>
         <heading>RECOGNITION AND ENFORCEMENT OF FOREIGN COURT JUDGMENTS</heading>
         <para>
           <num>2.16.1</num>
@@ -3396,12 +3420,14 @@
       </container>
     </container>
     <container>
+      <codified:at path="8.01"/>
       <prefix>Title</prefix>
       <num>IV</num>
       <heading>MOTOR VEHICLE CODE</heading>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>1</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.010">1</num>
         <heading>GENERAL PROVISIONS</heading>
         <para>
           <num>4.1.1</num>
@@ -3656,9 +3682,10 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>2</num>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.020">2</num>
         <heading>GENERAL APPLICATION</heading>
         <para>
           <num>4.2.1</num>
@@ -3720,10 +3747,11 @@
           <text>An officially designated Department of the Tribe is authorized to place and maintain traffic-control devices on or within the right-of-way of any roadway within the Kiowa Territory.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>3</num>
-        <heading>: 	ACCIDENTS</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.030">3</num>
+        <heading>ACCIDENTS</heading>
         <para>
           <num>4.3.1</num>
           <heading>DUTY OF DRIVERS INVOLVED IN AN ACCIDENT.</heading>
@@ -3787,10 +3815,11 @@
           <text>A person who operates a motor vehicle within the Kiowa Territory gives consent to a test or tests of the person's blood, breath, urine or other bodily substance for the purposes of determining alcohol concentration or drug content, if the vehicle is involved in a traffic accident resulting in death or serious physical injury to a passenger, driver, or pedestrian.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>4</num>
-        <heading>: 	SPEED REGULATIONS</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.040">4</num>
+        <heading>SPEED REGULATIONS</heading>
         <para>
           <num>4.4.1</num>
           <heading>SPEED REGULATIONS.</heading>
@@ -3860,10 +3889,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>5</num>
-        <heading>: 	TRAFFIC SIGNS AND SIGNALS</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.050">5</num>
+        <heading>TRAFFIC SIGNS AND SIGNALS</heading>
         <para>
           <num>4.5.1</num>
           <heading>OBEDIENCE TO TRAFFIC-CONTROL DEVICES.</heading>
@@ -3964,10 +3994,11 @@
           <text>The Chairman, or his designee, shall maintain public notice signs at key ingress and egress points at the boundaries of the Tribe's Territory notifying the public that they are entering the Jurisdiction of the Tribe and subject to the laws of the Tribe.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>6</num>
-        <heading>: 	RIGHT-OF-WAY</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.060">6</num>
+        <heading>RIGHT-OF-WAY</heading>
         <para>
           <num>4.6.1</num>
           <heading>RIGHT-OF-WAY WHEN APPROACHING OR ENTERING INTERSECTIONS.</heading>
@@ -3991,10 +4022,11 @@
           <text>A vehicle attempting to enter or cross a public roadway from a private road or driveway shall yield the right-of-way to any vehicle or pedestrian on the public roadway.</text>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>7</num>
-        <heading>: 	DRIVING, OVERTAKING AND PASSING</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.070">7</num>
+        <heading>DRIVING, OVERTAKING AND PASSING</heading>
         <para>
           <num>4.7.1</num>
           <heading>OVERTAKING A VEHICLE ON THE LEFT.</heading>
@@ -4120,10 +4152,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>8</num>
-        <heading>: 	SIGNALS ON STARTING, TURNING AND STOPPING</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.080">8</num>
+        <heading>SIGNALS ON STARTING, TURNING AND STOPPING</heading>
         <para>
           <num>4.8.1</num>
           <heading>REQUIRED POSITION AND METHOD OF TURNING AT INTERSECTIONS.</heading>
@@ -4191,10 +4224,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>9</num>
-        <heading>: 	STANDING OR PARKING</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.090">9</num>
+        <heading>STANDING OR PARKING</heading>
         <para>
           <num>4.9.1</num>
           <heading>STOPPING, STANDING OR PARKING.</heading>
@@ -4282,10 +4316,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>10</num>
-        <heading>: 	PEDESTRIAN RIGHTS AND DUTIES</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.100">10</num>
+        <heading>PEDESTRIAN RIGHTS AND DUTIES</heading>
         <para>
           <num>4.10.1</num>
           <heading>PEDESTRIANS SUBJECT TO TRAFFIC REGULATIONS.</heading>
@@ -4383,10 +4418,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>11</num>
-        <heading>: 	OPERATION OF BICYCLES AND PLAY VEHICLES</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.110">11</num>
+        <heading>OPERATION OF BICYCLES AND PLAY VEHICLES</heading>
         <para>
           <num>4.11.1</num>
           <heading>APPLICATION OF PROVISIONS.</heading>
@@ -4441,10 +4477,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>12</num>
-        <heading>: 	MISCELLANEOUS PROVISIONS</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.120">12</num>
+        <heading>MISCELLANEOUS PROVISIONS</heading>
         <para>
           <num>4.12.1</num>
           <heading>RIDING ON MOTORCYCLES.</heading>
@@ -4519,10 +4556,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>13</num>
-        <heading>: 	EQUIPMENT</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.130">13</num>
+        <heading>EQUIPMENT</heading>
         <para>
           <num>4.13.1</num>
           <heading>GENERAL APPLICABILITY.</heading>
@@ -5211,10 +5249,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>14</num>
-        <heading>: 	WEIGHT AND SIZE LIMITATIONS</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.140">14</num>
+        <heading>WEIGHT AND SIZE LIMITATIONS</heading>
         <para>
           <num>4.14.1</num>
           <heading>SCOPE AND EFFECT OF ARTICLE.</heading>
@@ -5290,10 +5329,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>15</num>
-        <heading>: 	CRIMINAL OFFENSES</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.150">15</num>
+        <heading>CRIMINAL OFFENSES</heading>
         <para>
           <num>4.15.1</num>
           <heading>OBEDIENCE TO POLICE OFFICERS.</heading>
@@ -5488,10 +5528,11 @@
           </para>
         </para>
       </container>
-      <container>
-        <prefix>Chapter</prefix>
-        <num>16</num>
-        <heading>: 	PROCEDURE FOR THE TRAFFIC COURT</heading>
+      <container codify:tag="section">
+        <codify:insert renumber-paras="true"/>
+        <prefix codify:value="">Chapter</prefix>
+        <num codify:value="8.01.160">16</num>
+        <heading>PROCEDURE FOR THE TRAFFIC COURT</heading>
         <para>
           <num>4.16.1</num>
           <heading>WHEN ARRESTEE TO BE GIVEN NOTICE TO APPEAR IN COURT.</heading>
@@ -5556,7 +5597,7 @@
     <section>
       <num>1.</num>
       <heading>Title</heading>
-      <text><cite path="attachments|law">This Act</cite> may be known and cited as the "Peacemaking Act".</text>
+      <text><cite path="attachments|Peacemaking Act">This Act</cite> may be known and cited as the "Peacemaking Act".</text>
     </section>
     <section>
       <num>2.</num>
@@ -5571,11 +5612,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Any ambiguity in <cite path="attachments|law">this act</cite> shall be liberally construed to carry out its purpose of encouraging traditional Kiowa methods of dispute resolution without formal court proceedings.</text>
+        <text>Any ambiguity in <cite path="attachments|Peacemaking Act">this act</cite> shall be liberally construed to carry out its purpose of encouraging traditional Kiowa methods of dispute resolution without formal court proceedings.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>The District Court of the Kiowa Tribe of Oklahoma shall have the authority to assign cases to and supervise the activities of any peacemaker appointed pursuant to <cite path="attachments|law">this act</cite>.</text>
+        <text>The District Court of the Kiowa Tribe of Oklahoma shall have the authority to assign cases to and supervise the activities of any peacemaker appointed pursuant to <cite path="attachments|Peacemaking Act">this act</cite>.</text>
       </para>
     </section>
     <section>
@@ -5598,7 +5639,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>be familiar with the provisions of <cite path="attachments|law">this act</cite>, the court procedures of the Kiowa Tribe of Oklahoma and federal law applicable to the Kiowa Tribe of Oklahoma;</text>
+          <text>be familiar with the provisions of <cite path="attachments|Peacemaking Act">this act</cite>, the court procedures of the Kiowa Tribe of Oklahoma and federal law applicable to the Kiowa Tribe of Oklahoma;</text>
         </para>
         <para>
           <num>5.</num>
@@ -5732,11 +5773,11 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Notwithstanding any other provision of <cite path="attachments|law">this chapter</cite>, the peacemaker or the district court may enter an order referring any matter before a peacemaker back to the district court if the parties have not reached an agreement resolving the matter after sixty (60) days have lapsed from the date of the order from the district court referring the matter to the peacemaker.</text>
+        <text>Notwithstanding any other provision of <cite path="attachments|Peacemaking Act">this chapter</cite>, the peacemaker or the district court may enter an order referring any matter before a peacemaker back to the district court if the parties have not reached an agreement resolving the matter after sixty (60) days have lapsed from the date of the order from the district court referring the matter to the peacemaker.</text>
       </para>
       <para>
         <num>H.</num>
-        <text>Notwithstanding any other provision of <cite path="attachments|law">this act</cite>, a case may not be referred to a peacemaker more than one (1) time by the district court unless all of the parties in the case consent.</text>
+        <text>Notwithstanding any other provision of <cite path="attachments|Peacemaking Act">this act</cite>, a case may not be referred to a peacemaker more than one (1) time by the district court unless all of the parties in the case consent.</text>
       </para>
     </section>
     <section>
@@ -5786,7 +5827,7 @@
     <section>
       <num>13.</num>
       <heading>Enforcement of orders</heading>
-      <text>An order entered pursuant to <cite path="attachments|law">this act</cite> shall be enforceable in the same manner as other orders of the District Court of the Kiowa Tribe of Oklahoma.</text>
+      <text>An order entered pursuant to <cite path="attachments|Peacemaking Act">this act</cite> shall be enforceable in the same manner as other orders of the District Court of the Kiowa Tribe of Oklahoma.</text>
     </section>
     <section>
       <num>14.</num>
@@ -5830,7 +5871,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>conduct by the peacemaker in violation of <cite path="attachments|law|15.">Section 15 </cite>of <cite path="attachments|law">this act</cite>;</text>
+          <text>conduct by the peacemaker in violation of <cite path="attachments|Peacemaking Act|15.">Section 15 </cite>of <cite path="attachments|Peacemaking Act">this act</cite>;</text>
         </para>
         <para>
           <num>5.</num>
