@@ -27,11 +27,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text> this Code shall be known as the "Audit Authorization, Acceptance, and Responsibility Act"; and,</text>
+      <text><cite path="">this Code</cite> shall be known as the "Audit Authorization, Acceptance, and Responsibility Act"; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text> this Code is enacted to conduct an annual financial audit by an independent auditor as in accordance with the Kiowa Tribe Constitution; and</text>
+      <text><cite path="">this Code</cite> is enacted to conduct an annual financial audit by an independent auditor as in accordance with the Kiowa Tribe Constitution; and</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE BE IT RESOLVED,</conjunction>
@@ -284,12 +284,12 @@
     <section>
       <num>1.0</num>
       <heading>Short Title.</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
+        <text><cite path="attachments|law">This enactment</cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
     </section>
     <section>
       <num>1.1</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to:</text>
+        <text>The purpose of <cite path="attachments|law">this Act</cite> is to:</text>
       <para>
         <num>(a)</num>
         <text>Authorize and direct the Chairman to complete an external financial audit of the Tribe in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>; and</text>
