@@ -294,149 +294,147 @@
       </table>
     </text>
   </procedural-data>
-  <attachment id="law">
-    <section>
-      <num>1.1</num>
-      <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Kiowa Tribe Sponsorship Act of 2023".</text>
-    </section>
-    <section>
-      <num>1.2</num>
-      <heading>Purpose</heading>
-      <text>The purpose of the Act is to determine the processes and procedures for such sponsorships.</text>
-    </section>
-    <section>
-      <num>1.3</num>
-      <heading>Findings</heading>
-      <text>The Legislature hereby finds and declares that:</text>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "Kiowa Tribe Sponsorship Act of 2023".</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of the Act is to determine the processes and procedures for such sponsorships.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <text>The Legislature hereby finds and declares that:</text>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature shall determine if it feasible to allocate funding for sponsorships through an Annual Budget, and budget modifications, for the Tribe, subject to approval by the tribal voters.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Tribal Chairman, up to $10,000, for the following Kiowa Tribal Ceremonial Societies and Groups.</text>
       <para>
-        <num>(a)</num>
-        <text>The Legislature shall determine if it feasible to allocate funding for sponsorships through an Annual Budget, and budget modifications, for the Tribe, subject to approval by the tribal voters.</text>
+        <num>1.</num>
+        <text>Tohn-Kohn-Gaw</text>
       </para>
       <para>
-        <num>(b)</num>
-        <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Tribal Chairman, up to $10,000, for the following Kiowa Tribal Ceremonial Societies and Groups.</text>
-        <para>
-          <num>1.</num>
-          <text>Tohn-Kohn-Gaw</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>Kiowa O-Ho-Mah Lodge</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>Kiowa Gourd Clan</text>
-        </para>
-        <para>
-          <num>4.</num>
-          <text>Kiowa Tia-Piah Society</text>
-        </para>
-        <para>
-          <num>5.</num>
-          <text>Tia-piah Society of Oklahoma</text>
-        </para>
-        <para>
-          <num>6.</num>
-          <text>Crow/Kiowa Handgame Visitations for Oklahoma and Montana</text>
-        </para>
+        <num>2.</num>
+        <text>Kiowa O-Ho-Mah Lodge</text>
       </para>
       <para>
-        <num>(c)</num>
-        <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Chairman, up to $5,000 for Kiowa Churches. The funding for annual Christmas activities shall be limited to $750.00. Additional Churches requesting sponsorship from the Kiowa Tribe shall have been founded in the Kiowa Reservation Jurisdiction and must have documentation that the founding members of the church were enrolled Kiowa citizens.</text>
-        <para>
-          <num>1.</num>
-          <text>Botone Memorial United Methodist Church</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>Cache Creek United Methodist Church</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>Cedar Creek United Methodist Church</text>
-        </para>
-        <para>
-          <num>4.</num>
-          <text>Christ Our Savior Pentecostal Church, Anadarko</text>
-        </para>
-        <para>
-          <num>5.</num>
-          <text>Kiowa Indian Mission Church, Carnegie OK (Former Names of the Church - Faith Nations; Pentecostal Church of God Indian Mission – White Church)</text>
-        </para>
-        <para>
-          <num>6.</num>
-          <text>First American Baptist Church, Hobart</text>
-        </para>
-        <para>
-          <num>7.</num>
-          <text>Hobart Indian Mission, 828 S. Monroe, Hobart Oklahoma</text>
-        </para>
-        <para>
-          <num>8.</num>
-          <text>Hunting Horse United Methodist Church, Lawton, OK</text>
-        </para>
-        <para>
-          <num>9.</num>
-          <text>Indian Capital Baptist Church, Anadarko, OK</text>
-        </para>
-        <para>
-          <num>10.</num>
-          <text>JJ Methvin United Methodist Church, Anadarko, OK</text>
-        </para>
-        <para>
-          <num>11.</num>
-          <text>Lil Red Church, Carnegie, OK</text>
-        </para>
-        <para>
-          <num>12.</num>
-          <text>Mt. Scott United Methodist Church, Meers/Mt. Scott, OK</text>
-        </para>
-        <para>
-          <num>13.</num>
-          <text>Kiowa Chapter of Native American Church</text>
-        </para>
-        <para>
-          <num>14.</num>
-          <text>Rainy Mountain Kiowa Indian Baptist Church, Mountain View, OK</text>
-        </para>
-        <para>
-          <num>15.</num>
-          <text>Redstone Baptist Church, Anadarko, OK</text>
-        </para>
-        <para>
-          <num>16.</num>
-          <text>Saddle Mountain Kiowa Indian Baptist Church</text>
-        </para>
-        <para>
-          <num>17.</num>
-          <text>Victory Assembly of God, Anadarko, OK</text>
-        </para>
-        <para>
-          <num>18.</num>
-          <text>Ware's Chapel United Methodist Church, Hog Creek, OK</text>
-        </para>
-        <para>
-          <num>19.</num>
-          <text>Washita Full Gospel Church, Anadarko, OK</text>
-        </para>
+        <num>3.</num>
+        <text>Kiowa Gourd Clan</text>
       </para>
       <para>
-        <num>(d)</num>
-        <text>The Legislature determines that the following list may apply for sponsorship, if funds are available in an approved annual budget or budget modification.</text>
-        <para>
-          <num>1.</num>
-          <text>Kiowa Tribal Cultural Organizations	$1,000</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>Other Kiowa Tribal events &amp; etc. 	$1,000</text>
-        </para>
+        <num>4.</num>
+        <text>Kiowa Tia-Piah Society</text>
       </para>
       <para>
-        <num>(e)</num>
-        <text>The Chairman shall setup an application process and submit to the Legislature, a quarterly report of all approved sponsorships. Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+        <num>5.</num>
+        <text>Tia-piah Society of Oklahoma</text>
       </para>
-    </section>
-  </attachment>
+      <para>
+        <num>6.</num>
+        <text>Crow/Kiowa Handgame Visitations for Oklahoma and Montana</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Chairman, up to $5,000 for Kiowa Churches. The funding for annual Christmas activities shall be limited to $750.00. Additional Churches requesting sponsorship from the Kiowa Tribe shall have been founded in the Kiowa Reservation Jurisdiction and must have documentation that the founding members of the church were enrolled Kiowa citizens.</text>
+      <para>
+        <num>1.</num>
+        <text>Botone Memorial United Methodist Church</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Cache Creek United Methodist Church</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Cedar Creek United Methodist Church</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Christ Our Savior Pentecostal Church, Anadarko</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Kiowa Indian Mission Church, Carnegie OK (Former Names of the Church - Faith Nations; Pentecostal Church of God Indian Mission – White Church)</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>First American Baptist Church, Hobart</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Hobart Indian Mission, 828 S. Monroe, Hobart Oklahoma</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Hunting Horse United Methodist Church, Lawton, OK</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Indian Capital Baptist Church, Anadarko, OK</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>JJ Methvin United Methodist Church, Anadarko, OK</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Lil Red Church, Carnegie, OK</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Mt. Scott United Methodist Church, Meers/Mt. Scott, OK</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Kiowa Chapter of Native American Church</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>Rainy Mountain Kiowa Indian Baptist Church, Mountain View, OK</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>Redstone Baptist Church, Anadarko, OK</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>Saddle Mountain Kiowa Indian Baptist Church</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>Victory Assembly of God, Anadarko, OK</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>Ware's Chapel United Methodist Church, Hog Creek, OK</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>Washita Full Gospel Church, Anadarko, OK</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Legislature determines that the following list may apply for sponsorship, if funds are available in an approved annual budget or budget modification.</text>
+      <para>
+        <num>1.</num>
+        <text>Kiowa Tribal Cultural Organizations	$1,000</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Other Kiowa Tribal events &amp; etc. 	$1,000</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Chairman shall setup an application process and submit to the Legislature, a quarterly report of all approved sponsorships. Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+    </para>
+  </section>
 </document>
