@@ -218,37 +218,32 @@
     <text>Rhonda J. Ahhaitty</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
-  <attachment id="law">
-    <section>
-      <num>1.1</num>
-      <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "First Amendment to the Kiowa Casino Operations Authority Charter".</text>
-    </section>
-    <section>
-      <num>1.2</num>
-      <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish stronger standards of ethics and conduct for Members of the Board of Trustees ("Trustees") of the Kiowa Casino Operations Authority ("KCOA").</text>
-    </section>
-    <section>
-      <num>1.3</num>
-      <heading>Findings</heading>
-      <para>
-        <num>(a)</num>
-        <text>The Legislature has enacted and approved a Charter to establish and govern the KCOA to operate and manage the Tribe's profitable gaming businesses.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Legislature has determined that it is in the best interests of the Tribe to establish the highest standards of ethics and conduct for Trustees of the KCOA in order to demonstrate the Tribe's commitment to operating its casinos with the highest degree of financial and business integrity and professionalism.</text>
-      </para>
-    </section>
-    <section>
-      <num>1.4</num>
-      <heading>Qualifications of Trustees</heading>
-      <section>
-        <num>13.4</num>
-        <heading>of the Sixth Amended and Restated Charter of the Kiowa Casino Operations Authority shall be amended by adding subsections "(f), (g), (h), and (i)" at the end of the Section as follows:</heading>
-        <text><u>Qualification of Trustees</u>. All trustees of the Authority shall be natural persons of at least thirty (30) years of age who (1) have earned a four (4) year degree from an accredited United States college or university, or (2) have at least two (2) years of college education and five (5) years of management or supervisory experience in gaming or resort related businesses. A majority of the Trustees shall be enrolled members of the Tribe. All of the Trustees shall be Native Americans who are enrolled members of a federally recognized Indian Tribe. No person shall be eligible to serve as a trustee who (a) is found to be unsuitable for a trustee's license or other license issuable by the Commission pursuant to the Ordinance; (b) has been convicted of a felony or any crime of moral turpitude by federal, state or tribal authorities; (c) holds any elected office of the Tribe; (d) is otherwise an employee of the Tribe; (e) has been recalled or removed for cause from elected or appointed office of the Tribe, the Authority or the Commission; (f) has been convicted of any crime involving a financial transaction or business transaction; (g) has had a professional license suspended or revoked based on a disciplinary proceeding; (h) has failed to pay applicable federal or state taxes in a timely manner within the last twenty years; or (i) has a poor credit history including any default on credit obligations, foreclosures, or bankruptcies within the last ten years.</text>
-      </section>
-    </section>
-  </attachment>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "First Amendment to the Kiowa Casino Operations Authority Charter".</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of <cite path="">this Act</cite> is to establish stronger standards of ethics and conduct for Members of the Board of Trustees ("Trustees") of the Kiowa Casino Operations Authority ("KCOA").</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature has enacted and approved a Charter to establish and govern the KCOA to operate and manage the Tribe's profitable gaming businesses.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Legislature has determined that it is in the best interests of the Tribe to establish the highest standards of ethics and conduct for Trustees of the KCOA in order to demonstrate the Tribe's commitment to operating its casinos with the highest degree of financial and business integrity and professionalism.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Qualifications of Trustees</heading>
+    <text>Section 13.4 of the Sixth Amended and Restated Charter of the Kiowa Casino Operations Authority shall be amended by adding subsections "(f), (g), (h), and (i)" at the end of the Section as follows:</text>
+    <text><u>Qualification of Trustees</u>. All trustees of the Authority shall be natural persons of at least thirty (30) years of age who (1) have earned a four (4) year degree from an accredited United States college or university, or (2) have at least two (2) years of college education and five (5) years of management or supervisory experience in gaming or resort related businesses. A majority of the Trustees shall be enrolled members of the Tribe. All of the Trustees shall be Native Americans who are enrolled members of a federally recognized Indian Tribe. No person shall be eligible to serve as a trustee who (a) is found to be unsuitable for a trustee's license or other license issuable by the Commission pursuant to the Ordinance; (b) has been convicted of a felony or any crime of moral turpitude by federal, state or tribal authorities; (c) holds any elected office of the Tribe; (d) is otherwise an employee of the Tribe; (e) has been recalled or removed for cause from elected or appointed office of the Tribe, the Authority or the Commission; (f) has been convicted of any crime involving a financial transaction or business transaction; (g) has had a professional license suspended or revoked based on a disciplinary proceeding; (h) has failed to pay applicable federal or state taxes in a timely manner within the last twenty years; or (i) has a poor credit history including any default on credit obligations, foreclosures, or bankruptcies within the last ten years.</text>
+  </section>
 </document>
