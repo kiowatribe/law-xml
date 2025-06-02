@@ -329,6 +329,7 @@
     <text>If any provision(s) of this law are declared invalid by the Judicial Branch, the invalid provision(s) shall be severed, and the remaining provisions shall continue in full force and effect.</text>
   </section>
   <attachment id="law">
+    <codified:at path="1.03"/>
     <text class="center">
       <strong>KIOWA TRIBE ELECTION LAW OF 2022</strong>
     </text>
@@ -336,16 +337,22 @@
       <strong>KIOWA TRIBE ELECTION LAW OF 2022</strong>
     </text>
     <section>
-      <num>1.</num>
-      <text>Authority 	This election ordinance is established by the Election Commission of the Kiowa Tribe under authority delegated to it by Article IX, Sec 3. (a) of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.010">1.</num>
+      <heading>Authority</heading>
+      <text>This election ordinance is established by the Election Commission of the Kiowa Tribe under authority delegated to it by Article IX, Sec 3. (a) of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     </section>
     <section>
-      <num>2.</num>
-      <text>Purpose 	The intent and purpose of this ordinance is to establish procedures for free and fair elections and to ensure the secrecy of the ballot and privacy of the voter in casting their ballot. The regulations and procedures contained in this ordinance shall be administered in such a way as to accomplish this purpose and intent. No mere informality in the manner of carrying out or executing the provisions of this ordinance shall invalidate this Ordinance or any election held under it. Substantial compliance shall be recognized as adequate.</text>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.020">2.</num>
+      <heading>Purpose</heading>
+      <text>The intent and purpose of this ordinance is to establish procedures for free and fair elections and to ensure the secrecy of the ballot and privacy of the voter in casting their ballot. The regulations and procedures contained in this ordinance shall be administered in such a way as to accomplish this purpose and intent. No mere informality in the manner of carrying out or executing the provisions of this ordinance shall invalidate this Ordinance or any election held under it. Substantial compliance shall be recognized as adequate.</text>
     </section>
     <section>
-      <num>3.</num>
-      <text>Definitions 	For the purposes of this Ordinance the following definitions shall be applied to the terms or words found within this Ordinance.</text>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.030">3.</num>
+      <heading>Definitions</heading>
+      <text>For the purposes of this Ordinance the following definitions shall be applied to the terms or words found within this Ordinance.</text>
       <text><strong>Absentee Voter</strong> - An eligible voter who has requested an Absentee Ballot in accordance with the provisions of this Ordinance in an election where Absentee balloting is provided.</text>
       <text><strong>Conflict of Interest</strong> - When a member of the Commission or a Poll Official has a legal or familial relationship to a candidate for office. Such relationships are defined as Mother, Grandmother, Father, Grandfather, Sister, Brother, Wife, Husband, and those sharing a domicile or residence including those related by civil union or common law marriage. A conflict of interest shall also exist if a Commissioner or Poll Official is in the employ of a candidate or of a business entity that would be affected by the passage or defeat of any referendum question placed on a ballot.</text>
       <text><strong>Election Commission</strong> - The Election Commission of the Kiowa Tribe as established by <cite doc="Constitution of the Kiowa Tribe">Article IX Section 3</cite>. (a)(b) of the Kiowa Constitution.</text>
@@ -361,7 +368,8 @@
       <text><strong>Vote by Mail Ballot</strong> - A ballot that has been issued by mail to an Eligible voter under the provisions of this Ordinance and the Right of Kiowa Voters to Vote by Mail Act.</text>
     </section>
     <section>
-      <num>4.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.040">4.</num>
       <heading>Election Commission</heading>
       <para>
         <num>4-a</num>
@@ -460,7 +468,8 @@
       </para>
     </section>
     <section>
-      <num>5.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.050">5.</num>
       <heading>Types of Election</heading>
       <para>
         <num>5-a</num>
@@ -484,7 +493,8 @@
       </para>
     </section>
     <section>
-      <num>6.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.060">6.</num>
       <heading>Voter Qualifications</heading>
       <para>
         <num>6-a</num>
@@ -532,7 +542,8 @@
       </para>
     </section>
     <section>
-      <num>7.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.070">7.</num>
       <heading>Candidate Qualifications</heading>
       <para>
         <num>7-a</num>
@@ -596,7 +607,8 @@
       </para>
     </section>
     <section>
-      <num>8.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.080">8.</num>
       <heading>Ballots</heading>
       <para>
         <num>8-a</num>
@@ -677,7 +689,8 @@
       </para>
     </section>
     <section>
-      <num>9.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.090">9.</num>
       <heading>Manner of Requesting and Issuing Absentee Ballots</heading>
       <text>Upon receipt of a valid Voter Information/ Registration Form, the Election Commission shall cause to be issued an Absentee Ballot Packet containing the materials prescribed in <cite path="attachments|law|7.|7-a">Section 7-a </cite>below. The Election Commission shall cause to be maintained an Absentee Voter Register or its equivalent to document the mailing, return, and disposition of each Absentee Ballot. This Absentee Voter Register or equivalent system shall be utilized to ensure that there is an audit trail available for each Absentee Ballot transaction.</text>
       <para>
@@ -763,7 +776,8 @@
       </para>
     </section>
     <section>
-      <num>10.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.100">10.</num>
       <heading>Duties of Poll Officials and Voters</heading>
       <text>There shall be not less than two (2) poll officials assigned to each polling site. The poll officials will be responsible for all arrangements including availability of ballots and other election materials necessary to conduct balloting at their designated polling place. They shall also provide sufficient private booths or other places for the voters to mark their ballots in secrecy. The polling site election officials shall be present at the designated polling place on election day in time to permit voting to begin when the polls open and shall remain until the polls close, all ballots have been counted, the tally properly recorded and reported, and the ballot boxes and the ballots turned over for delivery to the Election Commission as provided in this ordinance.</text>
       <text>All elections shall be held on Saturday, and polls shall be open between the hours of 9:00 a.m. and 5:00 p.m.</text>
@@ -781,7 +795,8 @@
       <text>Any persons waiting in line to vote at closing time shall be permitted to vote, but those presenting themselves after the closing of the polls shall not be permitted to vote.</text>
     </section>
     <section>
-      <num>11.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.110">11.</num>
       <heading>Handling of Special Circumstances</heading>
       <para>
         <num>11-a</num>
@@ -795,7 +810,8 @@
       </para>
     </section>
     <section>
-      <num>12.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.120">12.</num>
       <heading>Canvass of Election Results</heading>
       <para>
         <num>12-a</num>
@@ -847,7 +863,8 @@
       </para>
     </section>
     <section>
-      <num>13.</num>
+      <codify:insert renumber-paras="true"/>
+      <num codify:value="1.03.130">13.</num>
       <heading>Contest of Election Results</heading>
       <para>
         <num>13-a</num>
