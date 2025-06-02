@@ -1988,16 +1988,19 @@
       <num>III</num>
       <heading>CRIMINAL CODE</heading>
       <container>
+        <codified:at path="13.01"/>
         <prefix>Chapter</prefix>
         <num>1</num>
         <heading>GENERAL PROVISIONS</heading>
-        <para>
-          <num>3.1.1</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.010">3.1.1</num>
           <heading>SHORT TITLE.</heading>
           <text><cite path="attachments|law|III">This title</cite> may be known and cited as the "Kiowa Criminal Code".</text>
         </para>
-        <para>
-          <num>3.1.2</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.020">3.1.2</num>
           <heading>PURPOSE.</heading>
           <text>The public policy of the Kiowa Tribe and the general purposes of the provisions of <cite path="attachments|law">this Code</cite> are:</text>
           <para>
@@ -2033,18 +2036,20 @@
             <text>To promote truth and accountability in sentencing.</text>
           </para>
         </para>
-        <para>
-          <num>3.1.3</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.030">3.1.3</num>
           <heading>EFFECTIVE DATE.</heading>
           <text><cite path="attachments|law">This Code</cite> shall become effective upon its adoption into law.</text>
         </para>
-        <para>
-          <num>3.1.4</num>
+        <para codify:tag="section">
+          <num codify:value="13.01.040">3.1.4</num>
           <heading>SEVERABILITY.</heading>
           <text>If any portion of <cite path="attachments|law">this Code</cite> is held invalid by a court of law, that portion shall be stricken and shall cease to be operative, while the remainder of <cite path="attachments|law">this Code</cite> shall survive and remain in full force and effect.</text>
         </para>
-        <para>
-          <num>3.1.5</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.050">3.1.5</num>
           <heading>APPLICABILITY OF CODE.</heading>
           <para>
             <num>A.</num>
@@ -2067,13 +2072,15 @@
             <text>Except as otherwise expressly provided, or unless the context otherwise requires, the provisions of <cite path="attachments|law">this Code</cite> shall govern the construction and punishment of any offense defined outside <cite path="attachments|law|III">this title</cite>.</text>
           </para>
         </para>
-        <para>
-          <num>3.1.6</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.060">3.1.6</num>
           <heading>RULE OF CONSTRUCTION.</heading>
           <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law">this code</cite>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <cite path="attachments|law|III|1|3.1.2">Section 3.1.2</cite>.</text>
         </para>
-        <para>
-          <num>3.1.7</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.070">3.1.7</num>
           <heading>JURISDICTION.</heading>
           <para>
             <num>A.</num>
@@ -2096,13 +2103,15 @@
             <text>The Kiowa Tribe reserves the right to prosecute a person for any violation of <cite path="attachments|law">this Code</cite>, regardless of whether the person has previously been prosecuted for the same conduct, or is concurrently being prosecuted for the same conduct, in a court of the United States, a court of any State, or a court of any other tribal jurisdiction.</text>
           </para>
         </para>
-        <para>
-          <num>3.1.8</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.080">3.1.8</num>
           <heading>SOVEREIGN IMMUNITY.</heading>
           <text>Nothing in <cite path="attachments|law">this Code</cite> shall be construed as a waiver, in whole or in part, of the sovereign immunity of the Kiowa Tribe.</text>
         </para>
-        <para>
-          <num>3.1.9</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.090">3.1.9</num>
           <heading>DEFINITION OF TERMS.</heading>
           <text>In <cite path="attachments|law">this Code</cite>, unless the context or subject matter otherwise requires:</text>
           <para>
@@ -2275,8 +2284,9 @@
             <text>"Voluntary intoxication" means intoxication caused by the knowing use of drugs, toxic vapors or alcoholic beverages by a person, unless the person introduces them pursuant to medical advice or under such duress as would afford a defense to an offense.</text>
           </para>
         </para>
-        <para>
-          <num>3.1.10</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.100">3.1.10</num>
           <heading>TIME LIMITATIONS.</heading>
           <para>
             <num>A.</num>
@@ -2311,8 +2321,9 @@
             <text>The period of limitation does not run during any time in which an accused is absent from the Territory or has no reasonably ascertainable place of abode within the Territory subsequent to being charged with the offense.</text>
           </para>
         </para>
-        <para>
-          <num>3.1.11</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.01.110">3.1.11</num>
           <heading>SPEEDY TRIAL; COUNSEL; WITNESSES AND CONFRONTATION.</heading>
           <text>In a criminal action alleging an offense the defendant is entitled to the following:</text>
           <para>
@@ -2330,16 +2341,19 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.02"/>
         <prefix>Chapter</prefix>
         <num>2</num>
         <heading>DETERMINING APPLICABLE MENTAL STATES</heading>
-        <para>
-          <num>3.2.1</num>
+        <para codify:tag="section">
+          <codify:insert/>
+          <num codify:value="13.02.010">3.2.1</num>
           <heading>GENERAL RULE.</heading>
           <text>Provisions herein must be construed according to the fair meaning of their terms in order to promote justice and effect the objects of the law.</text>
         </para>
-        <para>
-          <num>3.2.2</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.02.020">3.2.2</num>
           <heading>APPLICABLE MENTAL STATES.</heading>
           <text>In <cite path="attachments|law">this Code</cite>, unless the context or subject matter otherwise requires:</text>
           <para>
@@ -2359,18 +2373,21 @@
             <text>"Negligence," "criminal negligence" or "negligently" means that a person fails to perceive a substantial and unjustifiable risk that a fact exists or that a particular result will occur. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the same situation.</text>
           </para>
         </para>
-        <para>
-          <num>3.2.3</num>
+        <para codify:tag="section">
+          <codify:insert/>
+          <num codify:value="13.02.030">3.2.3</num>
           <heading>INTOXICATION.</heading>
           <text>No act committed by a person while in a state of voluntary intoxication is less criminal by reason of having been in such condition. Voluntary intoxication shall not be a defense and shall not be allowed as a reason why a person did not have the applicable mental state for an offense.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.03"/>
         <prefix>Chapter</prefix>
         <num>3</num>
         <heading>DEFENSES</heading>
-        <para>
-          <num>3.3.1</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.03.010">3.3.1</num>
           <heading>SELF-DEFENSE.</heading>
           <para>
             <num>A.</num>
@@ -2401,34 +2418,40 @@
             <text>The use of physical force against another is not justified in response to verbal provocation alone, or to resist an arrest, whether lawful or unlawful, unless the physical force used by the arresting officer exceeds that allowed by law.</text>
           </para>
         </para>
-        <para>
-          <num>3.3.2</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.03.020">3.3.2</num>
           <heading>DURESS.</heading>
           <text>Conduct which would otherwise constitute an offense is excused if a reasonable person would believe that he was compelled to engage in such conduct by the threat or use of immediate physical force against his person or against the person of another which a reasonable person in the same situation would not have resisted.</text>
           <text>This defense is unavailable if such person intentionally, knowingly or recklessly places himself in a situation in which duress was foreseeable and for offenses involving homicide or the infliction of serious physical injury.</text>
         </para>
-        <para>
-          <num>3.3.3</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.03.030">3.3.3</num>
           <heading>IMMATURITY.</heading>
           <text>A person less than twelve years old at the time of the conduct charged is not criminally responsible for that conduct unless there is clear proof that at the time of committing the conduct charged the person knew it was wrong.</text>
         </para>
-        <para>
-          <num>3.3.4</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.03.040">3.3.4</num>
           <heading>INSANITY.</heading>
           <text>A person is not responsible for criminal conduct by reason of insanity if, as a result of a mental disease or defect affecting the person at the time of such conduct, he or she lacks the substantial capacity to know the nature and quality of the act or, to know that what he or she was doing was wrong. The defendant shall prove he or she is not responsible for criminal conduct by reason of insanity by clear and convincing evidence.</text>
         </para>
-        <para>
-          <num>3.3.5</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.03.050">3.3.5</num>
           <heading>FORMER JEOPARDY OR ACQUITTAL.</heading>
           <text>Where a defendant is convicted or acquitted or has once been placed in jeopardy in the Trial Court, the conviction, acquittal or jeopardy is a bar to another indictment or information for the same offense under <cite path="attachments|law">this Code</cite>.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.04"/>
         <prefix>Chapter</prefix>
         <num>4</num>
         <heading>PENALTIES</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.010">1.</num>
           <heading>IMPRISONMENT AND FINES.</heading>
           <text>The Court may impose the following criminal penalties against a person who is convicted for violating <cite path="attachments|law">this Code</cite>:</text>
           <para>
@@ -2444,24 +2467,28 @@
             <text>A maximum of one year in custody and/or a fine of up to $5,000.00 upon conviction of any other single criminal offense;</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.020">2.</num>
           <heading>REPETITIVE OFFENDERS.</heading>
           <text>The Court may, at its discretion, sentence a person who has been previously convicted of the same offense, or a comparable offense by any jurisdiction in the United States, to one class higher than the sentence imposed in the previous conviction. Convictions for two or more offenses committed for the same act may be counted as one conviction for the purposes of <cite path="attachments|law|III|4|2.">this section</cite>.</text>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.030">3.</num>
           <heading>CONSECUTIVE TERMS OF IMPRISONMENT.</heading>
           <text>If multiple crimes are committed, and multiple sentences of imprisonment are imposed on a person at the same time, the Court may, at its discretion, direct the sentences to run consecutively.</text>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.040">4.</num>
           <heading>OTHER CRIMINAL PENALTIES.</heading>
           <text>In addition to, or in lieu of, the penalties set forth in <cite path="attachments|law|III|4|1.">Section 3.4.1</cite>, the Court may order restitution, diversion from criminal prosecution, community service, treatment, probation, parole, or suspension of sentence, unless a provision of <cite path="attachments|law">this Code</cite> provides otherwise with respect to a certain type of offense.</text>
           <text>The Court may substitute community service for a fine, upon a showing that the defendant is indigent or in the interest of justice.</text>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.050">5.</num>
           <heading>CIVIL DAMAGES.</heading>
           <para>
             <num>A.</num>
@@ -2476,18 +2503,21 @@
             <text>The Tribal Prosecutor is authorized to file civil actions on behalf of the Kiowa Tribe against any person who may be liable to the Kiowa Tribe for civil damages pursuant to subsection A of <cite path="attachments|law|III|4|5.">this Section</cite>.</text>
           </para>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.04.060">6.</num>
           <heading>KIOWA TRADITIONS, CUSTOMS AND PRACTICES.</heading>
           <text>The Court shall consider Kiowa traditions, customs and practices when imposing the penalties set forth in <cite path="attachments|law|III|4|6.">this section</cite>.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.05"/>
         <prefix>Chapter</prefix>
         <num>5</num>
         <heading>PREPARATORY OFFENSES AND ACCOMPLICE LIABILITY</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.05.010">1.</num>
           <heading>ATTEMPT.</heading>
           <para>
             <num>A.</num>
@@ -2498,8 +2528,9 @@
             <text>Factual or legal impossibility shall not be a defense to attempt.</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.05.020">2.</num>
           <heading>CONSPIRACY.</heading>
           <para>
             <num>A.</num>
@@ -2510,18 +2541,21 @@
             <text>It shall be a defense to prosecution under <cite path="attachments|law|III|5|2.">this Section</cite> that the defendant clearly ceased to agree with the conspiracy, took no further part in the conspiracy, and either communicated his or her desire to abandon the conspiracy to the authorities or took other action to thwart the conspiracy.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.05.030">3.</num>
           <heading>ACCOMPLICE LIABILITY.</heading>
           <text>A person is guilty of an offense committed by another person to the same extent as that other person if, with the intent that the offense be committed, he or she encourages the other person to commit the offense or provides the other person with the means or opportunity to commit the offense.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.06"/>
         <prefix>Chapter</prefix>
         <num>6</num>
         <heading>OFFENSES AGAINST THE FAMILY</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.010">1.</num>
           <heading>ENDANGERMENT OR ABANDONMENT OF A MINOR.</heading>
           <para>
             <num>A.</num>
@@ -2532,28 +2566,33 @@
             <text>A parent, guardian or other person who has assumed or been entrusted with the care of a minor, who intentionally abandons the minor with intent not to return, is guilty of a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.020">2.</num>
           <heading>CUSTODIAL INTERFERENCE.</heading>
           <text>A person who knowingly removes or entices a minor away from lawful custody without consent of the lawful custodian, when he or she has no privilege to do so, is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.030">3.</num>
           <heading>FAILURE TO PROVIDE SUPPORT.</heading>
           <text>A person who knowingly fails to support a spouse, child or other dependent, when he or she is legally required to provide such support, and is able to do so, is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.040">4.</num>
           <heading>CONTRIBUTING TO THE DELINQUENCY OF A MINOR.</heading>
           <text>An adult who knowingly causes or entices the delinquency of a minor is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.050">5.</num>
           <heading>FAILURE TO SEND CHILDREN TO SCHOOL.</heading>
           <text>A person who neglects or refuses, without good cause, to send his children or legal wards to school, is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.060">6.</num>
           <heading>BIGAMY.</heading>
           <para>
             <num>A.</num>
@@ -2568,8 +2607,9 @@
             <text>A person who marries another, knowing that such other person is already legally married, is guilty of bigamy, a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>7.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.070">7.</num>
           <heading>DOMESTIC VIOLENCE.</heading>
           <text>A person who commits assault, aggravated assault, endangerment, threatening, kidnapping, sexual assault, or sexual conduct with a minor is guilty of domestic violence, a felony, if any of the following factors are present:</text>
           <para>
@@ -2597,8 +2637,9 @@
             <text>The relationship between the victim and the defendant is currently or was previously an intimate relationship.</text>
           </para>
         </para>
-        <para>
-          <num>8.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.06.080">8.</num>
           <heading>STALKING.</heading>
           <para>
             <num>A.</num>
@@ -2627,11 +2668,13 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.07"/>
         <prefix>Chapter</prefix>
         <num>7</num>
         <heading>OFFENSES AGAINST PERSONS</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.010">1.</num>
           <heading>ASSAULT.</heading>
           <text>A person commits assault, a misdemeanor, by:</text>
           <para>
@@ -2647,8 +2690,9 @@
             <text>negligently causing physical injury to another person through the use of a deadly weapon.</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.020">2.</num>
           <heading>AGGRAVATED ASSAULT.</heading>
           <text>A person commits aggravated assault, a felony, by:</text>
           <para>
@@ -2668,8 +2712,9 @@
             <text>committing an assault on a tribal official, a tribally employed security officer, or a person age sixty-five (65) or older.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.030">3.</num>
           <heading>ENDANGERMENT.</heading>
           <para>
             <num>A.</num>
@@ -2680,8 +2725,9 @@
             <text>Endangerment involving a substantial risk of imminent death is a felony.</text>
           </para>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.040">4.</num>
           <heading>THREATENING.</heading>
           <text>A person commits this offense by threatening to commit any violent crime with the intent to:</text>
           <para>
@@ -2698,8 +2744,9 @@
           </para>
           <text>A person committing the offense of threatening is guilty of a misdemeanor, unless it is committed in retaliation for reporting criminal activity or being involved in an organization, other than a law enforcement agency, that is established for the purpose of reporting criminal activity, in which case it is a felony.</text>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.050">5.</num>
           <heading>ABUSE.</heading>
           <para>
             <num>A.</num>
@@ -2714,53 +2761,63 @@
             <text>In addition to the remedy in section A, an injured minor or vulnerable adult is entitled to all other available remedies.</text>
           </para>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.060">6.</num>
           <heading>KIDNAPPING.</heading>
           <text>A person who knowingly moves or detains another person against such person's will, or in the case of a minor without the consent of such person's lawful custodian, and without proper legal authority, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>7.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.070">7.</num>
           <heading>HOMICIDE.</heading>
           <text>Any person who unlawfully and intentionally, knowingly or recklessly causes the death of another person is guilty of a felony.</text>
         </para>
-        <para>
-          <num>8.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.080">8.</num>
           <heading>NEGLIGENT HOMICIDE.</heading>
           <text>Any person who, with criminal negligence, causes the death of another person is guilty of a felony.</text>
         </para>
-        <para>
-          <num>9.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.090">9.</num>
           <heading>ROBBERY.</heading>
           <text>A person who knowingly uses force or threatens to use force against another person with the intent to take the property of such person, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>10.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.100">10.</num>
           <heading>AGGRAVATED ROBBERY.</heading>
           <text>A person who, in the course of committing robbery, is aided by one or more accomplices actually present, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>11.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.07.110">11.</num>
           <heading>HARASSMENT.</heading>
           <text>A person commits a misdemeanor by persistently placing obscene or harassing telephone calls, or other electronic or Internet messages, with the intent to annoy, abuse, or threaten another person.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.08"/>
         <prefix>Chapter</prefix>
         <num>8</num>
         <heading>OFFENSES AGAINST PROPERTY</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.010">1.</num>
           <heading>BURGLARY.</heading>
           <text>A person who unlawfully enters or remains in any dwelling, other structure, or vehicle, with the intent to commit theft or any criminal offense under state law, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.020">2.</num>
           <heading>AGGRAVATED BURGLARY.</heading>
           <text>A person who commits burglary while possessing a deadly weapon or dangerous instrument, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.030">3.</num>
           <heading>TRESPASSING.</heading>
           <para>
             <num>1.</num>
@@ -2771,8 +2828,9 @@
             <text>It shall be a defense to trespassing that the person acted with legal authority or consent.</text>
           </para>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.040">4.</num>
           <heading>THEFT.</heading>
           <para>
             <num>A.</num>
@@ -2783,8 +2841,9 @@
             <text>Where the property or services taken are of a value of two thousand dollars or more the offense is a felony.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.050">5.</num>
           <heading>RECEIVING OR CONCEALING STOLEN PROPERTY.</heading>
           <para>
             <num>A.</num>
@@ -2795,8 +2854,9 @@
             <text>A person who receives or conceals property of another person, knowing the same to have been stolen, is guilty of a felony.</text>
           </para>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.060">6.</num>
           <heading>CRIMINAL DAMAGE TO PROPERTY.</heading>
           <para>
             <num>A.</num>
@@ -2807,8 +2867,9 @@
             <text>A person who commits criminal damage of property in an amount of five thousand dollars or more is guilty of a felony.</text>
           </para>
         </para>
-        <para>
-          <num>7.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.070">7.</num>
           <heading>CRIMINAL LITTERING OR POLLUTING OF PUBLIC PROPERTY.</heading>
           <para>
             <num>A.</num>
@@ -2823,8 +2884,9 @@
             <text>A person convicted under Subsections A or B will be required to remove or remedy the nuisance upon order of the Court in addition to any fines or other penalty imposed.</text>
           </para>
         </para>
-        <para>
-          <num>8.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.08.080">8.</num>
           <heading>BURNING.</heading>
           <para>
             <num>A.</num>
@@ -2837,16 +2899,19 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.09"/>
         <prefix>Chapter</prefix>
         <num>9</num>
         <heading>FRAUD &amp; RELATED OFFENSES</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.09.010">1.</num>
           <heading>FRAUD.</heading>
           <text>A person who obtains money, property or services by knowingly misrepresenting a material fact or by knowingly using false weights or measures or identity, is guilty of a misdemeanor. When the value of the money, property or services is $5,000 or more, the person is guilty of a felony.</text>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.09.020">2.</num>
           <heading>BRIBERY.</heading>
           <para>
             <num>A.</num>
@@ -2857,13 +2922,15 @@
             <text>Any elected or appointed official of the Tribe or other public servant who knowingly accepts or intentionally solicits a bribe, is guilty of a felony.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.09.030">3.</num>
           <heading>EXTORTION.</heading>
           <text>A person who intentionally obtains or seeks to obtain property, services, or other benefit by means of a threat to cause physical injury to persons or property; or to make allegations, whether true or false, which is likely to damage another's personal reputation or business associations is guilty of a felony.</text>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.09.040">4.</num>
           <heading>FORGERY.</heading>
           <text>The offense of forgery is a felony if, with intent to defraud, such person:</text>
           <para>
@@ -2879,23 +2946,27 @@
             <text>offers a forged instrument for execution, whether or not it is accepted.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.09.050">5.</num>
           <heading>ISSUANCE OF INSUFFICIENTLY FUNDED CHECKS.</heading>
           <text>A person who intentionally issues a check, draft, or other financial instrument with the intent to defraud and with the knowledge that the depository will not credit the full amount upon its presentation, is guilty of a misdemeanor.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.10"/>
         <prefix>Chapter</prefix>
         <num>10</num>
         <heading>SEXUAL OFFENSES AND RELATED OFFENSES</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.010">1.</num>
           <heading>ENTICEMENT OF A MINOR.</heading>
           <text>A person who forces, entices, or persuades a child under the age of sixteen to enter any building, vehicle, or secluded place with intent to engage in sexual acts, sexual contact or oral sexual acts with the minor, is guilty of a felony.</text>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.020">2.</num>
           <heading>SEXUAL ASSAULT.</heading>
           <para>
             <num>A.</num>
@@ -2922,13 +2993,15 @@
             <text>A person who engages in sexual acts or oral sexual acts with another person, without his or her consent, is guilty of aggravated sexual assault, a felony.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.030">3.</num>
           <heading>SEXUAL CONDUCT WITH A MINOR.</heading>
           <text>Any person who engages in sexual acts, sexual contact, including any oral sexual acts with a minor who is not his or her spouse is guilty of a felony.</text>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.040">4.</num>
           <heading>INDECENT EXPOSURE.</heading>
           <para>
             <num>A.</num>
@@ -2939,8 +3012,9 @@
             <text>A person who commits indecent exposure to a person who is under fifteen years of age is guilty of a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.050">5.</num>
           <heading>PROSTITUTION.</heading>
           <para>
             <num>A.</num>
@@ -2959,8 +3033,9 @@
             <text>A person who knowingly keeps, maintains, rents, or leases property for the purpose of prostitution is guilty of a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.10.060">6.</num>
           <heading>FAILURE TO REPORT CHILD ABUSE.</heading>
           <para>
             <num>A.</num>
@@ -3029,11 +3104,13 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.11"/>
         <prefix>Chapter</prefix>
         <num>11</num>
         <heading>OFFENSES INVOLVING WEAPONS AND EXPLOSIVES</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.11.010">1.</num>
           <heading>MISCONDUCT INVOLVING FIREARMS.</heading>
           <text>A person who knowingly discharges a firearm within three hundred (300) feet of any inhabited building or on any road or highway within the Territory, is guilty of a misdemeanor.</text>
           <para>
@@ -3047,11 +3124,13 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.12"/>
         <prefix>Chapter</prefix>
         <num>12</num>
         <heading>OFFENSES INVOLVING DOMESTICATED ANIMALS</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.12.010">1.</num>
           <heading>CRUELTY TO DOMESTICATED ANIMALS.</heading>
           <para>
             <num>A.</num>
@@ -3068,11 +3147,13 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.13"/>
         <prefix>Chapter</prefix>
         <num>13</num>
         <heading>OFFENSES AGAINST PUBLIC PEACE, ORDER, WELFARE AND ADMINISTRATION</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.13.010">1.</num>
           <heading>CURFEW VIOLATIONS.</heading>
           <para>
             <num>A.</num>
@@ -3095,8 +3176,9 @@
             <text>A lawful custodian who intentionally fails to enforce the curfew schedule is guilty of a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.13.020">2.</num>
           <heading>DISORDERLY CONDUCT.</heading>
           <text>A person commits a misdemeanor if, with the intent to disturb the peace and quiet of a community, family or person, he or she:</text>
           <para>
@@ -3116,8 +3198,9 @@
             <text>recklessly handles, displays or discharges a deadly weapon or dangerous instrument.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.13.030">3.</num>
           <heading>DISRUPTING MEETINGS, PROCESSIONS AND CEREMONIES.</heading>
           <para>
             <num>A.</num>
@@ -3128,8 +3211,9 @@
             <text>For purposes of <cite path="attachments|law|III|13|3.">this section</cite>, a person will be considered to have made an "unreasonable disruption" if he or she attends a lawful meeting, procession, ceremony or public gathering while under the influence of alcohol, marijuana or a controlled substance.</text>
           </para>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.13.040">4.</num>
           <heading>DISRUPTING RELIGIOUS CEREMONIES.</heading>
           <para>
             <num>A.</num>
@@ -3144,23 +3228,27 @@
             <text>A person who has been previously convicted under <cite path="attachments|law|III|13|4.">this section</cite> and makes an unreasonable disruption is guilty of a felony.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.13.050">5.</num>
           <heading>RIOT.</heading>
           <text>A person who intentionally, knowingly or recklessly induces two or more persons to use force or violence to disturb the public peace, or to create an imminent threat of disturbance while ignoring a lawful demand to vacate the premises, is guilty of a misdemeanor.</text>
         </para>
       </container>
       <container>
+        <codified:at path="13.14"/>
         <prefix>Chapter</prefix>
         <num>14</num>
         <heading>INTERFERING WITH ADMINISTRATION OF JUSTICE</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.010">1.</num>
           <heading>IMPERSONATION OF A PUBLIC OFFICIAL.</heading>
           <text>A person who intentionally impersonates a law enforcement officer or other public official is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.020">2.</num>
           <heading>ESCAPE.</heading>
           <para>
             <num>A.</num>
@@ -3171,8 +3259,9 @@
             <text>For purposes of <cite path="attachments|law|III|14|2.">this section</cite> "official detention" means detention in any facility for custody of persons under charge or conviction of a crime, or any other detention for law enforcement purposes.</text>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.030">3.</num>
           <heading>HINDERING APPREHENSION OR PROSECUTION.</heading>
           <text>A person commits a misdemeanor if, with the intent to hinder the apprehension, prosecution, conviction or punishment of another person for a crime, he or she:</text>
           <para>
@@ -3196,8 +3285,9 @@
             <text>volunteers false information to a law enforcement officer.</text>
           </para>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.040">4.</num>
           <heading>GIVING FALSE INFORMATION TO AN OFFICER.</heading>
           <para>
             <num>A.</num>
@@ -3208,13 +3298,15 @@
             <text>A person who intentionally causes the unlawful arrest, detention or imprisonment of another person is guilty of a misdemeanor.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.050">5.</num>
           <heading>CONTEMPT OF COURT.</heading>
           <text>A person who intentionally disobeys a lawful order, process or other mandate of the Trial Court is guilty of a misdemeanor.</text>
         </para>
-        <para>
-          <num>6.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.060">6.</num>
           <heading>RESISTING LAWFUL ARREST.</heading>
           <text>A person commits a misdemeanor if, with the intent to prevent a law enforcement officer from making a lawful arrest, he or she:</text>
           <para>
@@ -3226,8 +3318,9 @@
             <text>engages in any other conduct that creates a substantial risk of causing physical injury to a law enforcement officer or another person.</text>
           </para>
         </para>
-        <para>
-          <num>7.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.070">7.</num>
           <heading>PERJURY.</heading>
           <para>
             <num>A.</num>
@@ -3238,8 +3331,9 @@
             <text>A person who intentionally induces another to make a sworn statement or affidavit, knowing the same to be untrue, is guilty of a felony.</text>
           </para>
         </para>
-        <para>
-          <num>8.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.14.080">8.</num>
           <heading>TAMPERING WITH PUBLIC RECORDS.</heading>
           <para>
             <num>A.</num>
@@ -3264,11 +3358,13 @@
         </para>
       </container>
       <container>
+        <codified:at path="13.15"/>
         <prefix>Chapter</prefix>
         <num>15</num>
         <heading>CONTROLLED SUBSTANCES AND ALCOHOL RELATED OFFENSES</heading>
-        <para>
-          <num>1.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.15.010">1.</num>
           <heading>USE OR POSSESSION OFFENSES.</heading>
           <para>
             <num>A.</num>
@@ -3315,8 +3411,9 @@
             <text>Nothing in <cite path="attachments|law|III|15|1.">this section</cite> shall make it illegal to possess, use or be affected by marijuana or controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(21), or as directed by a physician.</text>
           </para>
         </para>
-        <para>
-          <num>2.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.15.020">2.</num>
           <heading>BOOTLEGGING.</heading>
           <text><u>SALE, DISTRIBUTION, TRANSPORTATION OF ALCOHOL, MARIJUANA OR CONTROLLED SUBSTANCES</u>.</text>
           <para>
@@ -3348,13 +3445,15 @@
             </para>
           </para>
         </para>
-        <para>
-          <num>3.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.15.030">3.</num>
           <heading>PRODUCTION, CULTIVATION OR MANUFACTURING OFFENSES.</heading>
           <text>A person who knowingly produces alcoholic beverages, cultivates marijuana or manufactures a controlled substance, or takes substantial steps toward such production, cultivation or manufacturing, in violation of tribal law is guilty of a felony.</text>
         </para>
-        <para>
-          <num>4.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.15.040">4.</num>
           <heading>INTOXICATION.</heading>
           <para>
             <num>A.</num>
@@ -3373,8 +3472,9 @@
             <text>Nothing in <cite path="attachments|law|III|15|4.">this section</cite> shall make it illegal to possess, use or be affected by a controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(20), or as directed by a physician.</text>
           </para>
         </para>
-        <para>
-          <num>5.</num>
+        <para codify:tag="section">
+          <codify:insert renumber-paras="true"/>
+          <num codify:value="13.15.050">5.</num>
           <heading>POSSESSION OF DRUG PARAPHERNALIA.</heading>
           <para>
             <num>A.</num>
