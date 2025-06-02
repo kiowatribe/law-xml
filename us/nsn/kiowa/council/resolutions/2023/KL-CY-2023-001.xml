@@ -405,6 +405,7 @@
           <num>(J)</num>
           <text>"Tribal Court" means the Courts of the Kiowa Tribe.</text>
         </para>
+      </section>
     </container>
     <container>
       <prefix>Chapter</prefix>
@@ -459,7 +460,6 @@
         </para>
       </section>
       <section>
-        <num>207</num>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="9.02.090">206</num>
         <heading>REMOVAL OF COMMISSIONERS.</heading>
