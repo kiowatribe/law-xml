@@ -266,37 +266,29 @@
     <text>Anita Johnson</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
-  <attachment id="law">
-    <codified:at path="2.04"/>
-    <section>
-      <codify:insert/>
-      <num codify:value="2.04.010">1.1</num>
-      <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Minimum Commission Standards Act."</text>
-    </section>
-    <section>
-      <codify:insert/>
-      <num codify:value="2.04.020">1.2</num>
-      <heading>Purpose</heading>
-      <text>This Code is enacted to provide general gap-fill provisions governing Commissions created by the Kiowa Legislature.  Nothing herein shall restrict the Kiowa Legislature's authority to enact procedures and provisions unique to specific Commissions.</text>
-    </section>
-    <section>
-      <codify:insert/>
-      <num codify:value="2.04.030">1.3</num>
-      <heading>Interpretation</heading>
-      <text>The provisions of this Code shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this Code, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable federal law.</text>
-    </section>
-    <section>
-      <codify:insert/>
-      <num codify:value="2.04.040">1.4</num>
-      <heading>Applicability.</heading>
-      <text>The provisions of this Code apply only to the extent that they do not conflict with any other provision of law.  To the extent that a provision of this Code conflicts with a Commission's Organic Act, the Organic Act takes precedence on that subject matter.</text>
-    </section>
-    <section>
-      <codify:insert/>
-      <num codify:value="2.04.050">1.5</num>
-      <heading>Approval and Enactment</heading>
-      <text>The Legislature hereby approves and enacts the "Minimum Commission Standards Act."</text>
-    </section>
-  </attachment>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "Minimum Commission Standards Act."</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text><cite path="">This Code</cite> is enacted to provide general gap-fill provisions governing Commissions created by the Kiowa Legislature.  Nothing herein shall restrict the Kiowa Legislature's authority to enact procedures and provisions unique to specific Commissions.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Interpretation</heading>
+    <text>The provisions of <cite path="">this Code</cite> shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of <cite path="">this Code</cite>, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable federal law.</text>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Applicability.</heading>
+    <text>The provisions of <cite path="">this Code</cite> apply only to the extent that they do not conflict with any other provision of law.  To the extent that a provision of <cite path="">this Code</cite> conflicts with a Commission's Organic Act, the Organic Act takes precedence on that subject matter.</text>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Approval and Enactment</heading>
+    <text>The Legislature hereby approves and enacts the "Minimum Commission Standards Act."</text>
+  </section>
 </document>
