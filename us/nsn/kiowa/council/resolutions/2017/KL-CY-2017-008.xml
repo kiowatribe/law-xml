@@ -240,7 +240,7 @@
       <prefix>Section</prefix>
       <num>I</num>
       <heading>GENERAL PROVISIONS.</heading>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.010">1</num>
@@ -262,7 +262,7 @@
     <section>
       <num>II</num>
       <heading>COMMENCEMENT OF ACTION AND PRELIMINARY MATTERS.</heading>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.020">2</num>
@@ -304,7 +304,7 @@
           <text>All papers required to be filed shall be served as under <cite path="attachments|law|II|2">this rule</cite> or, except for the complaint, may be served on the counselor or attorney of record for a party. Service of all papers except the complaint may be made by mail, first class postage prepaid and properly addressed.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.030">3</num>
@@ -326,7 +326,7 @@
           <text>Service by Mail. Whenever service is accomplished by mail, three days shall be added to the prescribed period of time, but such additional shall not cause Saturdays, Sundays, or legal holidays to be counted in the time period if they would not otherwise have been counted.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.040">4</num>
@@ -348,7 +348,7 @@
           </para>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.050">5</num>
@@ -386,7 +386,7 @@
           <text>Construction of Pleadings. All pleadings shall be so construed as to do substantial justice.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.060">6</num>
@@ -408,7 +408,7 @@
           <text>Paper Used in Pleadings. Insofar as is possible, pleadings and other papers filed in any action shall be on letter size paper, double spaced, except for matters customarily single spaced, contain at least a 2-inch top margin and a 1-inch left side margin, and contain the court file number on the first page thereof. Substantial compliance with <cite path="attachments|law|II|6">this rule</cite> will be sufficient for all parties not represented by a professional attorney.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.070">7</num>
@@ -422,7 +422,7 @@
           <text>Motions. Motions to dismiss or to make the opposing parties' pleadings more definite may be made prior to answering a claim and an answer will not be due until 10 days after the disposition of the motion by the Court.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.080">8</num>
@@ -440,7 +440,7 @@
           <text>Third Party Claim. A party against whom a claim is made may complain against a third party who is or may be liable for payment for performance of the claim of the opposing party and have such complaint resolved at trial.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.090">9</num>
@@ -454,7 +454,7 @@
           <text>At Trial. When issues or evidence not raised in the pleadings are heard at trial, the judgment may conform to such issues or evidence without the necessity of amending the pleadings.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.100">10</num>
@@ -472,28 +472,28 @@
           <text>Joinder of Parties. To the greatest extent possible given the limited jurisdiction of the Kiowa Trial Court, all persons or parties interested in a particular action may be jointed in the action, but failure to join a party over whom the Court has no jurisdiction will not require dismissal of the action unless it would be impossible to reach a just result without such party; otherwise, the failure to Join a party maybe taken into account to assure that justice is done.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.110">11</num>
         <heading>INTERVENTION.</heading>
         <text>A person may intervene and be treated in all respects as a party to an action in cases in which property in which he has an interest may be affected or a question of law or fact common to a claim of his may be litigated.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.120">12</num>
         <heading>SUBSTITUTION OF PARTIES.</heading>
         <text>If a party dies or becomes incompetent or transfers his interest or separates from some official capacity, a substitute party may be jointed or substituted as justice requires.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.130">13</num>
         <heading>DISCOVERY.</heading>
         <text>Reasonable discovery shall be permitted.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.140">14</num>
@@ -523,7 +523,7 @@
           </para>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.150">15</num>
@@ -537,7 +537,7 @@
           <text>Postponement. Upon motion of a party, the court may in its discretion, an upon such terms as it deems just, including the payment of any cost occasioned by such postponement, postpone a trial or proceeding upon good cause shown.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.160">16</num>
@@ -576,7 +576,7 @@
           <text>The court may order a party moving to dismiss his own claim to pay the costs of the adverse party if the proceeding has progressed beyond the pleading stage and may order payment of costs in other circumstances where such is deemed appropriate.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.170">17</num>
@@ -586,7 +586,7 @@
           <text>Consolidation. The court may, upon motion of any party or its own motion, order some or all of the issues of separate actions tried together when there is a common issue of fact or law relating the actions or if such will tend to avoid unnecessary cost or delay. b) Separate Trials. The court may, to avoid prejudice or in furtherance of convenience, order a separate trial of a claim or issue.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.180">18</num>
@@ -624,7 +624,7 @@
           <text>Record of Excluded Evidence. In an action tried to a jury, excluded evidence may upon request be included in the record for purposes of appeal and excluded oral testimony shall be put into evidence by means of an offer of proof made out of the hearing of the jury. In an action tried only to the court, the judge may receive such, excluded testimony into the record.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.190">19</num>
@@ -638,7 +638,7 @@
           <text>Failure to Appear. A person who has been properly served with a subpoena and fails to appear or produce may be deemed in contempt of court and/or the Court may order his arrest for the offense of Failure to Obey a Lawful Order of the Court.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.200">20</num>
@@ -716,14 +716,14 @@
           <text>Declaration of the Verdict. When at least five all or of the six jury members agree on a verdict, they shall so inform the officer who shall notify the Court. A unanimous verdict shall be required in criminal trial. The jury shall be conducted into the courtroom, the clerk shall call the jury roll; the verdict shall be given in writing to the clerk and then read by the clerk to the court; inquiry shall be made by the court to the jury foreman as to whether such is their verdict. Either party may have the jury polled individually to determine if such is, in fact, their verdict. If insufficient jurors agree with the verdict, the jury shall be sent out again to reconsider; otherwise, the verdict is complete and the jury shall be dismissed. If the verdict is read or recorded incorrectly by the clerk or foreman, the jury shall retire to correct the verdict.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.210">21</num>
         <heading>SPECIAL VERDICTS AND INTERROGATORIES.</heading>
         <text>The court may require the jury to return their verdict in the form of specific findings on specified issues or may require the jury to return a general verdict accompanied by answers to questions related to the issue under consideration.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.220">22</num>
@@ -737,7 +737,7 @@
           <text>Arguments. Final arguments for the parties shall be made after the jury has been instructed. The court shall not comment on the evidence of the case and, if it should restate any of the evidence, it shall inform the jury that they are the sole judges of the facts.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.230">23</num>
@@ -751,14 +751,14 @@
           <text>Motion for Judgment Notwithstanding the Verdict. A party who has made a motion or a directed verdict at the close of all the evidence, which motion has been denied or not granted, may, within 10 days after entry of judgment move to have the verdict and any judgment entered thereon set aside and entered according to his motion for directed verdict; or if there has been verdict, the party may so move within 10 days after the jury has been discharged. A motion for a new trial may be made in the alternative. The court shall enter judgment or make any orders consistent with his decision on the motion.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.240">24</num>
         <heading>FINDINGS BY THE COURT.</heading>
         <text>In cases tried without a jury, and except in cases where a party defaults, fails to appear or otherwise waives such, findings of fact and conclusions of law shall be made by the court in support of all final judgments. Upon its own motion or the motion of any party within ten days of the entry of judgment, findings may be amended or added to and the judgment may be amended accordingly.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.250">25</num>
@@ -792,7 +792,7 @@
           <text>Attorney Fees. The court shall not award attorney fees in a case unless such have been specifically provided for by a contract or agreement of the parties under dispute, or unless it reasonably appears that the case has been prosecuted for purposes of harassment only, or that there was no reasonable expectation of success on the part of the affirmatively claiming party.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.260">26</num>
@@ -810,7 +810,7 @@
           <text>Setting Aside Default. The court may, for good cause shown set aside either an entry of default improperly entered or entered against the Kiowa Tribe.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.270">27</num>
@@ -818,7 +818,7 @@
         <text>Anytime 20 days after commencement of an action, any party may move the court for summary judgment as to any or all of the issues presented in the case and such shall be granted by the court if it appears that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.</text>
         <text>Such motions, which shall be served not less than 10 days prior to the hearing on said motion, may be supported by affidavits, discovery, or memoranda, all of which must be made available to opposing parties at least two days prior to the hearing.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.280">28</num>
@@ -844,7 +844,7 @@
           <text>Effect of Satisfaction; Limitation. A judgment satisfied in whole, with such act being entered in the judgment docket, shall cease to operate as such. A partially satisfied judgment or unsatisfied judgment shall continue in effect for eight (8) years or until satisfied. An action to renew the judgment remaining unsatisfied may be maintained any time prior to the expiration of eight (8) years and will extend the period of limitations an additional 8 years and may be thereafter further extended by the same procedure.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.290">29</num>
@@ -895,7 +895,7 @@
           <text>Motion to Alter or Amend Judgment. A motion to alter or amend a judgment shall be served not later than 10 days after entry of the judgment.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.300">30</num>
@@ -909,14 +909,14 @@
           <text>Mistakes; Inadvertence; Excusable Neglect; Newly Discovered Evidence; Fraud, etc. On motion and upon such terms as are just, the court may, in the furtherance of justice, relieve a party or his legal representative from a final. judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under <cite path="attachments|law|II|30">Rule 29(a)</cite>; (3) fraud, misrepresentation or other misconduct of an adverse party; (4) when, for any cause, the summons in an action has not been personally served upon the defendant and the defendant has failed to appear in said action; (5) the judgment is void; (6) the judgment has been satisfied, released, or discharged, or a judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (7) any other reason justifying relief from the operation of the judgment. The motion shall be made with a reasonable time and for reasons (1), (2), (3), or (4), not more than 3 months after the judgment, order, or proceeding was entered or taken. A motion under this subdivision (b) does not affect the finality of a judgment or suspend its operation. <cite path="attachments|law|II|30">This rule</cite> does not limit the power of a court to entertain an independent action to relieve a party from a judgment, order or proceeding or to set aside a judgment for fraud upon the court. The procedure for obtaining any relief from a judgment shall be by motion as prescribed in these rules or by an independent action.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.310">31</num>
         <heading>HARMLESS ERROR.</heading>
         <text>No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in anything done or omitted by the court or by any of the parties, is ground for granting a new trial or otherwise disturbing a judgment or order, unless refusal to take such action appears to the court inconsistent with substantial justice. The court at every stage of the proceeding shall disregard any error or defect in the proceeding that does not affect the substantial rights of the parties.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.320">32</num>
@@ -954,7 +954,7 @@
           <text>Waiver of Undertaking. In all cases, the parties may, by written stipulation, waive the requirements of <cite path="attachments|law|II|32">this rule</cite> with respect to the filing of a bond or undertaking. In all cases where an undertaking is required by these rules a deposit in court in the amount of such undertaking, or such lesser amount as the court may order, is equivalent to the filing of the undertaking.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.330">33</num>
@@ -969,7 +969,7 @@
           <text>Every such affidavit shall state the facts and the reasons for the belief that such bias or prejudice exists and shall be filed as soon as practicable after the case has been assigned or such bias or prejudice is known. If the judge against whom the affidavit is directed questions the sufficiency of the affidavit, he shall enter an order directing that a copy thereof be forthwith certified to another judge (naming him), which judge shall then pass upon the legal sufficiency of the affidavit. If the judge against whom the affidavit is directed does not question the legal sufficiency of the affidavit, or if the judge to whom the affidavit is certified finds that it is legally sufficient, another judge must be called in to try the case or to determine the matter in question. No party shall be entitled in any case to file more than one affidavit; and no such affidavit shall be filed unless accompanied by a certificate of counsel of record that such affidavit and application are made in good faith.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.340">34</num>
@@ -1012,7 +1012,7 @@
           </para>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.350">35</num>
@@ -1052,7 +1052,7 @@
           <text>Habeas Corpus Availability. Except in cases of extraordinary injustice, habeas corpus relief shall not be available to a person incarcerated as a result of a criminal conviction where the alleged grounds for relief have been or could have been raised by an appeal following the conviction.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.360">36</num>
@@ -1074,6 +1074,7 @@
           <text>Redemption from Sale. At any time within 6 months after sale under <cite path="attachments|law|II|36">this Rule</cite>, the judgment debtor may redeem his property from the purchases thereof by paying the amount such purchaser paid for the property plus 8 percent interest, plus any expense actually incurred by the purchaser, such as taxes and insurance, to maintain the property.</text>
         </para>
       </container>
+      <container codify:tag="section">
         <codify:insert renumber-paras="true"/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.370">37</num>
@@ -1123,21 +1124,21 @@
           <text>Decision. The Supreme Court shall issue a written decision and all judgments on appeal which shall be final unless federal law or regulations provide for further extra- Tribal remedies.</text>
         </para>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.380">38</num>
         <heading>CITATION.</heading>
         <text>These Rules shall be known as the Kiowa Rules of Civil Procedure and may be abbreviated K.R.C.P.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.390">39</num>
         <heading>FEES.</heading>
         <text>The Chief Judge of the Trial Court, under recommendation of the Clerk of the Court, shall, from time to time, set a schedule of fees. Under no circumstances may the fee for an Order of Protection be more than ten dollars ($10). Thirty days prior to the fee schedule going into effect, the Chief Judge shall give notice to the Tribal Legislature and Council that a new schedule is going into effect and provide a copy of the schedule.</text>
       </container>
-      <container>
+      <container codify:tag="section">
         <codify:insert/>
         <prefix codify:value="">Rule</prefix>
         <num codify:value="5.03.400">40</num>
