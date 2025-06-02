@@ -912,17 +912,20 @@
         <num>6</num>
         <heading>Family Medical Leave Protection</heading>
         <section>
-          <num>6.01</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.360">6.01</num>
           <heading>Purpose; Authority and Intent</heading>
           <text>The purpose of <cite path="attachments|law|X|6">this Chapter</cite> is to entitle eligible Employees to take reasonable leave for medical reasons and to accomplish this purpose in a manner that accommodates the legitimate interests of Employers in accordance with the values and traditions of the Tribe.</text>
         </section>
         <section>
-          <num>6.02</num>
+          <codify:insert path="6"/>
+          <num codify:value="10.01.370">6.02</num>
           <heading>Scope; Jurisdiction</heading>
           <text><cite path="attachments|law|X|6">This Chapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="attachments|law|X|6">this Chapter</cite>.</text>
         </section>
         <section>
-          <num>6.03</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.380">6.03</num>
           <heading>Family Medical Leave Requirement</heading>
           <para>
             <num>6.03.1</num>
@@ -1098,7 +1101,8 @@
           </para>
         </section>
         <section>
-          <num>6.06</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.390">6.06</num>
           <heading>Definitions</heading>
           <para>
             <num>6.06.1</num>
@@ -1202,7 +1206,8 @@
           </para>
         </section>
         <section>
-          <num>6.07</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.400">6.07</num>
           <heading>Employee Benefits Protection</heading>
           <para>
             <num>6.07.1</num>
@@ -1237,7 +1242,8 @@
           </para>
         </section>
         <section>
-          <num>6.08</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.410">6.08</num>
           <heading>Effect on Existing Employee Benefits</heading>
           <para>
             <num>6.08.1</num>
@@ -1251,7 +1257,8 @@
           </para>
         </section>
         <section>
-          <num>6.09</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.420">6.09</num>
           <heading>Prohibited Acts</heading>
           <text>The following shall be considered prohibited acts for an Employer under <cite path="attachments|law|X|6">this Chapter</cite>:</text>
           <para>
@@ -1268,17 +1275,20 @@
           </para>
         </section>
         <section>
-          <num>6.10</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.430">6.10</num>
           <heading>Implementation</heading>
           <text>Employers subject to the provisions of <cite path="attachments|law|X|6">this Chapter</cite> shall develop and adopt, policies and procedures to implement the provisions of <cite path="attachments|law|X|6">this Chapter</cite>.</text>
         </section>
         <section>
-          <num>6.11</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.440">6.11</num>
           <heading>Limited Waiver of Sovereign Immunity</heading>
           <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in the Tribe's Courts for the limited purpose of enforcing <cite path="attachments|law|X|6">this Chapter</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
         </section>
         <section>
-          <num>6.12</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.450">6.12</num>
           <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
           <para>
             <num>6.12.1</num>
@@ -1374,7 +1384,8 @@
           </para>
         </section>
         <section>
-          <num>6.13</num>
+          <codify:insert path="6" renumber-paras="true"/>
+          <num codify:value="10.01.460">6.13</num>
           <heading>Effective Date; Severability</heading>
           <para>
             <num>A.</num>
@@ -1391,17 +1402,20 @@
         <num>7</num>
         <heading>Financial Hardship Programs</heading>
         <section>
-          <num>7.01</num>
+          <codify:insert path="7" renumber-paras="true"/>
+          <num codify:value="10.01.470">7.01</num>
           <heading>Purpose.</heading>
           <text>The Tribe recognizes that, on rare occasions, employees and government officials and appointees may have an extraordinary personal financial need that is unable to be met by the traditional finance system. In addition, the Tribe is aware of the predatory nature of some pay day and title loan firms that entrap individuals who turn to those lending sources. As a response to this unmet need, the Tribe authorizes Employers to develop, offer and implement Financial Hardship Programs.</text>
         </section>
         <section>
-          <num>7.02</num>
+          <codify:insert path="7" renumber-paras="true"/>
+          <num codify:value="10.01.480">7.02</num>
           <heading>Types of Financial Hardship Programs.</heading>
           <text>The Legislature authorizes the following programs: Payroll Advance Program and Financial Hardship Loan Program.</text>
         </section>
         <section>
-          <num>7.03</num>
+          <codify:insert path="7" renumber-paras="true"/>
+          <num codify:value="10.01.490">7.03</num>
           <heading>Minimum Terms and Conditions.</heading>
           <para>
             <num>7.03.1</num>
