@@ -286,13 +286,13 @@
       <codify:insert/>
       <num codify:value="9.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the Kiowa Tribe Housing Assistance for Renovation/Repairs and Rental Costs Startup Act of 2020. ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the Kiowa Tribe Housing Assistance for Renovation/Repairs and Rental Costs Startup Act of 2020. ("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="9.03.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is the Kiowa Tribe is interested in providing specific housing assistance to Kiowa Elders and Tribal Members who require this type of assistance cited in <cite path="attachments|law">this Act</cite>; and the Kiowa Tribe seeks to improve the living conditions of certain tribal members who do not otherwise qualify or receive housing assistance for home repairs/renovation and rental startup funds from NAHASDA.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is the Kiowa Tribe is interested in providing specific housing assistance to Kiowa Elders and Tribal Members who require this type of assistance cited in <code-cite path="attachments|law">this Act</code-cite>; and the Kiowa Tribe seeks to improve the living conditions of certain tribal members who do not otherwise qualify or receive housing assistance for home repairs/renovation and rental startup funds from NAHASDA.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

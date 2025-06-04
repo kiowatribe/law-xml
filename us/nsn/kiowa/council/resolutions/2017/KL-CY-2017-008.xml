@@ -247,7 +247,7 @@
         <heading>SCOPE OF RULES.</heading>
         <para>
           <num>(a)</num>
-          <text>Scope. Except when different rules prescribed in <cite path="attachments|law">this Code</cite> specifically apply, these rules shall govern the procedure in the Trial and Supreme Courts of the Kiowa Tribe in all actions, suits, and proceedings of a civil nature and in all special proceedings established by law.</text>
+          <text>Scope. Except when different rules prescribed in <code-cite path="attachments|law">this Code</code-cite> specifically apply, these rules shall govern the procedure in the Trial and Supreme Courts of the Kiowa Tribe in all actions, suits, and proceedings of a civil nature and in all special proceedings established by law.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -301,7 +301,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>All papers required to be filed shall be served as under <cite path="attachments|law|II|2">this rule</cite> or, except for the complaint, may be served on the counselor or attorney of record for a party. Service of all papers except the complaint may be made by mail, first class postage prepaid and properly addressed.</text>
+          <text>All papers required to be filed shall be served as under <code-cite path="attachments|law|II|2">this rule</code-cite> or, except for the complaint, may be served on the counselor or attorney of record for a party. Service of all papers except the complaint may be made by mail, first class postage prepaid and properly addressed.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -405,7 +405,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Paper Used in Pleadings. Insofar as is possible, pleadings and other papers filed in any action shall be on letter size paper, double spaced, except for matters customarily single spaced, contain at least a 2-inch top margin and a 1-inch left side margin, and contain the court file number on the first page thereof. Substantial compliance with <cite path="attachments|law|II|6">this rule</cite> will be sufficient for all parties not represented by a professional attorney.</text>
+          <text>Paper Used in Pleadings. Insofar as is possible, pleadings and other papers filed in any action shall be on letter size paper, double spaced, except for matters customarily single spaced, contain at least a 2-inch top margin and a 1-inch left side margin, and contain the court file number on the first page thereof. Substantial compliance with <code-cite path="attachments|law|II|6">this rule</code-cite> will be sufficient for all parties not represented by a professional attorney.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -906,7 +906,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Mistakes; Inadvertence; Excusable Neglect; Newly Discovered Evidence; Fraud, etc. On motion and upon such terms as are just, the court may, in the furtherance of justice, relieve a party or his legal representative from a final. judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under <cite path="attachments|law|II|30">Rule 29(a)</cite>; (3) fraud, misrepresentation or other misconduct of an adverse party; (4) when, for any cause, the summons in an action has not been personally served upon the defendant and the defendant has failed to appear in said action; (5) the judgment is void; (6) the judgment has been satisfied, released, or discharged, or a judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (7) any other reason justifying relief from the operation of the judgment. The motion shall be made with a reasonable time and for reasons (1), (2), (3), or (4), not more than 3 months after the judgment, order, or proceeding was entered or taken. A motion under this subdivision (b) does not affect the finality of a judgment or suspend its operation. <cite path="attachments|law|II|30">This rule</cite> does not limit the power of a court to entertain an independent action to relieve a party from a judgment, order or proceeding or to set aside a judgment for fraud upon the court. The procedure for obtaining any relief from a judgment shall be by motion as prescribed in these rules or by an independent action.</text>
+          <text>Mistakes; Inadvertence; Excusable Neglect; Newly Discovered Evidence; Fraud, etc. On motion and upon such terms as are just, the court may, in the furtherance of justice, relieve a party or his legal representative from a final. judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under <code-cite path="attachments|law|II|30">Rule 29(a)</code-cite>; (3) fraud, misrepresentation or other misconduct of an adverse party; (4) when, for any cause, the summons in an action has not been personally served upon the defendant and the defendant has failed to appear in said action; (5) the judgment is void; (6) the judgment has been satisfied, released, or discharged, or a judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (7) any other reason justifying relief from the operation of the judgment. The motion shall be made with a reasonable time and for reasons (1), (2), (3), or (4), not more than 3 months after the judgment, order, or proceeding was entered or taken. A motion under this subdivision (b) does not affect the finality of a judgment or suspend its operation. <code-cite path="attachments|law|II|30">This rule</code-cite> does not limit the power of a court to entertain an independent action to relieve a party from a judgment, order or proceeding or to set aside a judgment for fraud upon the court. The procedure for obtaining any relief from a judgment shall be by motion as prescribed in these rules or by an independent action.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -943,7 +943,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Power of Supreme Court Not Limited. The provisions in <cite path="attachments|law|II|32">this rule</cite> do not limit any power of the Supreme Court or of a judge or justice thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.</text>
+          <text>Power of Supreme Court Not Limited. The provisions in <code-cite path="attachments|law|II|32">this rule</code-cite> do not limit any power of the Supreme Court or of a judge or justice thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -951,7 +951,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>Waiver of Undertaking. In all cases, the parties may, by written stipulation, waive the requirements of <cite path="attachments|law|II|32">this rule</cite> with respect to the filing of a bond or undertaking. In all cases where an undertaking is required by these rules a deposit in court in the amount of such undertaking, or such lesser amount as the court may order, is equivalent to the filing of the undertaking.</text>
+          <text>Waiver of Undertaking. In all cases, the parties may, by written stipulation, waive the requirements of <code-cite path="attachments|law|II|32">this rule</code-cite> with respect to the filing of a bond or undertaking. In all cases where an undertaking is required by these rules a deposit in court in the amount of such undertaking, or such lesser amount as the court may order, is equivalent to the filing of the undertaking.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -985,7 +985,7 @@
         <para>
           <num>(c)</num>
           <text>Security. Except as otherwise provided by law, no restraining order or preliminary injunction shall issue except upon the giving of security by the applicant, in such sum as the court deems proper, for the payment of such costs and damages as may be incurred or suffered by any party who is found to have been wrongfully enjoined or restrained. No such security shall be required of the United States, the Kiowa Tribe, or of an officer, or agency, of either acting in an official capacity; nor shall it be required of a married person in a suit against the other party to the marriage contract.</text>
-          <text>A surety upon a bond or undertaking under <cite path="attachments|law|II|34">this rule</cite> submits himself to the jurisdiction of the court and irrevocably appoints the clerk of the court as his agent upon whom any papers affecting his liability on the bond or undertaking may be served. His liability may be enforced on motion without the necessity of an independent action. The motion and such notice of the motion as the court prescribes may be served on the clerk of the court who shall forthwith mail copies to the persons giving the security if their addresses are known.</text>
+          <text>A surety upon a bond or undertaking under <code-cite path="attachments|law|II|34">this rule</code-cite> submits himself to the jurisdiction of the court and irrevocably appoints the clerk of the court as his agent upon whom any papers affecting his liability on the bond or undertaking may be served. His liability may be enforced on motion without the necessity of an independent action. The motion and such notice of the motion as the court prescribes may be served on the clerk of the court who shall forthwith mail copies to the persons giving the security if their addresses are known.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1071,7 +1071,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Redemption from Sale. At any time within 6 months after sale under <cite path="attachments|law|II|36">this Rule</cite>, the judgment debtor may redeem his property from the purchases thereof by paying the amount such purchaser paid for the property plus 8 percent interest, plus any expense actually incurred by the purchaser, such as taxes and insurance, to maintain the property.</text>
+          <text>Redemption from Sale. At any time within 6 months after sale under <code-cite path="attachments|law|II|36">this Rule</code-cite>, the judgment debtor may redeem his property from the purchases thereof by paying the amount such purchaser paid for the property plus 8 percent interest, plus any expense actually incurred by the purchaser, such as taxes and insurance, to maintain the property.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -1085,7 +1085,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Right to Appeal. Any party who is aggrieved by any final order, commitment or judgment of the trial court may appeal in the manner prescribed by <cite path="attachments|law|II|37">this Rule</cite>.</text>
+          <text>Right to Appeal. Any party who is aggrieved by any final order, commitment or judgment of the trial court may appeal in the manner prescribed by <code-cite path="attachments|law|II|37">this Rule</code-cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1101,7 +1101,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Stay Pending Appeal. In any case in which an appeal is perfected as required by <cite path="attachments|law|II|37">this Rule</cite>, the appellant may petition the trial court for an order staying the order, commitment or judgment rendered conditioned upon execution of a bond to guarantee performance of the judgment, order or commitment. A stay shall begranted in all cases in which it is requested unless manifest injustice would result therefrom.</text>
+          <text>Stay Pending Appeal. In any case in which an appeal is perfected as required by <code-cite path="attachments|law|II|37">this Rule</code-cite>, the appellant may petition the trial court for an order staying the order, commitment or judgment rendered conditioned upon execution of a bond to guarantee performance of the judgment, order or commitment. A stay shall begranted in all cases in which it is requested unless manifest injustice would result therefrom.</text>
         </para>
         <para>
           <num>(g)</num>
