@@ -268,7 +268,7 @@
         </recital>
         <recital>
           <conjunction>NOW THEREFORE,</conjunction>
-          <text> the Legislature hereby establishes within the Commission, possessing all the powers, duties, rights and functions hereinafter described by <cite path="attachments|law|">this Act</cite> or which may hereafter be conferred upon it by law.</text>
+          <text> the Legislature hereby establishes within the Commission, possessing all the powers, duties, rights and functions hereinafter described by <cite path="attachments|law|X">this Act</cite> or which may hereafter be conferred upon it by law.</text>
         </recital>
       </recitals>
       <container codify:tag="section">
@@ -301,7 +301,7 @@
           </para>
           <para>
             <num>1.6</num>
-            <text>Nothing in <cite path="attachments|law|X|1">this Chapter</cite> affects, limits, alters, modifies, or waives the need for a business to obtain all licenses and permits required by applicable law. The issuance of a business license shall not be deemed or construed as a certification of a business's compliance with other applicable regulations or laws. Additional permits and licenses may be necessary before a person may lawfully conduct business.</text>
+            <text>Nothing in <code-cite path="attachments|law|X|1">this Chapter</code-cite> affects, limits, alters, modifies, or waives the need for a business to obtain all licenses and permits required by applicable law. The issuance of a business license shall not be deemed or construed as a certification of a business's compliance with other applicable regulations or laws. Additional permits and licenses may be necessary before a person may lawfully conduct business.</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -309,7 +309,7 @@
           <heading>Exemptions.</heading>
           <para>
             <num>2.1</num>
-            <text>The following shall not be required to obtain a license under <cite path="attachments|law|X|1">this Chapter</cite>:</text>
+            <text>The following shall not be required to obtain a license under <code-cite path="attachments|law|X|1">this Chapter</code-cite>:</text>
             <para>
               <num>2.1.1</num>
               <text>Kiowa enterprises, including Kiowa Gaming Enterprises.</text>
@@ -320,7 +320,7 @@
             </para>
             <para>
               <num>2.1.3</num>
-              <text>Persons employed by a licensed to do business pursuant to the requirements of <cite path="attachments|law|X|1">this Chapter</cite>.</text>
+              <text>Persons employed by a licensed to do business pursuant to the requirements of <code-cite path="attachments|law|X|1">this Chapter</code-cite>.</text>
             </para>
             <para>
               <num>2.1.4</num>
@@ -333,7 +333,7 @@
           </para>
           <para>
             <num>2.2</num>
-            <text>The following shall not be required to pay a fee for the issuance of a license for <cite path="attachments|law|X|1">this Chapter</cite>:</text>
+            <text>The following shall not be required to pay a fee for the issuance of a license for <code-cite path="attachments|law|X|1">this Chapter</code-cite>:</text>
             <para>
               <num>2.2.1</num>
               <text>Any church engaged in raising funds for religious or charitable purposes.</text>
@@ -425,7 +425,7 @@
           </para>
           <para>
             <num>4.5</num>
-            <text>For any business license in <cite path="attachments|law|X|1|4.0">this Section</cite>, the fee for a qualified Indian-owned firm or entity shall be one-half the amount set out herein.</text>
+            <text>For any business license in <code-cite path="attachments|law|X|1|4.0">this Section</code-cite>, the fee for a qualified Indian-owned firm or entity shall be one-half the amount set out herein.</text>
           </para>
           <para>
             <num>4.6</num>
@@ -441,7 +441,7 @@
           <heading>Grant and Denial of License or Renewal.</heading>
           <para>
             <num>5.1</num>
-            <text>A business license shall be issued to every Applicant who intends to conduct any legal business activity. Except as established in <cite path="attachments|law|X|5.0|5.2">Section 5.2 </cite>below, the Commission may not deny any person conducting a legal business a license to conduct that business in the territory of the Kiowa Tribe or with the Kiowa Tribe.</text>
+            <text>A business license shall be issued to every Applicant who intends to conduct any legal business activity. Except as established in <code-cite path="attachments|law|X|1|5.0|5.2">Section 5.2 </code-cite>below, the Commission may not deny any person conducting a legal business a license to conduct that business in the territory of the Kiowa Tribe or with the Kiowa Tribe.</text>
           </para>
           <para>
             <num>5.2</num>
@@ -477,7 +477,7 @@
           </para>
           <para>
             <num>6.4</num>
-            <text>Each licensee shall respond in a timely manner to requests for information about the licensee's business for the purpose of establishing whether the licensee is in compliance with the terms of <cite path="attachments|law|X|1">this Chapter</cite>.</text>
+            <text>Each licensee shall respond in a timely manner to requests for information about the licensee's business for the purpose of establishing whether the licensee is in compliance with the terms of <code-cite path="attachments|law|X|1">this Chapter</code-cite>.</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -489,7 +489,7 @@
           </para>
           <para>
             <num>7.2</num>
-            <text>Upon application, the Kiowa Tribe may reinstate a business license that has been revoked upon the payment of all license fees, penalties, and interest owed by the business pursuant to <cite path="attachments|law|X|1">this Chapter</cite>, provided that the business is otherwise in compliance with Kiowa Tribe law. An applicant shall pay a reinstatement fee in an amount established by the Commission, in addition to any other fees and penalties due.</text>
+            <text>Upon application, the Kiowa Tribe may reinstate a business license that has been revoked upon the payment of all license fees, penalties, and interest owed by the business pursuant to <code-cite path="attachments|law|X|1">this Chapter</code-cite>, provided that the business is otherwise in compliance with Kiowa Tribe law. An applicant shall pay a reinstatement fee in an amount established by the Commission, in addition to any other fees and penalties due.</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -497,7 +497,7 @@
           <heading>Non-Transferable License.</heading>
           <para>
             <num>8.1</num>
-            <text>The license provided for in <cite path="attachments|law|X|1">this Chapter</cite> is not transferable, and is valid only for the person in whose name it is issued and for the transaction of business of the same type and at the place or places designated therein.</text>
+            <text>The license provided for in <code-cite path="attachments|law|X|1">this Chapter</code-cite> is not transferable, and is valid only for the person in whose name it is issued and for the transaction of business of the same type and at the place or places designated therein.</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -529,7 +529,7 @@
           </para>
           <para>
             <num>10.3</num>
-            <text><u>Due Process</u>. A licensee found to have violated any provision of <cite path="attachments|law|X|1">this Chapter</cite> and before any penalty may be imposed, shall have the right to within 10 business days, file a written appeal to the Commission Director requesting any penalty assessed be reversed, along with the reason for non- compliance and corrective action plan. The Commission Director shall provide a written decision within 10 business days, and if the Commission Director does not provide the licensee with a written decision within 10 business days, the initial determination shall be vacated. If the Commission Director rejects the licensee's appeal the licensee shall have the right to file an appeal with the Kiowa Trial Court within 20 business days. The courts of the Kiowa Tribe shall have exclusive jurisdiction to resolve any disputes arising under <cite path="attachments|law|X|1">this Chapter</cite>.</text>
+            <text><u>Due Process</u>. A licensee found to have violated any provision of <code-cite path="attachments|law|X|1">this Chapter</code-cite> and before any penalty may be imposed, shall have the right to within 10 business days, file a written appeal to the Commission Director requesting any penalty assessed be reversed, along with the reason for non- compliance and corrective action plan. The Commission Director shall provide a written decision within 10 business days, and if the Commission Director does not provide the licensee with a written decision within 10 business days, the initial determination shall be vacated. If the Commission Director rejects the licensee's appeal the licensee shall have the right to file an appeal with the Kiowa Trial Court within 20 business days. The courts of the Kiowa Tribe shall have exclusive jurisdiction to resolve any disputes arising under <code-cite path="attachments|law|X|1">this Chapter</code-cite>.</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -555,12 +555,12 @@
         <section codify:tag="para">
           <num>3.1</num>
           <heading>Purpose of incorporation and incorporators.</heading>
-          <text>A corporation may be formed under <cite path="attachments|law|X|3">this chapter</cite> by any person for any lawful purpose.</text>
+          <text>A corporation may be formed under <code-cite path="attachments|law|X|3">this chapter</code-cite> by any person for any lawful purpose.</text>
         </section>
         <section codify:tag="para">
           <num>3.2</num>
           <heading>Corporate Name.</heading>
-          <text>The name of any corporation formed under <cite path="attachments|law|X|3">this chapter</cite> shall not be the same or similar to any other named corporation formed under <cite path="attachments|law|X|3">this chapter</cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd." The Commission shall keep a public, searchable, list of all corporate names, which shall be accessible on a website. However, it is the responsibility of the business to ensure its proposed name does not violate any copyrights, trademarks, or patents.</text>
+          <text>The name of any corporation formed under <code-cite path="attachments|law|X|3">this chapter</code-cite> shall not be the same or similar to any other named corporation formed under <code-cite path="attachments|law|X|3">this chapter</code-cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd." The Commission shall keep a public, searchable, list of all corporate names, which shall be accessible on a website. However, it is the responsibility of the business to ensure its proposed name does not violate any copyrights, trademarks, or patents.</text>
         </section>
         <section codify:tag="para">
           <num>3.3</num>
@@ -613,7 +613,7 @@
               <para>
                 <num>9</num>
                 <text>The name, address, telephone and fax number of the Registered Agent of the Corporation is:</text>
-                <text>On behalf of the Corporation, by executing <cite path="attachments|law">this Article</cite> of Incorporation, and submitting it to seek approval and issuance of a Certificate of Incorporation from the Kiowa Tribe, I agree that I as signatory, and that the Corporation set out in <cite path="attachments|law">this Article</cite> of Incorporation is now and shall be forevermore subject to the Jurisdiction of the Kiowa Tribe, including the jurisdiction of any of its Courts, civil or criminal, for any and all purposes.</text>
+                <text>On behalf of the Corporation, by executing this Article of Incorporation, and submitting it to seek approval and issuance of a Certificate of Incorporation from the Kiowa Tribe, I agree that I as signatory, and that the Corporation set out in this Article of Incorporation is now and shall be forevermore subject to the Jurisdiction of the Kiowa Tribe, including the jurisdiction of any of its Courts, civil or criminal, for any and all purposes.</text>
                 <text>IN WITNESS WHEREOF, (I)(we), have hereunto set (my hand) (our hands) this _____ day of _________, 20 _____.</text>
               </para>
               <text>Incorporator</text>
@@ -623,7 +623,7 @@
         <section codify:tag="para">
           <num>3.4</num>
           <heading>Certificate of incorporation.</heading>
-          <text>Upon filing the Articles of Incorporation and payment of the filing fee, the Director of the Commission, if the Articles are in conformity with <cite path="attachments|law|X|3">this chapter</cite>, may issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
+          <text>Upon filing the Articles of Incorporation and payment of the filing fee, the Director of the Commission, if the Articles are in conformity with <code-cite path="attachments|law|X|3">this chapter</code-cite>, may issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
           <include>
             <text class="center">CERTIFICATE OF INCORPORATION</text>
             <text>WHEREAS, Articles of Incorporation duly signed have been filed in the Kiowa Tribe Business &amp; Commerce Department on the ______ day of ___________, 20______, for incorporation of ___________ (name of corporation); and</text>
@@ -631,12 +631,12 @@
             <text>NOW, THEREFORE, I, Director of the Kiowa Tribe Business &amp; Commerce Department Commission do hereby certify that the said ________ is a legally organized and validly existing corporation under the laws of the Kiowa Tribe.</text>
             <text>Director, Kiowa Tribe Business &amp; Commerce Department</text>
           </include>
-          <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <cite path="attachments|law|X|3">this chapter</cite>, but not that the corporation is in compliance with any other provision of law.</text>
+          <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <code-cite path="attachments|law|X|3">this chapter</code-cite>, but not that the corporation is in compliance with any other provision of law.</text>
         </section>
         <section codify:tag="para">
           <num>3.5</num>
           <heading>Amended articles of incorporation.</heading>
-          <text>A corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the shareholders. A filing fee in an amount approved by the Commission shall accompany that filing. Provided the proposed amended articles are consistent with <cite path="attachments|law|X|3">this chapter</cite>, the Commission may issue an Amended Certificate of Incorporation.</text>
+          <text>A corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the shareholders. A filing fee in an amount approved by the Commission shall accompany that filing. Provided the proposed amended articles are consistent with <code-cite path="attachments|law|X|3">this chapter</code-cite>, the Commission may issue an Amended Certificate of Incorporation.</text>
         </section>
         <section codify:tag="para">
           <num>3.6</num>
@@ -697,7 +697,7 @@
                 <section>
                   <num>5</num>
                   <heading>Quorum.</heading>
-                  <text>The majority of the number of directors in <cite path="attachments|law|III|2">section 2 </cite>shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
+                  <text>The majority of the number of directors in section 2 shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
                 </section>
                 <section>
                   <num>6</num>
@@ -777,7 +777,7 @@
         <section codify:tag="para">
           <num>3.7</num>
           <heading>Dissolution.</heading>
-          <text>A corporation formed pursuant to <cite path="attachments|law|X|3">this chapter</cite> may be dissolved whenever a resolution is adopted by at least two-thirds of the shareholders requesting dissolution and a certified copy of the resolution is filed with the Kiowa Tribe Business Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
+          <text>A corporation formed pursuant to <code-cite path="attachments|law|X|3">this chapter</code-cite> may be dissolved whenever a resolution is adopted by at least two-thirds of the shareholders requesting dissolution and a certified copy of the resolution is filed with the Kiowa Tribe Business Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
           <para>
             <num>(1)</num>
             <text>Collect all sums due or owing to the corporation;</text>
@@ -800,12 +800,12 @@
         <section codify:tag="para">
           <num>4.1</num>
           <heading>Purpose of incorporation and incorporators.</heading>
-          <text>A non-profit corporation may be formed under <cite path="attachments|law|X|4">this chapter</cite> for any lawful purpose not involving pecuniary gain to its owners and not paying dividends or other pecuniary remuneration, directly or indirectly, to its owners.</text>
+          <text>A non-profit corporation may be formed under <code-cite path="attachments|law|X|4">this chapter</code-cite> for any lawful purpose not involving pecuniary gain to its owners and not paying dividends or other pecuniary remuneration, directly or indirectly, to its owners.</text>
         </section>
         <section codify:tag="para">
           <num>4.2</num>
           <heading>Corporate name.</heading>
-          <text>The name of any non-profit corporation formed under <cite path="attachments|law|X|4">this Article</cite> shall not be the same or similar to any other named corporation formed under <cite path="attachments|law|X|4">this Article</cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd."</text>
+          <text>The name of any non-profit corporation formed under <code-cite path="attachments|law|X|4">this Article</code-cite> shall not be the same or similar to any other named corporation formed under <code-cite path="attachments|law|X|4">this Article</code-cite>. The name of the corporation shall end with the word "Corporation" or the word "Incorporated" or the word "Limited" or the abbreviation "Corp.", "Inc." or "Ltd."</text>
         </section>
         <section codify:tag="para">
           <num>4.3</num>
@@ -872,17 +872,17 @@
             <text>NOW, THEREFORE, I, _____________, Director of the Kiowa Tribe Business &amp; Commerce Department do hereby certify that the said _____________ is a legally organized and validly existing non-profit corporation under the laws of the Kiowa Tribe.</text>
             <text>Director, Kiowa Tribe Business &amp; Commerce Department</text>
           </include>
-          <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <cite path="attachments|law|X|4">this chapter</cite>, but not that the corporation is in compliance with any other provision of law.</text>
+          <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of <code-cite path="attachments|law|X|4">this chapter</code-cite>, but not that the corporation is in compliance with any other provision of law.</text>
         </section>
         <section codify:tag="para">
           <num>4.5</num>
           <heading>Amended articles of incorporation.</heading>
-          <text>A non-profit corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the members, if any. A filing fee of $25.00 shall accompany that filing. Provided those amended articles are consistent with <cite path="attachments|law|X|4">this chapter</cite>, the Kiowa Tribe Business &amp; Commerce Department shall issue a Certificate of Amendment to the Corporation.</text>
+          <text>A non-profit corporation may file Amended Articles of Incorporation, upon approval by its Board of Directors and the members, if any. A filing fee of $25.00 shall accompany that filing. Provided those amended articles are consistent with <code-cite path="attachments|law|X|4">this chapter</code-cite>, the Kiowa Tribe Business &amp; Commerce Department shall issue a Certificate of Amendment to the Corporation.</text>
         </section>
         <section codify:tag="para">
           <num>4.6</num>
           <heading>Bylaws.</heading>
-          <text>A not-for-profit corporation created pursuant to <cite path="attachments|law|X|4">this chapter</cite> may adopt such bylaws at it deems necessary and appropriate, which shall become effective when filed with the Commission. Unless there is submitted to the Kiowa Tribe Business &amp; Commerce Department a different form of bylaws, the bylaws shall be as follows:</text>
+          <text>A not-for-profit corporation created pursuant to <code-cite path="attachments|law|X|4">this chapter</code-cite> may adopt such bylaws at it deems necessary and appropriate, which shall become effective when filed with the Commission. Unless there is submitted to the Kiowa Tribe Business &amp; Commerce Department a different form of bylaws, the bylaws shall be as follows:</text>
           <include>
             <text>BYLAWS OF ________________________</text>
             <container>
@@ -938,7 +938,7 @@
               <section>
                 <num>5</num>
                 <heading>Quorum.</heading>
-                <text>The majority of the number of directors in <cite path="attachments|law|III|2">section 2 </cite>shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
+                <text>The majority of the number of directors in section 2 shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
               </section>
               <section>
                 <num>6</num>
@@ -1018,7 +1018,7 @@
         <section codify:tag="para">
           <num>4.7</num>
           <heading>Dissolution.</heading>
-          <text>A corporation formed pursuant to <cite path="attachments|law|X|4">this chapter</cite> may be dissolved whenever a resolution is adopted by the Board of Directors requesting dissolution, approved by a majority of the members, if any, and a certified copy of the resolution is filed with the Kiowa Tribe Business &amp; Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
+          <text>A corporation formed pursuant to <code-cite path="attachments|law|X|4">this chapter</code-cite> may be dissolved whenever a resolution is adopted by the Board of Directors requesting dissolution, approved by a majority of the members, if any, and a certified copy of the resolution is filed with the Kiowa Tribe Business &amp; Commerce Department. The resolution may designate a trustee or trustees to conduct the winding up of the corporation's affairs. The trustee or trustees appointed shall, as speedily as practicable after appointment, proceed to:</text>
           <para>
             <num>(1)</num>
             <text>Collect all sums due or owing to the corporation;</text>
@@ -1063,7 +1063,7 @@
           <heading>Purpose.</heading>
           <para>
             <num>a.</num>
-            <text><cite path="attachments|law|">This Act</cite> provides for the establishment and regulation of activities of Tribally owned corporations.</text>
+            <text><code-cite path="attachments|law|X">This Act</code-cite> provides for the establishment and regulation of activities of Tribally owned corporations.</text>
           </para>
           <para>
             <num>b.</num>
@@ -1171,7 +1171,7 @@
           </para>
           <para>
             <num>e.</num>
-            <text>To accomplish the goals set out in subsections (c) and (d) of <cite path="attachments|law|X|5|5.2">this Section</cite>, the Legislature finds that, for purposes of efficiency and wise stewardship, it is necessary for the management of the commercial and economic development of the Tribe's resources to be separated from other governmental functions of the Tribe and the Legislature.</text>
+            <text>To accomplish the goals set out in subsections (c) and (d) of <code-cite path="attachments|law|X|5|5.2">this Section</code-cite>, the Legislature finds that, for purposes of efficiency and wise stewardship, it is necessary for the management of the commercial and economic development of the Tribe's resources to be separated from other governmental functions of the Tribe and the Legislature.</text>
           </para>
           <para>
             <num>f.</num>
@@ -1181,31 +1181,31 @@
         <section codify:tag="para">
           <num>5.3</num>
           <heading>Applicability.</heading>
-          <text>The provisions of <cite path="attachments|law|">this Act</cite> shall apply to all corporations as chartered under Kiowa Law that are wholly or partially owned by the Kiowa Tribe, and whether such corporations are owned directly or owned indirectly as a subsidiary of another entity wholly or partially owned by the Tribe. Preexisting corporations shall not be subject to <cite path="attachments|law|">this Act</cite>. Except as otherwise provided, the provisions of <cite path="attachments|law">this Act</cite> do not apply to the business or undertakings of the Tribe that are not conducted by a corporation.</text>
+          <text>The provisions of <code-cite path="attachments|law|X">this Act</code-cite> shall apply to all corporations as chartered under Kiowa Law that are wholly or partially owned by the Kiowa Tribe, and whether such corporations are owned directly or owned indirectly as a subsidiary of another entity wholly or partially owned by the Tribe. Preexisting corporations shall not be subject to <code-cite path="attachments|law|X">this Act</code-cite>. Except as otherwise provided, the provisions of <code-cite path="attachments|law|X">this Act</code-cite> do not apply to the business or undertakings of the Tribe that are not conducted by a corporation.</text>
         </section>
         <section codify:tag="para">
           <num>5.4</num>
           <heading>Rules of Construction.</heading>
-          <text>Rules of construction set forth in <cite path="attachments|law|X|5|5.4">this section</cite> are applicable for the purposes of <cite path="attachments|law">this Act</cite>.</text>
+          <text>Rules of construction set forth in <code-cite path="attachments|law|X|5|5.4">this section</code-cite> are applicable for the purposes of <code-cite path="attachments|law|X">this Act</code-cite>.</text>
           <para>
             <num>a.</num>
-            <text>It is the policy of <cite path="attachments|law">this Act</cite> to provide for the governance of corporations and the proper exercise of sovereignty by those corporations.</text>
+            <text>It is the policy of <code-cite path="attachments|law|X">this Act</code-cite> to provide for the governance of corporations and the proper exercise of sovereignty by those corporations.</text>
           </para>
           <para>
             <num>b.</num>
-            <text>It is the policy of <cite path="attachments|law">this Act</cite> to provide tribal corporations the freedom of contract and to ensure the enforceability of their agreements.</text>
+            <text>It is the policy of <code-cite path="attachments|law|X">this Act</code-cite> to provide tribal corporations the freedom of contract and to ensure the enforceability of their agreements.</text>
           </para>
           <para>
             <num>c.</num>
-            <text>The principles of law and equity supplement <cite path="attachments|law|">this Act</cite>.</text>
+            <text>The principles of law and equity supplement <code-cite path="attachments|law|X">this Act</code-cite>.</text>
           </para>
           <para>
             <num>d.</num>
-            <text>It is the intention of the Legislature to provide a corporation subject to <cite path="attachments|law|">this Act</cite> the greatest possible opportunity to profit and succeed.</text>
+            <text>It is the intention of the Legislature to provide a corporation subject to <code-cite path="attachments|law|X">this Act</code-cite> the greatest possible opportunity to profit and succeed.</text>
           </para>
           <para>
             <num>e.</num>
-            <text>It is the intention of the Legislature that Subsidiaries of Corporations are subject to the jurisdiction of the Tribe and are subject to <cite path="attachments|law">this Act</cite> as provided herein. It is expressly provided that, in addition to <cite path="attachments|law">this Act</cite> and to the actions, laws or policies of the Kiowa Tribe as set forth in subsection 4(e), the laws of the Kiowa Tribe under which a Subsidiary is organized and formed shall apply to such Subsidiary.</text>
+            <text>It is the intention of the Legislature that Subsidiaries of Corporations are subject to the jurisdiction of the Tribe and are subject to <code-cite path="attachments|law|X">this Act</code-cite> as provided herein. It is expressly provided that, in addition to <code-cite path="attachments|law|X">this Act</code-cite> and to the actions, laws or policies of the Kiowa Tribe as set forth in subsection 4(e), the laws of the Kiowa Tribe under which a Subsidiary is organized and formed shall apply to such Subsidiary.</text>
           </para>
           <para>
             <num>f.</num>
@@ -1215,7 +1215,7 @@
         <section codify:tag="para">
           <num>5.5</num>
           <heading>Definitions.</heading>
-          <text>Terms used in <cite path="attachments|law|">this Act</cite> have the following meaning:</text>
+          <text>Terms used in <code-cite path="attachments|law|X">this Act</code-cite> have the following meaning:</text>
           <para>
             <num>a.</num>
             <text>"Articles of Incorporation" includes amended and restated articles of incorporation for a tribally owned corporation organized under Kiowa Law.</text>
@@ -1245,7 +1245,7 @@
             </para>
             <para>
               <num>4.</num>
-              <text>any breach of the individual's obligations under this <cite path="attachments|law|">this Act</cite>, or breach of the fiduciary duty owed by the individual to the corporation arising as a consequence of the individual's performance of the duties, including, but not limited to, any violation to the Tribe's Criminal Code;</text>
+              <text>any breach of the individual's obligations under this <code-cite path="attachments|law|X">this Act</code-cite>, or breach of the fiduciary duty owed by the individual to the corporation arising as a consequence of the individual's performance of the duties, including, but not limited to, any violation to the Tribe's Criminal Code;</text>
             </para>
             <para>
               <num>5.</num>
@@ -1269,7 +1269,7 @@
             </para>
             <para>
               <num>10.</num>
-              <text>failure to reasonably perform all duties and meet all responsibilities required under the terms of <cite path="attachments|law|">this Act</cite>, or otherwise incident to the individual's position, or as mandated by operational circumstances, or as directed by the Board of Directors of the Corporation; provided moreover that there shall exist a presumption of such failure if an individual fails to participate in three (3) consecutive Board of Director's meetings.</text>
+              <text>failure to reasonably perform all duties and meet all responsibilities required under the terms of <code-cite path="attachments|law|X">this Act</code-cite>, or otherwise incident to the individual's position, or as mandated by operational circumstances, or as directed by the Board of Directors of the Corporation; provided moreover that there shall exist a presumption of such failure if an individual fails to participate in three (3) consecutive Board of Director's meetings.</text>
             </para>
           </para>
           <para>
@@ -1302,7 +1302,7 @@
           </para>
           <para>
             <num>l.</num>
-            <text>"Liaison" means the person appointment a Liaison by the Executive, Legislative and General Council branches of the Kiowa Tribe as provided in Section 14 of <cite path="attachments|law|">this Act</cite>.</text>
+            <text>"Liaison" means the person appointment a Liaison by the Executive, Legislative and General Council branches of the Kiowa Tribe as provided in Section 14 of <code-cite path="attachments|law|X">this Act</code-cite>.</text>
           </para>
           <para>
             <num>m.</num>
@@ -1350,7 +1350,7 @@
           <heading>Name.</heading>
           <para>
             <num>a.</num>
-            <text>The name of a corporation shall be as set forth in its Charter. All corporations formed under <cite path="attachments|law|">this Act</cite> shall contain the phrase "A Kiowa Tribe Corporation."</text>
+            <text>The name of a corporation shall be as set forth in its Charter. All corporations formed under <code-cite path="attachments|law|X">this Act</code-cite> shall contain the phrase "A Kiowa Tribe Corporation."</text>
           </para>
         </section>
         <section codify:tag="para">
@@ -1373,7 +1373,7 @@
             </para>
             <para>
               <num>4.</num>
-              <text>Except as otherwise provided by <cite path="attachments|law|">this Act</cite> or by a Tribal Corporation's Articles of Incorporation, Corporations and their directors, officers and employees shall be entitled to all of the privileges and immunities enjoyed by the Tribe, including but not limited to immunities from suit in federal, state and Tribal courts, and exemption from federal and state taxation or regulation. The right to consent to suit may be stated by the Incorporator in the bylaws of the Corporation, or by the Board of Directors in any amendment to the bylaws of the corporation.</text>
+              <text>Except as otherwise provided by <code-cite path="attachments|law|X">this Act</code-cite> or by a Tribal Corporation's Articles of Incorporation, Corporations and their directors, officers and employees shall be entitled to all of the privileges and immunities enjoyed by the Tribe, including but not limited to immunities from suit in federal, state and Tribal courts, and exemption from federal and state taxation or regulation. The right to consent to suit may be stated by the Incorporator in the bylaws of the Corporation, or by the Board of Directors in any amendment to the bylaws of the corporation.</text>
             </para>
             <para>
               <num>5.</num>
@@ -1441,7 +1441,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>To sue and be sued and to complain or defend in its corporate name, except that the extent of the Corporation's liability shall be limited to the assets of the Corporation and shall be subject to the limitations contained in Section 7 of <cite path="attachments|law|">this Act</cite>.</text>
+              <text>To sue and be sued and to complain or defend in its corporate name, except that the extent of the Corporation's liability shall be limited to the assets of the Corporation and shall be subject to the limitations contained in Section 7 of <code-cite path="attachments|law|X">this Act</code-cite>.</text>
             </para>
             <para>
               <num>4.</num>
@@ -1473,7 +1473,7 @@
             </para>
             <para>
               <num>11.</num>
-              <text>To conduct its business, locate offices, and exercise the powers granted by <cite path="attachments|law|">this Act</cite> within or without land held in trust for the Tribe.</text>
+              <text>To conduct its business, locate offices, and exercise the powers granted by <code-cite path="attachments|law|X">this Act</code-cite> within or without land held in trust for the Tribe.</text>
             </para>
             <para>
               <num>12.</num>
@@ -1489,7 +1489,7 @@
             </para>
             <para>
               <num>15.</num>
-              <text>To make and amend bylaws, not inconsistent with its Charter or <cite path="attachments|law|">this Act</cite>, for managing the business and regulating the affairs of the Corporation.</text>
+              <text>To make and amend bylaws, not inconsistent with its Charter or <code-cite path="attachments|law|X">this Act</code-cite>, for managing the business and regulating the affairs of the Corporation.</text>
             </para>
             <para>
               <num>16.</num>
@@ -1574,7 +1574,7 @@
           <heading>Board of Directors.</heading>
           <para>
             <num>a.</num>
-            <text>The business and affairs of the Corporation shall be managed by a Board of Directors, except as may be otherwise provided in <cite path="attachments|law|">this Act</cite> or the Charter. No Kiowa Legislator nor the Kiowa Chairman shall serve as a director. However, the Kiowa Vice-Chairman and a designee of the Kiowa Legislature shall sit as ex-officio members of the Board of Directors of every Tribally chartered corporation. The Charter or bylaws may prescribe qualifications for directors. A director need not be a member of the Kiowa Tribe unless the Charter or bylaws so prescribe.</text>
+            <text>The business and affairs of the Corporation shall be managed by a Board of Directors, except as may be otherwise provided in <code-cite path="attachments|law|X">this Act</code-cite> or the Charter. No Kiowa Legislator nor the Kiowa Chairman shall serve as a director. However, the Kiowa Vice-Chairman and a designee of the Kiowa Legislature shall sit as ex-officio members of the Board of Directors of every Tribally chartered corporation. The Charter or bylaws may prescribe qualifications for directors. A director need not be a member of the Kiowa Tribe unless the Charter or bylaws so prescribe.</text>
           </para>
           <para>
             <num>b.</num>
@@ -1676,7 +1676,7 @@
               </para>
               <para>
                 <num>(b)</num>
-                <text>If a quorum is present when a vote is taken, the affirmative vote of a majority of directors present is the act of the Board of Directors unless the Corporation's Articles of Incorporation, <cite path="attachments|law|">this Act</cite> or the bylaws require the vote of a greater number.</text>
+                <text>If a quorum is present when a vote is taken, the affirmative vote of a majority of directors present is the act of the Board of Directors unless the Corporation's Articles of Incorporation, <code-cite path="attachments|law|X">this Act</code-cite> or the bylaws require the vote of a greater number.</text>
               </para>
               <para>
                 <num>(c)</num>
@@ -1689,7 +1689,7 @@
             </para>
             <para>
               <num>5.</num>
-              <text>Conflicts of Interest. <cite path="attachments|law|X|5|5.11">This Section</cite> of the Act shall apply unless the Corporation's bylaws otherwise provides. No member of the Board of Directors shall engage in any transaction that is, or creates the appearance of, a conflict of interest. Any transaction that is a conflict of interest and or creates the appearance of conflict of interest shall be immediately disclosed to the Board of Directors. A conflict of interest transaction is a transaction with the Corporation in which a director of the Corporation has a pecuniary interest. A conflict of interest by one or more members of the Board of Directors of the Corporation does not void the act of the Corporation solely because of the conflict of interest if any of the following is true:</text>
+              <text>Conflicts of Interest. <code-cite path="attachments|law|X|5|5.11">This Section</code-cite> of the Act shall apply unless the Corporation's bylaws otherwise provides. No member of the Board of Directors shall engage in any transaction that is, or creates the appearance of, a conflict of interest. Any transaction that is a conflict of interest and or creates the appearance of conflict of interest shall be immediately disclosed to the Board of Directors. A conflict of interest transaction is a transaction with the Corporation in which a director of the Corporation has a pecuniary interest. A conflict of interest by one or more members of the Board of Directors of the Corporation does not void the act of the Corporation solely because of the conflict of interest if any of the following is true:</text>
               <para>
                 <num>(a)</num>
                 <text>The material facts of the transaction and the director's interest were disclosed or known to a majority of the Board of Directors or a committee of the Board of Directors, excluding the interested director or directors, and a majority of the Board of Directors or committee authorized, approved, or ratified the transaction.</text>
@@ -1902,7 +1902,7 @@
           </para>
           <para>
             <num>c.</num>
-            <text>Unless the Corporation's Articles of Incorporation otherwise provides and subject to tribal and/or federal law, a Corporation may sell, lease, exchange or other dispose of all or substantially all of its properties and assets, including its goodwill and its corporate franchise, on terms as its Board of Directors deems expedient and for the best interests of the Corporation. For <cite path="attachments|law|X|5|5.19">this Section</cite>, substantially all of its properties and assets, including its goodwill and its corporate franchise shall be the sale, lease, exchange or other disposition of such properties and assets constituting fifty one percent (51%) or more of the fair market value of all of the Corporation's properties and assets, including its goodwill and its corporate franchise. Fair market value shall be established by commercially reasonable means as of the date that the transaction is approved by the Board of Directors of the Corporation.</text>
+            <text>Unless the Corporation's Articles of Incorporation otherwise provides and subject to tribal and/or federal law, a Corporation may sell, lease, exchange or other dispose of all or substantially all of its properties and assets, including its goodwill and its corporate franchise, on terms as its Board of Directors deems expedient and for the best interests of the Corporation. For <code-cite path="attachments|law|X|5|5.19">this Section</code-cite>, substantially all of its properties and assets, including its goodwill and its corporate franchise shall be the sale, lease, exchange or other disposition of such properties and assets constituting fifty one percent (51%) or more of the fair market value of all of the Corporation's properties and assets, including its goodwill and its corporate franchise. Fair market value shall be established by commercially reasonable means as of the date that the transaction is approved by the Board of Directors of the Corporation.</text>
           </para>
           <para>
             <num>d.</num>
@@ -1912,7 +1912,7 @@
         <section codify:tag="para">
           <num>5.20</num>
           <heading>Dissolution of Tribally Owned Corporation.</heading>
-          <text>All Tribally Owned Corporations formed under <cite path="attachments|law|X|5|5.20">this section</cite> may be dissolved as follows:</text>
+          <text>All Tribally Owned Corporations formed under <code-cite path="attachments|law|X|5|5.20">this section</code-cite> may be dissolved as follows:</text>
           <para>
             <num>a.</num>
             <text>Dissolution by board of directors and shareholders.</text>
@@ -1934,7 +1934,7 @@
             </para>
             <para>
               <num>5.</num>
-              <text>Unless <cite path="attachments|law|X|5">this chapter</cite>, the Articles of Incorporation, bylaws adopted under authority granted in the Articles of Incorporation, the proposal to dissolve is adopted if approved by a majority of all the votes entitled to be cast on the proposal. Dissolution is authorized upon adoption of the proposal.</text>
+              <text>Unless <code-cite path="attachments|law|X|5">this chapter</code-cite>, the Articles of Incorporation, bylaws adopted under authority granted in the Articles of Incorporation, the proposal to dissolve is adopted if approved by a majority of all the votes entitled to be cast on the proposal. Dissolution is authorized upon adoption of the proposal.</text>
             </para>
           </para>
           <para>
@@ -2034,7 +2034,7 @@
       <para>
         <num>2.1</num>
         <heading>Application to Certain Insiders.</heading>
-        <text>This <cite path="attachments|Attachment A|2.">Section 2 </cite>shall apply to any Insider that is a director or an executive officer (collectively referred to in this Appendix A as a "Designated Insider"). An executive officer is any employee that serves the Corporation in the capacity of president, chief executive officer, chief financial officer or a managerial position having similar duties and responsibilities.</text>
+        <text>This <code-cite path="attachments|Attachment A|2.">Section 2 </code-cite>shall apply to any Insider that is a director or an executive officer (collectively referred to in this Appendix A as a "Designated Insider"). An executive officer is any employee that serves the Corporation in the capacity of president, chief executive officer, chief financial officer or a managerial position having similar duties and responsibilities.</text>
       </para>
       <para>
         <num>2.2</num>
@@ -2064,7 +2064,7 @@
       <para>
         <num>2.3</num>
         <heading>Computation of Time.</heading>
-        <text>If a Designated Insider violates the Restrictive Covenant and the Corporation initiates legal action for injunctive or other relief, the Corporation shall not, as a result of the time involved in obtaining such relief, be deprived of the benefit of the full period of the Restrictive Covenant. Accordingly, the Restrictive Covenant shall be deemed to have the duration specified in this <cite path="attachments|Attachment A|2.">Section 2 </cite>computed from the date the relief is granted. Notwithstanding anything contained herein to the contrary, the foregoing Restrictive Covenant shall not prohibit a Designated Insider from owning directly or indirectly capital stock or similar securities, which are listed on a securities exchange or quoted on the NASDAQ, which do not represent more than one percent (1%) of the outstanding capital stock of any Competing Entity.</text>
+        <text>If a Designated Insider violates the Restrictive Covenant and the Corporation initiates legal action for injunctive or other relief, the Corporation shall not, as a result of the time involved in obtaining such relief, be deprived of the benefit of the full period of the Restrictive Covenant. Accordingly, the Restrictive Covenant shall be deemed to have the duration specified in this <code-cite path="attachments|Attachment A|2.">Section 2 </code-cite>computed from the date the relief is granted. Notwithstanding anything contained herein to the contrary, the foregoing Restrictive Covenant shall not prohibit a Designated Insider from owning directly or indirectly capital stock or similar securities, which are listed on a securities exchange or quoted on the NASDAQ, which do not represent more than one percent (1%) of the outstanding capital stock of any Competing Entity.</text>
       </para>
     </section>
     <section>

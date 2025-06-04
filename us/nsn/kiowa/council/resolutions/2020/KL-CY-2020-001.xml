@@ -258,13 +258,13 @@
       <codify:insert/>
       <num codify:value="8.02.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Road Inventory and Repair Priority Act of 2020" ("Act")</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "Road Inventory and Repair Priority Act of 2020" ("Act")</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="8.02.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this act</cite> is to establish a priority list for road maintenance and repairs.</text>
+      <text>The purpose of <code-cite path="attachments|law">this act</code-cite> is to establish a priority list for road maintenance and repairs.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

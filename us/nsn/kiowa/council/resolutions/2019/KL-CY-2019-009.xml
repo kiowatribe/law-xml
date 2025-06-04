@@ -259,7 +259,7 @@
       <codify:insert/>
       <num codify:value="6.03.010">1.1</num>
       <heading>Short Title.</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the, "Revenue Allocation Plan (RAP) Development Act of 2019" ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the, "Revenue Allocation Plan (RAP) Development Act of 2019" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
