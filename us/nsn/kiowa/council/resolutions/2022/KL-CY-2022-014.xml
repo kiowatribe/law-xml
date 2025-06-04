@@ -278,13 +278,13 @@
       <codify:insert/>
       <num codify:value="7.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Kiowa Casino Operations Authority Board Member Vacancy Act of 2022" (Act)".</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "Kiowa Casino Operations Authority Board Member Vacancy Act of 2022" (Act)".</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="7.03.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish a fair and equitable process for interested and qualified members of the Tribe to be considered to serve as a Trustee on the KCOA Board.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to establish a fair and equitable process for interested and qualified members of the Tribe to be considered to serve as a Trustee on the KCOA Board.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

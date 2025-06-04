@@ -286,13 +286,13 @@
       <codify:insert/>
       <num codify:value="11.02.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the Kiowa Tribe "Charter of Bacone College as a Tribal College Act of 2020." ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the Kiowa Tribe "Charter of Bacone College as a Tribal College Act of 2020." ("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="11.02.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to charter Bacone College to become a tribal college eligible to receive annual appropriation pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 (P.L. 95-471), 25 U.S C.§1801 et seq., and eligible for membership in the American Indian Higher Education Consortium (AIHEC), which was founded in 1973; and to apply for one of the membership categories of AIHEC.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to charter Bacone College to become a tribal college eligible to receive annual appropriation pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 (P.L. 95-471), 25 U.S C.§1801 et seq., and eligible for membership in the American Indian Higher Education Consortium (AIHEC), which was founded in 1973; and to apply for one of the membership categories of AIHEC.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

@@ -225,7 +225,7 @@
       <codify:insert/>
       <num codify:value="6.01.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish laws that improve the operation and management of the Finance Department of the Tribe in order to protect the financial assets of the Tribe, and to require accountability and oversight of the expenditure of the Tribe's funds.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to establish laws that improve the operation and management of the Finance Department of the Tribe in order to protect the financial assets of the Tribe, and to require accountability and oversight of the expenditure of the Tribe's funds.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -259,7 +259,7 @@
       <heading>Hiring a Finance Director</heading>
       <para>
         <num>(a)</num>
-        <text>The Legislature hereby authorizes and directs the Chairman and Vice Chairman, or their designee, to review and select a qualified Finance Director within ninety (90) days of the enactment of <cite path="attachments|law">this Act</cite>.</text>
+        <text>The Legislature hereby authorizes and directs the Chairman and Vice Chairman, or their designee, to review and select a qualified Finance Director within ninety (90) days of the enactment of <code-cite path="attachments|law">this Act</code-cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -276,7 +276,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Chairman and Vice Chairman shall issue a request for proposals, and otherwise announce the need for an Accounting Firm to assist the Tribe. The Accounting Firm shall be meet minimum qualifications including having at least once licensed Certified Public Accountant employed by the Firm, and government accounting experience. The Chairman and Vice Chairman shall contract with the selected Accounting Firm within thirty (30) days of the enactment of <cite path="attachments|law">this Act</cite>.</text>
+        <text>The Chairman and Vice Chairman shall issue a request for proposals, and otherwise announce the need for an Accounting Firm to assist the Tribe. The Accounting Firm shall be meet minimum qualifications including having at least once licensed Certified Public Accountant employed by the Firm, and government accounting experience. The Chairman and Vice Chairman shall contract with the selected Accounting Firm within thirty (30) days of the enactment of <code-cite path="attachments|law">this Act</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -313,7 +313,7 @@
       <codify:insert/>
       <num codify:value="6.01.080">1.8</num>
       <heading>Authorization of Appropriation of Funds</heading>
-      <text>The Legislature hereby authorizes an appropriation of funds to be included in the Annual Budget or Budget Modification for expenditure to implement <cite path="attachments|law">this Act</cite>.</text>
+      <text>The Legislature hereby authorizes an appropriation of funds to be included in the Annual Budget or Budget Modification for expenditure to implement <code-cite path="attachments|law">this Act</code-cite>.</text>
     </section>
   </attachment>
 </document>
