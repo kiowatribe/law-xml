@@ -299,7 +299,7 @@
       <codify:insert/>
       <num codify:value="2.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "477 Resolution".</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "477 Resolution".</text>
     </section>
     <section>
       <codify:insert/>
