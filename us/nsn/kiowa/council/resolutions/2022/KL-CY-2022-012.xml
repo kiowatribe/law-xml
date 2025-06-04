@@ -282,13 +282,13 @@
       <codify:insert/>
       <num codify:value="4.01.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "The Right of Kiowa Voters to Vote by Mail Act of 2022" ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "The Right of Kiowa Voters to Vote by Mail Act of 2022" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="4.01.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to authorize the Kiowa Election Commission to mail out ballots in all elections to all adult members of the Kiowa Tribe who maintain a current address to the Tribe, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to authorize the Kiowa Election Commission to mail out ballots in all elections to all adult members of the Kiowa Tribe who maintain a current address to the Tribe, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

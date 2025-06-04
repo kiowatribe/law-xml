@@ -267,7 +267,7 @@
       <codify:insert/>
       <num codify:value="2.02.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the Kiowa Indian Youth Council Act of 2023.</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the Kiowa Indian Youth Council Act of 2023.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -286,7 +286,7 @@
       <codify:insert/>
       <num codify:value="2.02.030">1.3</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to implement a Kiowa Indian Youth Council to promote leadership development and character building.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to implement a Kiowa Indian Youth Council to promote leadership development and character building.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -310,7 +310,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.050">1.5</num>
       <heading>Approval of the Kiowa Indian Youth Council of 2023</heading>
-      <text><cite path="attachments|law">This Act</cite> establishes a Kiowa Indian Youth Council under the Executive Branch which henceforth shall function on a regular basis to support leadership development of its tribal youth:</text>
+      <text><code-cite path="attachments|law">This Act</code-cite> establishes a Kiowa Indian Youth Council under the Executive Branch which henceforth shall function on a regular basis to support leadership development of its tribal youth:</text>
       <para>
         <num>(a)</num>
         <text>Two members of the Youth Council (grades 7-12) shall be appointed from each of the 7 Legislative Districts;</text>

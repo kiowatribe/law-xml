@@ -234,13 +234,13 @@
       <codify:insert/>
       <num codify:value="10.04.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Employee Benefits Provider Selection Act of 2017" ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "Employee Benefits Provider Selection Act of 2017" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="10.04.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish a fair and orderly process for the Chairman to select an employee benefits company and to authorize the Chairman to enter into a contract with a professional company to provide employee benefits.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to establish a fair and orderly process for the Chairman to select an employee benefits company and to authorize the Chairman to enter into a contract with a professional company to provide employee benefits.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -286,11 +286,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> requires the Chairman to obtain authorization from the Legislature to enter into any contracts on behalf of the Tribe. Any contract signed or entered into in violation of <cite path="attachments|law">this Act</cite> or in violation of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, which shall include the arrangement with the New Benefits Provider, shall be null and void <em>ab initio</em>, and the Existing Benefits Provider shall continue to serve as the Tribe's and KCOA's benefits provider, and the services of the Existing Benefits Provider shall not be cancelled until a benefits provider is selected and ratified in accordance with the requirements of <cite path="attachments|law">this Act</cite>.</text>
+        <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> requires the Chairman to obtain authorization from the Legislature to enter into any contracts on behalf of the Tribe. Any contract signed or entered into in violation of <code-cite path="attachments|law">this Act</code-cite> or in violation of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, which shall include the arrangement with the New Benefits Provider, shall be null and void <em>ab initio</em>, and the Existing Benefits Provider shall continue to serve as the Tribe's and KCOA's benefits provider, and the services of the Existing Benefits Provider shall not be cancelled until a benefits provider is selected and ratified in accordance with the requirements of <code-cite path="attachments|law">this Act</code-cite>.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Nothing in <cite path="attachments|law">this Act</cite> is intended to select or otherwise direct the Chairman to select any particular company or entity to provide employee benefits. <cite path="attachments|law">This Act</cite> is not a private law.</text>
+        <text>Nothing in <code-cite path="attachments|law">this Act</code-cite> is intended to select or otherwise direct the Chairman to select any particular company or entity to provide employee benefits. <code-cite path="attachments|law">This Act</code-cite> is not a private law.</text>
       </para>
       <para>
         <num>(f)</num>

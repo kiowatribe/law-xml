@@ -226,13 +226,13 @@
       <codify:insert/>
       <num codify:value="6.02.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "ECONOMIC DEVELOPMENT DUE DILIGENCE ACT OF 2017" ("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "ECONOMIC DEVELOPMENT DUE DILIGENCE ACT OF 2017" ("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="6.02.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish a process to evaluate and conduct due diligence for potential economic development projects, including the proposed purchase by the Tribe of the health clinic in Carnegie, Oklahoma and a convenience store near Lone Wolf, Oklahoma to determine if the proposed project or purchase represents a sound financial investment.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to establish a process to evaluate and conduct due diligence for potential economic development projects, including the proposed purchase by the Tribe of the health clinic in Carnegie, Oklahoma and a convenience store near Lone Wolf, Oklahoma to determine if the proposed project or purchase represents a sound financial investment.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

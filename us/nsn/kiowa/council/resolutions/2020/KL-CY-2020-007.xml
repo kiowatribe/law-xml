@@ -658,7 +658,7 @@
               <text>Upon order of the court, defend, advise, and counsel without expense to the defendant, any person who is not financially able to employ counsel in the following proceedings and circumstances:</text>
               <para>
                 <num>a.</num>
-                <text>Offenses triable in the Trial Court at all stages of the proceedings, including the preliminary examination, but only for those offenses defined under <cite path="attachments|law|III|4|1.">3.4.1 </cite>of <cite path="attachments|law">this Code</cite>.</text>
+                <text>Offenses triable in the Trial Court at all stages of the proceedings, including the preliminary examination, but only for those offenses defined under <code-cite path="attachments|law|III|4|1.">3.4.1 </code-cite>of <cite path="attachments|law">this Code</cite>.</text>
               </para>
               <para>
                 <num>b.</num>
@@ -687,7 +687,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>By December 1 of each year, file with the Chief Judge and Legislature an annual report on the average cost of defending a major offense. For the purpose of <cite path="attachments|law|I|6|1.6.3">this section</cite>, a major offense shall mean an offense, serious offense or dangerous offense as defined in <cite path="attachments|law|III|4|1.">Section 3.4.1 </cite>of <cite path="attachments|law">this Code</cite>.</text>
+              <text>By December 1 of each year, file with the Chief Judge and Legislature an annual report on the average cost of defending a major offense. For the purpose of <code-cite path="attachments|law|I|6|1.6.3">this section</code-cite>, a major offense shall mean an offense, serious offense or dangerous offense as defined in <code-cite path="attachments|law|III|4|1.">Section 3.4.1 </code-cite>of <cite path="attachments|law">this Code</cite>.</text>
             </para>
             <para>
               <num>4.</num>
@@ -712,7 +712,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Certification. Any attorney eligible under <cite path="attachments|law|I|6|1.6.4|(B)">Section 1.6.4(B)</cite>, who desires to practice in the Courts shall obtain a certificate from the Court authorizing his or her practice before the Courts each calendar year. A certificate must be obtained prior to any appearance by the attorney in Court. The annual fee shall be established by the Chief Judge at not less than $100.</text>
+            <text>Certification. Any attorney eligible under <code-cite path="attachments|law|I|6|1.6.4|B.">Section 1.6.4(B)</code-cite>, who desires to practice in the Courts shall obtain a certificate from the Court authorizing his or her practice before the Courts each calendar year. A certificate must be obtained prior to any appearance by the attorney in Court. The annual fee shall be established by the Chief Judge at not less than $100.</text>
           </para>
           <para>
             <num>D.</num>
@@ -730,7 +730,7 @@
         <para>
           <num>1.6.5</num>
           <heading>LAY ADVOCATES.</heading>
-          <text>Lay advocates shall be permitted to obtain a certificate to practice before the Courts in all civil matters, traffic violations and misdemeanor criminal matters when the defendant has knowingly waived his right to an attorney. For the purposes of <cite path="attachments|law|I|6|1.6.5">this section</cite>, a misdemeanor is an offense punishable by incarceration for less than a year and/or fine not exceeding One Thousand dollars ($1,000) or both. The provisions of <cite path="attachments|law|I|6|1.6.4|(A)">Section 1.6.4 (A)</cite>, (C)-(F) shall also apply to lay advocates. The Chief Judge shall establish the qualifications for certification of lay advocates to appear in cases before the Trial Court.</text>
+          <text>Lay advocates shall be permitted to obtain a certificate to practice before the Courts in all civil matters, traffic violations and misdemeanor criminal matters when the defendant has knowingly waived his right to an attorney. For the purposes of <code-cite path="attachments|law|I|6|1.6.5">this section</code-cite>, a misdemeanor is an offense punishable by incarceration for less than a year and/or fine not exceeding One Thousand dollars ($1,000) or both. The provisions of <code-cite path="attachments|law|I|6|1.6.4|A.">Section 1.6.4 (A)</code-cite>, (C)-(F) shall also apply to lay advocates. The Chief Judge shall establish the qualifications for certification of lay advocates to appear in cases before the Trial Court.</text>
         </para>
       </container>
     </container>
@@ -795,7 +795,7 @@
         <para>
           <num>2.2.4</num>
           <heading>ASSIGNMENT OF CRIMINAL ACTIONS.</heading>
-          <text>Criminal Actions that include allegations of an offense or offenses, which could result in a sentence of incarceration for more than one (1) year as defined in <cite path="attachments|law|III|4|1.">section 3.4.1 </cite>in <cite path="attachments|law">this Code</cite>, shall only be heard by the Chief Judge, Senior Associate Judge, or a Pro-Tem Judge.</text>
+          <text>Criminal Actions that include allegations of an offense or offenses, which could result in a sentence of incarceration for more than one (1) year as defined in <code-cite path="attachments|law|III|4|1.">section 3.4.1 </code-cite>in <cite path="attachments|law">this Code</cite>, shall only be heard by the Chief Judge, Senior Associate Judge, or a Pro-Tem Judge.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -809,11 +809,11 @@
           <text>Arrest is the taking of any person subject to the jurisdiction of the Kiowa Tribal Courts in custody and held to answer for a Tribal offense. An arrest may be made by:</text>
           <para>
             <num>1.</num>
-            <text>A duly authorized police officer under a warrant as provided in <cite path="attachments|law|II|3|2.3.2">Section 2.3.2 </cite>of <cite path="attachments|law">this Code</cite>.</text>
+            <text>A duly authorized police officer under a warrant as provided in <code-cite path="attachments|law|II|3|2.3.2">Section 2.3.2 </code-cite>of <cite path="attachments|law">this Code</cite>.</text>
           </para>
           <para>
             <num>2.</num>
-            <text>A duly authorized police officer without a warrant as provided in <cite path="attachments|law|II|3|2.3.5">Section 2.3.5 </cite>of <cite path="attachments|law">this Code</cite>.</text>
+            <text>A duly authorized police officer without a warrant as provided in <code-cite path="attachments|law|II|3|2.3.5">Section 2.3.5 </code-cite>of <cite path="attachments|law">this Code</cite>.</text>
           </para>
           <para>
             <num>3.</num>
@@ -824,12 +824,12 @@
         <para>
           <num>2.3.2</num>
           <heading>WARRANT OF ARREST.</heading>
-          <text>A Warrant of Arrest is a written order signed by a Trial Court judge commanding the arrest of any person subject to the jurisdiction of the Kiowa Tribal Courts. The warrant must specify the name of the person, or a description by which the person can be identified with reasonable certainty, if the name of the person is not known. It must also state the offense or offenses charged and the date it was issued. A Warrant of Arrest shall not be valid outside the limits of the Kiowa Tribe's jurisdiction as defined in <cite path="attachments|law|I|4|1.4.1">Section 1.4.1 </cite>of <cite path="attachments|law">this Code</cite> but shall be subject to extradition as agreed upon between the Tribe and the various foreign jurisdictions.</text>
+          <text>A Warrant of Arrest is a written order signed by a Trial Court judge commanding the arrest of any person subject to the jurisdiction of the Kiowa Tribal Courts. The warrant must specify the name of the person, or a description by which the person can be identified with reasonable certainty, if the name of the person is not known. It must also state the offense or offenses charged and the date it was issued. A Warrant of Arrest shall not be valid outside the limits of the Kiowa Tribe's jurisdiction as defined in <code-cite path="attachments|law|I|4|1.4.1">Section 1.4.1 </code-cite>of <cite path="attachments|law">this Code</cite> but shall be subject to extradition as agreed upon between the Tribe and the various foreign jurisdictions.</text>
         </para>
         <para>
           <num>2.3.3</num>
           <heading>DIRECTION TO PEACE OFFICER; EXECUTION.</heading>
-          <text>The Warrant may be directed to any law enforcement officer as defined in <cite path="attachments|law|I|6|1.6.1">Section 1.6.1 </cite>of <cite path="attachments|law">this Code</cite> and shall be executed by any qualified law officer to whom it may be delivered.</text>
+          <text>The Warrant may be directed to any law enforcement officer as defined in <code-cite path="attachments|law|I|6|1.6.1">Section 1.6.1 </code-cite>of <cite path="attachments|law">this Code</cite> and shall be executed by any qualified law officer to whom it may be delivered.</text>
         </para>
         <para>
           <num>2.3.4</num>
@@ -1057,7 +1057,7 @@
         <para>
           <num>2.4.1</num>
           <heading>SEARCH WARRANT DEFINED.</heading>
-          <text>A search warrant is a written Order signed by a Trial Court judge, directing any enforcement officer, as designated by <cite path="attachments|law|I|6|1.6.1|(d)">Section 1.6.1(d)</cite> of <cite path="attachments|law">this Code</cite>, to search for items or articles designated in the warrant and to bring them before the Trial Court.</text>
+          <text>A search warrant is a written Order signed by a Trial Court judge, directing any enforcement officer, as designated by <code-cite path="attachments|law|I|6|1.6.1|(d)">Section 1.6.1(d)</code-cite> of <cite path="attachments|law">this Code</cite>, to search for items or articles designated in the warrant and to bring them before the Trial Court.</text>
         </para>
         <para>
           <num>2.4.2</num>
@@ -1077,7 +1077,7 @@
         <para>
           <num>2.4.5</num>
           <heading>INVENTORY.</heading>
-          <text>The officer must immediately return the warrant to the Trial Court judge, as set forth in <cite path="attachments|law|II|4|2.4.4">Section 2.4.4 </cite>of <cite path="attachments|law">this Code</cite>, together with a complete inventory of the items or articles taken. The inventory must be made before witnesses or in the presence of the person from whose possession it was taken. The Trial Court shall deliver a copy of the inventory to the person from whose possession the items or articles were taken.</text>
+          <text>The officer must immediately return the warrant to the Trial Court judge, as set forth in <code-cite path="attachments|law|II|4|2.4.4">Section 2.4.4 </code-cite>of <cite path="attachments|law">this Code</cite>, together with a complete inventory of the items or articles taken. The inventory must be made before witnesses or in the presence of the person from whose possession it was taken. The Trial Court shall deliver a copy of the inventory to the person from whose possession the items or articles were taken.</text>
         </para>
         <para>
           <num>2.4.6</num>
@@ -1223,7 +1223,7 @@
           <text>The complaint must be set aside by the Tribal Court upon the defendant's motion, prior to a plea, in the following cases:</text>
           <para>
             <num>a.</num>
-            <text>Where it is found not to comply with the requirements of <cite path="attachments|law|II|2|2.2.2">Section 2.2.2 </cite>of <cite path="attachments|law">this Code</cite>.</text>
+            <text>Where it is found not to comply with the requirements of <code-cite path="attachments|law|II|2|2.2.2">Section 2.2.2 </code-cite>of <cite path="attachments|law">this Code</cite>.</text>
           </para>
           <para>
             <num>b.</num>
@@ -1275,7 +1275,7 @@
         <para>
           <num>2.8.2</num>
           <heading>IRREGULARITIES, MISTAKES OMISSIONS HAVE NO LEGAL EFFECT UNLESS ACTUALLY PREJUDICIAL.</heading>
-          <text>Neither a departure from the form or mode prescribed in <cite path="attachments|law|II|8">this chapter</cite> in respect to any pleading or proceedings nor an error or mistake therein renders it invalid, unless it has prejudiced the defendant.</text>
+          <text>Neither a departure from the form or mode prescribed in <code-cite path="attachments|law|II|8">this chapter</code-cite> in respect to any pleading or proceedings nor an error or mistake therein renders it invalid, unless it has prejudiced the defendant.</text>
         </para>
         <para>
           <num>2.8.3</num>
@@ -1302,7 +1302,7 @@
           <heading>WAIVER OF RIGHTS.</heading>
           <para>
             <num>A.</num>
-            <text>Notwithstanding the rights enumerated in <cite path="attachments|law|II|8|2.8.6">Section 2.8.6</cite>, a defendant who is properly notified of the date of the trial and voluntarily absent shall be deemed to have waived the right to be present at trial and at the return of the verdict. Therefore, the trial to a jury or the Court may proceed in absentia and the verdict recorded by the Clerk of the Court. If the jury or Judge renders a guilty verdict, a bench warrant shall issue for the arrest of the defendant and he shall be sentenced within 30 days after he is apprehended of voluntarily appears on the warrant.</text>
+            <text>Notwithstanding the rights enumerated in <code-cite path="attachments|law|II|8|2.8.6">Section 2.8.6</code-cite>, a defendant who is properly notified of the date of the trial and voluntarily absent shall be deemed to have waived the right to be present at trial and at the return of the verdict. Therefore, the trial to a jury or the Court may proceed in absentia and the verdict recorded by the Clerk of the Court. If the jury or Judge renders a guilty verdict, a bench warrant shall issue for the arrest of the defendant and he shall be sentenced within 30 days after he is apprehended of voluntarily appears on the warrant.</text>
           </para>
           <para>
             <num>B.</num>
@@ -1376,7 +1376,7 @@
         <para>
           <num>2.8.10</num>
           <heading>DEATH, ILLNESS; SUBSTITUTIONS AUTHORITY OF SUBSTITUTE JUDGE.</heading>
-          <text>After the commencement of the trial of a criminal action or proceeding, if the judge presiding at such trial shall die, become ill, or for any other reason be unable to proceed with and finish the trial, another judge may proceed with and finish the trial. If no other judge is available, then the Clerk of that Court shall adjourn the Court until such time as by stipulation in writing between the parties to the proceeding, a judge shall be agreed upon by them and shall arrive to complete the trial. The judge authorized by <cite path="attachments|law|II|8|2.8.10">this section</cite> shall proceed with and complete the trial and has the same power, authority, and jurisdiction as if the trial had originally commenced before him.</text>
+          <text>After the commencement of the trial of a criminal action or proceeding, if the judge presiding at such trial shall die, become ill, or for any other reason be unable to proceed with and finish the trial, another judge may proceed with and finish the trial. If no other judge is available, then the Clerk of that Court shall adjourn the Court until such time as by stipulation in writing between the parties to the proceeding, a judge shall be agreed upon by them and shall arrive to complete the trial. The judge authorized by <code-cite path="attachments|law|II|8|2.8.10">this section</code-cite> shall proceed with and complete the trial and has the same power, authority, and jurisdiction as if the trial had originally commenced before him.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -1407,7 +1407,12 @@
         <para>
           <num>2.9.5</num>
           <heading>CHALLENGE TO PANEL DEFINED, WHO MAY CHALLENGE AND REASON FOR CHALLENGE.</heading>
-          <text>A challenge to the panel is a written objection made regarding all the jurors returned and may be made by either party. The panel may be challenged when there is an error in the procedure used in summoning the jurors, or bias can be shown. <cite path="attachments|law|II|9|6.">2.9.6 </cite>CHALLENGES TO INDIVIDUAL JURORS. A challenge to an individual juror is an objection which may be taken orally and is either for cause or peremptory.</text>
+          <text>A challenge to the panel is a written objection made regarding all the jurors returned and may be made by either party. The panel may be challenged when there is an error in the procedure used in summoning the jurors, or bias can be shown.</text>
+        <para>
+          <num>2.9.6</num>
+          <heading>CHALLENGES TO INDIVIDUAL JURORS.</heading>
+          <text>A challenge to an individual juror is an objection which may be taken orally and is either for cause or peremptory.</text>
+        </para>
         </para>
         <para>
           <num>2.9.7</num>
@@ -1798,7 +1803,7 @@
         <para>
           <num>2.16.1</num>
           <heading>DEFINITION OF TERMS.</heading>
-          <text>When used in <cite path="attachments|law|II|16">this Chapter</cite>, unless the content otherwise indicates:</text>
+          <text>When used in <code-cite path="attachments|law|II|16">this Chapter</code-cite>, unless the content otherwise indicates:</text>
           <para>
             <num>1.</num>
             <text>"Foreign Court" means any court other than the Trial or Supreme Court of Kiowa Tribe, including federal, state, tribal or courts of a foreign country.</text>
@@ -1830,11 +1835,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The person seeking recognition or enforcement of a foreign judgment complies with the conditions and procedures set forth in <cite path="attachments|law|II|16|2.16.3">2.16.3</cite>.</text>
+            <text>The person seeking recognition or enforcement of a foreign judgment complies with the conditions and procedures set forth in <code-cite path="attachments|law|II|16|2.16.3">2.16.3</code-cite>.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>A judgment decree, order, warrant, subpoena, record or other judicial entry of a foreign court that complies with the above conditions described in <cite path="attachments|law|II|16|2.16.2|(A)">2.16.2(A)</cite> is presumed to be valid. To overcome this presumption, an objecting party must demonstrate that:</text>
+            <text>A judgment decree, order, warrant, subpoena, record or other judicial entry of a foreign court that complies with the above conditions described in <code-cite path="attachments|law|II|16|2.16.2|A.">2.16.2(A)</code-cite> is presumed to be valid. To overcome this presumption, an objecting party must demonstrate that:</text>
             <para>
               <num>1.</num>
               <text>The foreign court lacked personal or subject matter jurisdiction; or</text>
@@ -1870,7 +1875,7 @@
           <heading>PROCEDURES FOR RECOGNITION OR ENFORCEMENT OF FOREIGN JUDGMENTS.</heading>
           <para>
             <num>A.</num>
-            <text><u>Application</u>. In accordance with the foreign judgment recognition provisions set forth in <cite path="attachments|law|II|16|2.16.2">2.16.2</cite>, a foreign judgment that is final and conclusive is enforceable in the Trial Court pursuant to the following procedure.</text>
+            <text><u>Application</u>. In accordance with the foreign judgment recognition provisions set forth in <code-cite path="attachments|law|II|16|2.16.2">2.16.2</code-cite>, a foreign judgment that is final and conclusive is enforceable in the Trial Court pursuant to the following procedure.</text>
           </para>
           <para>
             <num>B.</num>
@@ -1984,6 +1989,7 @@
       </container>
     </container>
     <container>
+      <codified:at path="13"/>
       <prefix>Title</prefix>
       <num>III</num>
       <heading>CRIMINAL CODE</heading>
@@ -1996,7 +2002,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.01.010">3.1.1</num>
           <heading>SHORT TITLE.</heading>
-          <text><cite path="attachments|law|III">This title</cite> may be known and cited as the "Kiowa Criminal Code".</text>
+          <text><code-cite path="attachments|law|III">This title</code-cite> may be known and cited as the "Kiowa Criminal Code".</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true"/>
@@ -2040,7 +2046,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.01.030">3.1.3</num>
           <heading>EFFECTIVE DATE.</heading>
-          <text><cite path="attachments|law">This Code</cite> shall become effective upon its adoption into law.</text>
+          <text><cite path="attachments|law">this Code</cite> shall become effective upon its adoption into law.</text>
         </para>
         <para codify:tag="section">
           <num codify:value="13.01.040">3.1.4</num>
@@ -2053,7 +2059,7 @@
           <heading>APPLICABILITY OF CODE.</heading>
           <para>
             <num>A.</num>
-            <text>The provisions of <cite path="attachments|law">this code</cite> shall not apply or extend to any offense committed prior to the effective date of <cite path="attachments|law">this Code</cite>. The provisions of law in force prior to the enactment of <cite path="attachments|law">this Code</cite> shall remain in full force and effect in regard to an offense committed prior to the effective date of the adoption of <cite path="attachments|law">this Code</cite>.</text>
+            <text>The provisions of <cite path="attachments|law">this Code</cite> shall not apply or extend to any offense committed prior to the effective date of <cite path="attachments|law">this Code</cite>. The provisions of law in force prior to the enactment of <cite path="attachments|law">this Code</cite> shall remain in full force and effect in regard to an offense committed prior to the effective date of the adoption of <cite path="attachments|law">this Code</cite>.</text>
           </para>
           <para>
             <num>B.</num>
@@ -2061,22 +2067,22 @@
           </para>
           <para>
             <num>C.</num>
-            <text><cite path="attachments|law">This Code</cite> does not affect any power conferred by law upon a court martial or other military authority or officer, or conferred upon the United States Department of Justice, to prosecute or punish conduct and offenders violating military codes or laws, or U.S. federal laws, nor any power conferred by law to impose or inflict punishment for contempt.</text>
+            <text><cite path="attachments|law">this Code</cite> does not affect any power conferred by law upon a court martial or other military authority or officer, or conferred upon the United States Department of Justice, to prosecute or punish conduct and offenders violating military codes or laws, or U.S. federal laws, nor any power conferred by law to impose or inflict punishment for contempt.</text>
           </para>
           <para>
             <num>D.</num>
-            <text><cite path="attachments|law">This Code</cite> does not bar, suspend or otherwise affect any right or liability for damages, penalty, forfeiture or other remedy authorized by law to be recovered or enforced in a civil action regardless of whether the conduct involved in the proceeding constitutes an offense defined in <cite path="attachments|law">this Code</cite>.</text>
+            <text><cite path="attachments|law">this Code</cite> does not bar, suspend or otherwise affect any right or liability for damages, penalty, forfeiture or other remedy authorized by law to be recovered or enforced in a civil action regardless of whether the conduct involved in the proceeding constitutes an offense defined in <cite path="attachments|law">this Code</cite>.</text>
           </para>
           <para>
             <num>E.</num>
-            <text>Except as otherwise expressly provided, or unless the context otherwise requires, the provisions of <cite path="attachments|law">this Code</cite> shall govern the construction and punishment of any offense defined outside <cite path="attachments|law|III">this title</cite>.</text>
+            <text>Except as otherwise expressly provided, or unless the context otherwise requires, the provisions of <code-code-cite path="attachments|law">this Code</code-code-cite> shall govern the construction and punishment of any offense defined outside <code-code-cite path="attachments|law|III">this title</code-code-cite>.</text>
           </para>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.01.060">3.1.6</num>
           <heading>RULE OF CONSTRUCTION.</heading>
-          <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law">this code</cite>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <cite path="attachments|law|III|1|3.1.2">Section 3.1.2</cite>.</text>
+          <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law">this Code</cite>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <code-cite path="attachments|law|III|1|3.1.2">Section 3.1.2</code-cite>.</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true"/>
@@ -2290,11 +2296,11 @@
           <heading>TIME LIMITATIONS.</heading>
           <para>
             <num>A.</num>
-            <text>A prosecution for any homicide, any offense that is listed in §§<cite path="attachments|law|III|10|1.">3.10.01 </cite>- 3.10.03 of <cite path="attachments|law|III">this title</cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
+            <text>A prosecution for any homicide, any offense that is listed in §§<code-cite path="attachments|law|III|10|1.">3.10.01 </code-cite>- 3.10.03 of <code-cite path="attachments|law|III">this title</code-cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Except as is otherwise provided in <cite path="attachments|law|III|1|3.1.10">this section</cite>, prosecutions for other offenses must be commenced within the following periods after actual discovery of the crime by the tribe, or from the date upon which discovery should have occurred with the exercise of reasonable diligence on the part of the tribe or the political subdivision having jurisdiction over the alleged offense, whichever first occurs;</text>
+            <text>Except as is otherwise provided in <code-cite path="attachments|law|III|1|3.1.10">this section</code-cite>, prosecutions for other offenses must be commenced within the following periods after actual discovery of the crime by the tribe, or from the date upon which discovery should have occurred with the exercise of reasonable diligence on the part of the tribe or the political subdivision having jurisdiction over the alleged offense, whichever first occurs;</text>
             <para>
               <num>1.</num>
               <text>For misdemeanor offenses, one (1) year from the date of offense.</text>
@@ -2471,7 +2477,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.04.020">2.</num>
           <heading>REPETITIVE OFFENDERS.</heading>
-          <text>The Court may, at its discretion, sentence a person who has been previously convicted of the same offense, or a comparable offense by any jurisdiction in the United States, to one class higher than the sentence imposed in the previous conviction. Convictions for two or more offenses committed for the same act may be counted as one conviction for the purposes of <cite path="attachments|law|III|4|2.">this section</cite>.</text>
+          <text>The Court may, at its discretion, sentence a person who has been previously convicted of the same offense, or a comparable offense by any jurisdiction in the United States, to one class higher than the sentence imposed in the previous conviction. Convictions for two or more offenses committed for the same act may be counted as one conviction for the purposes of <code-cite path="attachments|law|III|4|2.">this section</code-cite>.</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true"/>
@@ -2483,7 +2489,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.04.040">4.</num>
           <heading>OTHER CRIMINAL PENALTIES.</heading>
-          <text>In addition to, or in lieu of, the penalties set forth in <cite path="attachments|law|III|4|1.">Section 3.4.1</cite>, the Court may order restitution, diversion from criminal prosecution, community service, treatment, probation, parole, or suspension of sentence, unless a provision of <cite path="attachments|law">this Code</cite> provides otherwise with respect to a certain type of offense.</text>
+          <text>In addition to, or in lieu of, the penalties set forth in <code-code-code-cite path="attachments|law|III|4|1.">Section 3.4.1</code-code-code-cite>, the Court may order restitution, diversion from criminal prosecution, community service, treatment, probation, parole, or suspension of sentence, unless a provision of <code-code-code-cite path="attachments|law">this Code</code-code-code-cite> provides otherwise with respect to a certain type of offense.</text>
           <text>The Court may substitute community service for a fine, upon a showing that the defendant is indigent or in the interest of justice.</text>
         </para>
         <para codify:tag="section">
@@ -2500,14 +2506,14 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The Tribal Prosecutor is authorized to file civil actions on behalf of the Kiowa Tribe against any person who may be liable to the Kiowa Tribe for civil damages pursuant to subsection A of <cite path="attachments|law|III|4|5.">this Section</cite>.</text>
+            <text>The Tribal Prosecutor is authorized to file civil actions on behalf of the Kiowa Tribe against any person who may be liable to the Kiowa Tribe for civil damages pursuant to subsection A of <code-cite path="attachments|law|III|4|5.">this Section</code-cite>.</text>
           </para>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true"/>
           <num codify:value="13.04.060">6.</num>
           <heading>KIOWA TRADITIONS, CUSTOMS AND PRACTICES.</heading>
-          <text>The Court shall consider Kiowa traditions, customs and practices when imposing the penalties set forth in <cite path="attachments|law|III|4|6.">this section</cite>.</text>
+          <text>The Court shall consider Kiowa traditions, customs and practices when imposing the penalties set forth in <code-cite path="attachments|law|III|4|6.">this section</code-cite>.</text>
         </para>
       </container>
       <container>
@@ -2538,7 +2544,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>It shall be a defense to prosecution under <cite path="attachments|law|III|5|2.">this Section</cite> that the defendant clearly ceased to agree with the conspiracy, took no further part in the conspiracy, and either communicated his or her desire to abandon the conspiracy to the authorities or took other action to thwart the conspiracy.</text>
+            <text>It shall be a defense to prosecution under <code-cite path="attachments|law|III|5|2.">this Section</code-cite> that the defendant clearly ceased to agree with the conspiracy, took no further part in the conspiracy, and either communicated his or her desire to abandon the conspiracy to the authorities or took other action to thwart the conspiracy.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -2600,7 +2606,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Subsection A of <cite path="attachments|law|III|6|6.">this section</cite> does not extend to a person whose spouse has been absent for seven successive years without being known to such person within that time to be living and has been legally declared to be deceased, nor to any person whose former marriage has been pronounced void, annulled or dissolved by judgment of a court of competent jurisdiction.</text>
+            <text>Subsection A of <code-cite path="attachments|law|III|6|6.">this section</code-cite> does not extend to a person whose spouse has been absent for seven successive years without being known to such person within that time to be living and has been legally declared to be deceased, nor to any person whose former marriage has been pronounced void, annulled or dissolved by judgment of a court of competent jurisdiction.</text>
           </para>
           <para>
             <num>C.</num>
@@ -2655,7 +2661,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For the purposes of <cite path="attachments|law|III|6|8.">this section</cite>:</text>
+            <text>For the purposes of <code-cite path="attachments|law|III|6|8.">this section</code-cite>:</text>
             <para>
               <num>1.</num>
               <text>"Course of conduct" means maintaining visual or physical proximity to a specific person or directing verbal, written or other threats, whether express or implied, to a specific person on two or more occasions over a period of time.</text>
@@ -2754,7 +2760,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For purposes of <cite path="attachments|law|III|7|5.">this section</cite>, "vulnerable adult" means an individual eighteen years of age or older who, because of a mental or physical disability, is unable to protect himself from abuse or neglect.</text>
+            <text>For purposes of <code-cite path="attachments|law|III|7|5.">this section</code-cite>, "vulnerable adult" means an individual eighteen years of age or older who, because of a mental or physical disability, is unable to protect himself from abuse or neglect.</text>
           </para>
           <para>
             <num>C.</num>
@@ -3043,11 +3049,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>A report is not required under <cite path="attachments|law|III|10|6.">this section</cite> for conduct prescribed by sections 3.10.3 if the conduct involves only minors who are sixteen or seventeen years of age and there is nothing to indicate that the conduct is other than consensual.</text>
+            <text>A report is not required under <code-cite path="attachments|law|III|10|6.">this section</code-cite> for conduct prescribed by sections 3.10.3 if the conduct involves only minors who are sixteen or seventeen years of age and there is nothing to indicate that the conduct is other than consensual.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>A person who furnishes a report, information or records required or authorized under <cite path="attachments|law|III|10|6.">this section</cite>, or a person who participates in a judicial or administrative proceeding or investigation resulting from a report, information or records required or authorized under <cite path="attachments|law|III|10|6.">this section</cite>, is immune from any civil or criminal liability by reason of that action unless the person is proven to have acted with malice or unless the person has been charged with or is suspected of abusing or neglecting the child or children in question.</text>
+            <text>A person who furnishes a report, information or records required or authorized under <code-code-cite path="attachments|law|III|10|6.">this section</code-code-cite>, or a person who participates in a judicial or administrative proceeding or investigation resulting from a report, information or records required or authorized under <code-code-cite path="attachments|law|III|10|6.">this section</code-code-cite>, is immune from any civil or criminal liability by reason of that action unless the person is proven to have acted with malice or unless the person has been charged with or is suspected of abusing or neglecting the child or children in question.</text>
           </para>
           <para>
             <num>D.</num>
@@ -3071,18 +3077,18 @@
           </para>
           <para>
             <num>E.</num>
-            <text>For the purposes of <cite path="attachments|law|III|10|6.">this section</cite>:</text>
+            <text>For the purposes of <code-cite path="attachments|law|III|10|6.">this section</code-cite>:</text>
             <para>
               <num>1.</num>
-              <text>"Abuse" shall have the same meaning as in <cite path="attachments|law|III|7|5.">3.7.5</cite>.</text>
+              <text>"Abuse" shall have the same meaning as in <code-cite path="attachments|law|III|7|5.">3.7.5</code-cite>.</text>
             </para>
             <para>
               <num>2.</num>
-              <text>"Endangerment or abandonment of a minor" shall have the same meaning as in <cite path="attachments|law|III|6|1.">3.6.1</cite>.</text>
+              <text>"Endangerment or abandonment of a minor" shall have the same meaning as in <code-cite path="attachments|law|III|6|1.">3.6.1</code-cite>.</text>
             </para>
             <para>
               <num>3.</num>
-              <text>"Sexual assault" shall have the same meaning as in <cite path="attachments|law|III|10|2.">3.10.2</cite>.</text>
+              <text>"Sexual assault" shall have the same meaning as in <code-cite path="attachments|law|III|10|2.">3.10.2</code-cite>.</text>
             </para>
             <para>
               <num>4.</num>
@@ -3094,11 +3100,11 @@
             <text>Penalty.</text>
             <para>
               <num>1.</num>
-              <text>A person who violates <cite path="attachments|law|III|10|6.">this section</cite> and is a parent, stepparent, guardian, law enforcement officer, teacher, school official, or has responsibility for the care or treatment of the minor, such as a physician, dentist, nurse, psychologist, counselor, social worker, is guilty of a misdemeanor.</text>
+              <text>A person who violates <code-cite path="attachments|law|III|10|6.">this section</code-cite> and is a parent, stepparent, guardian, law enforcement officer, teacher, school official, or has responsibility for the care or treatment of the minor, such as a physician, dentist, nurse, psychologist, counselor, social worker, is guilty of a misdemeanor.</text>
             </para>
             <para>
               <num>2.</num>
-              <text>A person who violates <cite path="attachments|law|III|10|6.">this section</cite> but does not have a relationship to the child described in subsection 1, shall receive a warning for a first violation, is guilty of a misdemeanor for second violation, and is guilty of a felony for subsequent violations.</text>
+              <text>A person who violates <code-cite path="attachments|law|III|10|6.">this section</code-cite> but does not have a relationship to the child described in subsection 1, shall receive a warning for a first violation, is guilty of a misdemeanor for second violation, and is guilty of a felony for subsequent violations.</text>
             </para>
           </para>
         </para>
@@ -3142,7 +3148,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>For the purposes of <cite path="attachments|law|III|12|1.">this section</cite>, a domesticated animal is any animal that depends on a human for food, water and shelter, including dogs and cats and other house pets unless otherwise defined by law.</text>
+            <text>For the purposes of <code-cite path="attachments|law|III|12|1.">this section</code-cite>, a domesticated animal is any animal that depends on a human for food, water and shelter, including dogs and cats and other house pets unless otherwise defined by law.</text>
           </para>
         </para>
       </container>
@@ -3208,7 +3214,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For purposes of <cite path="attachments|law|III|13|3.">this section</cite>, a person will be considered to have made an "unreasonable disruption" if he or she attends a lawful meeting, procession, ceremony or public gathering while under the influence of alcohol, marijuana or a controlled substance.</text>
+            <text>For purposes of <code-cite path="attachments|law|III|13|3.">this section</code-cite>, a person will be considered to have made an "unreasonable disruption" if he or she attends a lawful meeting, procession, ceremony or public gathering while under the influence of alcohol, marijuana or a controlled substance.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -3221,11 +3227,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For purposes of <cite path="attachments|law|III|13|4.">this section</cite>, a person will be considered to have made an "unreasonable disruption" if he or she enters a ceremonial area during a religious or ceremonial activity while under the influence of alcohol, marijuana or a controlled substance.</text>
+            <text>For purposes of <code-cite path="attachments|law|III|13|4.">this section</code-cite>, a person will be considered to have made an "unreasonable disruption" if he or she enters a ceremonial area during a religious or ceremonial activity while under the influence of alcohol, marijuana or a controlled substance.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>A person who has been previously convicted under <cite path="attachments|law|III|13|4.">this section</cite> and makes an unreasonable disruption is guilty of a felony.</text>
+            <text>A person who has been previously convicted under <code-cite path="attachments|law|III|13|4.">this section</code-cite> and makes an unreasonable disruption is guilty of a felony.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -3256,7 +3262,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For purposes of <cite path="attachments|law|III|14|2.">this section</cite> "official detention" means detention in any facility for custody of persons under charge or conviction of a crime, or any other detention for law enforcement purposes.</text>
+            <text>For purposes of <code-cite path="attachments|law|III|14|2.">this section</code-cite> "official detention" means detention in any facility for custody of persons under charge or conviction of a crime, or any other detention for law enforcement purposes.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -3353,7 +3359,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>For purposes of <cite path="attachments|law|III|14|8.">this section</cite>, "public record" means any record, document or thing belonging to, or received or kept by a public office for information or recording or where required by law to be kept by others for the information of a public office.</text>
+            <text>For purposes of <code-cite path="attachments|law|III|14|8.">this section</code-cite>, "public record" means any record, document or thing belonging to, or received or kept by a public office for information or recording or where required by law to be kept by others for the information of a public office.</text>
           </para>
         </para>
       </container>
@@ -3408,7 +3414,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>Nothing in <cite path="attachments|law|III|15|1.">this section</cite> shall make it illegal to possess, use or be affected by marijuana or controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(21), or as directed by a physician.</text>
+            <text>Nothing in <code-cite path="attachments|law|III|15|1.">this section</code-cite> shall make it illegal to possess, use or be affected by marijuana or controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(21), or as directed by a physician.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -3469,7 +3475,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>Nothing in <cite path="attachments|law|III|15|4.">this section</cite> shall make it illegal to possess, use or be affected by a controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(20), or as directed by a physician.</text>
+            <text>Nothing in <code-cite path="attachments|law|III|15|4.">this section</code-cite> shall make it illegal to possess, use or be affected by a controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(20), or as directed by a physician.</text>
           </para>
         </para>
         <para codify:tag="section">
@@ -3493,7 +3499,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>The proximity of the object, in time and space, to a direct violation of <cite path="attachments|law|III|15">this chapter</cite>.</text>
+              <text>The proximity of the object, in time and space, to a direct violation of <code-cite path="attachments|law|III|15">this chapter</code-cite>.</text>
             </para>
             <para>
               <num>4.</num>
@@ -3505,7 +3511,7 @@
             </para>
             <para>
               <num>6.</num>
-              <text>Direct or circumstantial evidence of the intent of an owner, or of anyone in control of the object, to deliver it to persons whom he knows, or should reasonably know, intend to use the object to facilitate a violation of <cite path="attachments|law|III|15">this chapter</cite>.</text>
+              <text>Direct or circumstantial evidence of the intent of an owner, or of anyone in control of the object, to deliver it to persons whom he knows, or should reasonably know, intend to use the object to facilitate a violation of <code-cite path="attachments|law|III|15">this chapter</code-cite>.</text>
             </para>
             <para>
               <num>7.</num>
@@ -3532,22 +3538,22 @@
         <para>
           <num>4.1.1</num>
           <heading>SHORT TITLE.</heading>
-          <text><cite path="attachments|law|IV">This title</cite> may be known and cited as the "Kiowa Motor Vehicle Code".</text>
+          <text><code-cite path="attachments|law|IV">This title</code-cite> may be known and cited as the "Kiowa Motor Vehicle Code".</text>
         </para>
         <para>
           <num>4.1.2</num>
           <heading>JURISDICTION OF KIOWA TRIBE.</heading>
-          <text>Under <cite path="attachments|law|IV">this Title</cite>, the Kiowa Trial Court shall have exclusive original jurisdiction over all civil traffic infractions and all criminal traffic offenses committed within its Territorial jurisdiction.</text>
+          <text>Under <code-cite path="attachments|law|IV">this Title</code-cite>, the Kiowa Trial Court shall have exclusive original jurisdiction over all civil traffic infractions and all criminal traffic offenses committed within its Territorial jurisdiction.</text>
         </para>
         <para>
           <num>4.1.3</num>
           <heading>DEPOSIT TO AND APPROPRIATION OF GENERAL FUNDS.</heading>
-          <text>All fees, assessments, fines, penalties and forfeitures imposed and collected under <cite path="attachments|law|IV">this Title</cite> shall be used for funding programs related to the enforcement and implementation of <cite path="attachments|law|IV">this Title</cite>, including appointment of Traffic Hearing Officers as provided below.</text>
+          <text>All fees, assessments, fines, penalties and forfeitures imposed and collected under <code-cite path="attachments|law|IV">this Title</code-cite> shall be used for funding programs related to the enforcement and implementation of <code-cite path="attachments|law|IV">this Title</code-cite>, including appointment of Traffic Hearing Officers as provided below.</text>
         </para>
         <para>
           <num>4.1.4</num>
           <heading>CIVIL COMPROMISE DISMISSAL.</heading>
-          <text>A Trial Court Judge may dismiss a pending action based on a complaint or citation for any civil infraction under <cite path="attachments|law|IV">this Title</cite> upon a motion filed by the defendant together with the sworn stipulation and acknowledgement of all parties claiming injury or damage that they have received full compensation and satisfaction from the defendant.</text>
+          <text>A Trial Court Judge may dismiss a pending action based on a complaint or citation for any civil infraction under <code-cite path="attachments|law|IV">this Title</code-cite> upon a motion filed by the defendant together with the sworn stipulation and acknowledgement of all parties claiming injury or damage that they have received full compensation and satisfaction from the defendant.</text>
         </para>
         <para>
           <num>4.1.5</num>
@@ -3566,11 +3572,11 @@
           <heading>DEFINITION OF TERMS.</heading>
           <para>
             <num>A.</num>
-            <text>The definitions contained herein shall apply to all chapters of <cite path="attachments|law|IV">this Title</cite>.</text>
+            <text>The definitions contained herein shall apply to all chapters of <code-cite path="attachments|law|IV">this Title</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Under <cite path="attachments|law|IV">this Title</cite>, unless the context or subject matter otherwise requires:</text>
+            <text>Under <code-cite path="attachments|law|IV">this Title</code-cite>, unless the context or subject matter otherwise requires:</text>
             <para>
               <num>1.</num>
               <heading>ABANDONED VEHICLE:</heading>
@@ -3790,7 +3796,7 @@
         <para>
           <num>4.2.1</num>
           <heading>ENFORCEMENT.</heading>
-          <text>The Kiowa Tribe Police Officers and other police officers authorized by the Tribe shall be responsible for the enforcement of all regulations established in <cite path="attachments|law|IV|2">this chapter</cite>.</text>
+          <text>The Kiowa Tribe Police Officers and other police officers authorized by the Tribe shall be responsible for the enforcement of all regulations established in <code-cite path="attachments|law|IV|2">this chapter</code-cite>.</text>
         </para>
         <para>
           <num>4.2.2</num>
@@ -3802,11 +3808,11 @@
           <heading>AUTHORIZED EMERGENCY VEHICLES.</heading>
           <para>
             <num>A.</num>
-            <text>The driver of an authorized emergency vehicle, when responding to an emergency call, or when in the pursuit of an actual or suspected violator of law, or when responding to a fire alarm, is exempt from the requirements in <cite path="attachments|law|IV|2">this chapter</cite>.</text>
+            <text>The driver of an authorized emergency vehicle, when responding to an emergency call, or when in the pursuit of an actual or suspected violator of law, or when responding to a fire alarm, is exempt from the requirements in <code-cite path="attachments|law|IV|2">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>The provisions of <cite path="attachments|law|IV|2|4.2.3">this section</cite> shall not relieve the driver of an authorized emergency vehicle from the duty to drive with ordinary care for the safety of all persons, nor shall these provisions exempt any party from the consequences of his reckless disregard for the safety of others.</text>
+            <text>The provisions of <code-cite path="attachments|law|IV|2|4.2.3">this section</code-cite> shall not relieve the driver of an authorized emergency vehicle from the duty to drive with ordinary care for the safety of all persons, nor shall these provisions exempt any party from the consequences of his reckless disregard for the safety of others.</text>
           </para>
           <para>
             <num>C.</num>
@@ -3818,7 +3824,7 @@
           <heading>APPLICATION TO ANIMALS AND ANIMAL-DRAWN VEHICLES.</heading>
           <para>
             <num>A.</num>
-            <text>Any person riding an animal or driving an animal-drawn vehicle upon a roadway shall be granted all the rights, and shall be subject to all the duties, applicable to the driver of a vehicle by <cite path="attachments|law|IV|2">this chapter</cite>.</text>
+            <text>Any person riding an animal or driving an animal-drawn vehicle upon a roadway shall be granted all the rights, and shall be subject to all the duties, applicable to the driver of a vehicle by <code-cite path="attachments|law|IV|2">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
@@ -3907,7 +3913,7 @@
         <para>
           <num>4.3.4</num>
           <heading>DUTY OF GARAGES, DEALERS AND WRECKERS TO REPORT ACCIDENTS.</heading>
-          <text>If a vehicle showing recent evidence of an accident under <cite path="attachments|law|IV|2|4.2.1|(C)">Section 4.2.1 (C)</cite> is brought in for services, the owner or manager of the garage, repair shop, dealership or wrecker service shall report the vehicle to the department within twenty-four hours after such vehicle is received. The report must include the engine number, registration number and the name and address of the owner or operator of such vehicle. Non-compliance may result in the loss of business license.</text>
+          <text>If a vehicle showing recent evidence of an accident under <code-cite path="attachments|law|IV|2|4.2.1">Section 4.2.1 (C)</code-cite> is brought in for services, the owner or manager of the garage, repair shop, dealership or wrecker service shall report the vehicle to the department within twenty-four hours after such vehicle is received. The report must include the engine number, registration number and the name and address of the owner or operator of such vehicle. Non-compliance may result in the loss of business license.</text>
         </para>
         <para>
           <num>4.3.5</num>
@@ -3965,7 +3971,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The agency establishing a speed zone under <cite path="attachments|law|IV|4|4.4.2">this section</cite> shall be responsible for erecting at the beginning of each such zone, a sign designating a maximum allowed speed within the zone, and at the end thereof, a sign bearing either the legend "Resume Speed" or setting forth a new maximum speed limit.</text>
+            <text>The agency establishing a speed zone under <code-cite path="attachments|law|IV|4|4.4.2">this section</code-cite> shall be responsible for erecting at the beginning of each such zone, a sign designating a maximum allowed speed within the zone, and at the end thereof, a sign bearing either the legend "Resume Speed" or setting forth a new maximum speed limit.</text>
           </para>
         </para>
         <para>
@@ -3977,7 +3983,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>In addition to those violations expressly designated a criminal offense in <cite path="attachments|law|IV">this Title</cite>, the Trial Court may elect to classify the following as alleging minor criminal offenses:</text>
+            <text>In addition to those violations expressly designated a criminal offense in <code-cite path="attachments|law|IV">this Title</code-cite>, the Trial Court may elect to classify the following as alleging minor criminal offenses:</text>
             <para>
               <num>1.</num>
               <text>any complaint for speeding more than twenty (20) miles per hour in excess of the posted or otherwise applicable speed limit; or</text>
@@ -4052,7 +4058,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The provisions of <cite path="attachments|law|IV|5|4.5.2">this section</cite> shall be applicable where an official traffic control signal is erected and maintained at a place other than an intersection.</text>
+            <text>The provisions of <code-cite path="attachments|law|IV|5|4.5.2">this section</code-cite> shall be applicable where an official traffic control signal is erected and maintained at a place other than an intersection.</text>
           </para>
         </para>
         <para>
@@ -4085,7 +4091,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <cite path="attachments|law|IV|5|4.5.4">this section</cite>, to pay to the Kiowa Tribe the full cost of replacing or removing such traffic control device or railroad sign or signal.</text>
+            <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <code-cite path="attachments|law|IV|5|4.5.4">this section</code-cite>, to pay to the Kiowa Tribe the full cost of replacing or removing such traffic control device or railroad sign or signal.</text>
           </para>
         </para>
         <para>
@@ -4180,7 +4186,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>Any person who violates the provisions of paragraph (a) of <cite path="attachments|law|IV|7|4.7.3">this section</cite> shall be guilty of an infraction punishable by a civil assessment fee of not more than one hundred fifty dollars ($150.00). A second violation within one year thereafter shall be a criminal offense subject to a fine of not more than three hundred seventy-five dollars ($375.00). A third or subsequent violation within one year after the last violation shall be a criminal offense subject to not less than five hundred dollars ($500.00) or imprisonment for not less than sixty (60) days, nor more than six (6) months, or both.</text>
+            <text>Any person who violates the provisions of paragraph (a) of <code-cite path="attachments|law|IV|7|4.7.3">this section</code-cite> shall be guilty of an infraction punishable by a civil assessment fee of not more than one hundred fifty dollars ($150.00). A second violation within one year thereafter shall be a criminal offense subject to a fine of not more than three hundred seventy-five dollars ($375.00). A third or subsequent violation within one year after the last violation shall be a criminal offense subject to not less than five hundred dollars ($500.00) or imprisonment for not less than sixty (60) days, nor more than six (6) months, or both.</text>
           </para>
         </para>
         <para>
@@ -4208,7 +4214,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The limitations set forth in paragraph (A) of <cite path="attachments|law|IV|7|4.7.4">this section</cite> shall not apply on a one-way roadway.</text>
+            <text>The limitations set forth in paragraph (A) of <code-cite path="attachments|law|IV|7|4.7.4">this section</code-cite> shall not apply on a one-way roadway.</text>
           </para>
         </para>
         <para>
@@ -4275,7 +4281,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Where a center lane has been provided, any maneuver other than a left turn from this center lane will be deemed a violation of <cite path="attachments|law|IV|8|4.8.1">this section</cite>.</text>
+            <text>Where a center lane has been provided, any maneuver other than a left turn from this center lane will be deemed a violation of <code-cite path="attachments|law|IV|8|4.8.1">this section</code-cite>.</text>
           </para>
         </para>
         <para>
@@ -4342,7 +4348,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text><cite path="attachments|law|IV|9|4.9.1">This section</cite> shall not apply to a disabled vehicle on the paved or main-traveled portion of a roadway when it is impossible to avoid temporarily leaving the disabled vehicle in such position.</text>
+            <text><code-cite path="attachments|law|IV|9|4.9.1">This section</code-cite> shall not apply to a disabled vehicle on the paved or main-traveled portion of a roadway when it is impossible to avoid temporarily leaving the disabled vehicle in such position.</text>
           </para>
         </para>
         <para>
@@ -4401,7 +4407,7 @@
         <para>
           <num>4.9.3</num>
           <heading>PARKING PRIVILEGES FOR PHYSICALLY DISABLED.</heading>
-          <text>Only a motor vehicle bearing the international wheelchair symbol may park in designated parking areas for the physically disabled, except as provided in <cite path="attachments|law|IV|9|4.9.1|(C)">Sections 4.9.1(C)</cite>.</text>
+          <text>Only a motor vehicle bearing the international wheelchair symbol may park in designated parking areas for the physically disabled, except as provided in <code-cite path="attachments|law|IV|9|4.9.1|C.">Sections 4.9.1(C)</code-cite>.</text>
         </para>
         <para>
           <num>4.9.4</num>
@@ -4426,7 +4432,7 @@
           <heading>PEDESTRIANS SUBJECT TO TRAFFIC REGULATIONS.</heading>
           <para>
             <num>A.</num>
-            <text>Pedestrians shall obey all traffic control signals. Where no signals are in place, pedestrians shall have the right-of-way subject to the restrictions in <cite path="attachments|law|IV|10">this chapter</cite>.</text>
+            <text>Pedestrians shall obey all traffic control signals. Where no signals are in place, pedestrians shall have the right-of-way subject to the restrictions in <code-cite path="attachments|law|IV|10">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
@@ -4474,7 +4480,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Failure to comply with <cite path="attachments|law|IV|10|4.10.3">this section</cite> may result in the imposition of a civil assessment fee not to exceed thirty-seven dollars and fifty cents ($37.50).</text>
+            <text>Failure to comply with <code-cite path="attachments|law|IV|10|4.10.3">this section</code-cite> may result in the imposition of a civil assessment fee not to exceed thirty-seven dollars and fifty cents ($37.50).</text>
           </para>
         </para>
         <para>
@@ -4486,7 +4492,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>At all school crossings, except as provided in <cite path="attachments|law|IV|10|4.10.4">this section</cite>, appropriate signs shall be provided, indicating the crossings and regulations for traffic movement within the school zones.</text>
+            <text>At all school crossings, except as provided in <code-cite path="attachments|law|IV|10|4.10.4">this section</code-cite>, appropriate signs shall be provided, indicating the crossings and regulations for traffic movement within the school zones.</text>
           </para>
           <para>
             <num>C.</num>
@@ -4514,7 +4520,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>A violation of <cite path="attachments|law|IV|10|4.10.5">this section</cite> shall be subject to a fine not to exceed five hundred dollars ($500.00).</text>
+            <text>A violation of <code-cite path="attachments|law|IV|10|4.10.5">this section</code-cite> shall be subject to a fine not to exceed five hundred dollars ($500.00).</text>
           </para>
         </para>
       </container>
@@ -4528,11 +4534,11 @@
           <heading>APPLICATION OF PROVISIONS.</heading>
           <para>
             <num>A.</num>
-            <text>A parent or guardian who authorizes or knowingly permits a child to violate any of the provisions of <cite path="attachments|law|IV|11">this chapter</cite> may be found liable and assessed for each such violation.</text>
+            <text>A parent or guardian who authorizes or knowingly permits a child to violate any of the provisions of <code-cite path="attachments|law|IV|11">this chapter</code-cite> may be found liable and assessed for each such violation.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Any person riding a bicycle upon a roadway shall be granted all the rights and shall be subject to all the duties applicable to the driver of a vehicle by <cite path="attachments|law|IV|11">this chapter</cite>, except as provided herein.</text>
+            <text>Any person riding a bicycle upon a roadway shall be granted all the rights and shall be subject to all the duties applicable to the driver of a vehicle by <code-cite path="attachments|law|IV|11">this chapter</code-cite>, except as provided herein.</text>
           </para>
         </para>
         <para>
@@ -4599,7 +4605,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>Any person who violates the provisions of <cite path="attachments|law|IV|12|4.12.1">this section</cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
+            <text>Any person who violates the provisions of <code-cite path="attachments|law|IV|12|4.12.1">this section</code-cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
           </para>
         </para>
         <para>
@@ -4611,7 +4617,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Any person who violates the provisions of <cite path="attachments|law|IV|12|4.12.2">this section</cite> shall be subject to a civil assessment fee not to exceed three hundred seventy-five dollars ($375.00).</text>
+            <text>Any person who violates the provisions of <code-cite path="attachments|law|IV|12|4.12.2">this section</code-cite> shall be subject to a civil assessment fee not to exceed three hundred seventy-five dollars ($375.00).</text>
           </para>
         </para>
         <para>
@@ -4627,7 +4633,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Any person who violates the provisions of <cite path="attachments|law|IV|12|4.12.3">this section</cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
+            <text>Any person who violates the provisions of <code-cite path="attachments|law|IV|12|4.12.3">this section</code-cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
           </para>
         </para>
         <para>
@@ -4652,7 +4658,7 @@
           </para>
           <para>
             <num>D.</num>
-            <text>Any person who violates the provisions of <cite path="attachments|law|IV|12|4.12.5">this section</cite> shall be subject to a civil assessment fee not to exceed five hundred dollars ($500.00).</text>
+            <text>Any person who violates the provisions of <code-cite path="attachments|law|IV|12|4.12.5">this section</code-cite> shall be subject to a civil assessment fee not to exceed five hundred dollars ($500.00).</text>
           </para>
         </para>
       </container>
@@ -4670,11 +4676,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The use of additional parts and accessories on any vehicle shall not be prohibited, unless inconsistent with the provisions of <cite path="attachments|law|IV|13">this chapter</cite>.</text>
+            <text>The use of additional parts and accessories on any vehicle shall not be prohibited, unless inconsistent with the provisions of <code-cite path="attachments|law|IV|13">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>The provisions of <cite path="attachments|law|IV|13">this chapter</cite>, with respect to vehicular equipment, shall not apply to implements of husbandry, road machinery, road rollers or farm tractors unless otherwise stated.</text>
+            <text>The provisions of <code-cite path="attachments|law|IV|13">this chapter</code-cite>, with respect to vehicular equipment, shall not apply to implements of husbandry, road machinery, road rollers or farm tractors unless otherwise stated.</text>
           </para>
         </para>
         <para>
@@ -4687,11 +4693,11 @@
           <heading>HEADLAMPS.</heading>
           <para>
             <num>A.</num>
-            <text>Any vehicle other than a motorcycle or motor-driven cycle shall be equipped with at least two headlamps, one on each side of the front of the motor vehicle, which shall comply with the requirements and limitations set forth in <cite path="attachments|law|IV|13">this chapter</cite>.</text>
+            <text>Any vehicle other than a motorcycle or motor-driven cycle shall be equipped with at least two headlamps, one on each side of the front of the motor vehicle, which shall comply with the requirements and limitations set forth in <code-cite path="attachments|law|IV|13">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Every motorcycle and motor-driven cycle shall be equipped with at least one and not more than two headlamps that shall comply with the requirements and limitations set forth in <cite path="attachments|law|IV|13">this chapter</cite>.</text>
+            <text>Every motorcycle and motor-driven cycle shall be equipped with at least one and not more than two headlamps that shall comply with the requirements and limitations set forth in <code-cite path="attachments|law|IV|13">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>C.</num>
@@ -4755,7 +4761,7 @@
           </para>
           <para>
             <num>E.</num>
-            <text>When a motor vehicle equipped with headlamps as required by <cite path="attachments|law|IV|13">this chapter</cite> is also equipped with an auxiliary lamp or spot lamp, not more than a total of four of any such lamps on the front of a vehicle shall be lighted at any one time.</text>
+            <text>When a motor vehicle equipped with headlamps as required by <code-cite path="attachments|law|IV|13">this chapter</code-cite> is also equipped with an auxiliary lamp or spot lamp, not more than a total of four of any such lamps on the front of a vehicle shall be lighted at any one time.</text>
           </para>
         </para>
         <para>
@@ -4937,7 +4943,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Combination of vehicles less than eighty (80) inches in width in driveaway/towaway operations shall carry lamp and reflectors as required in <cite path="attachments|law|IV|13|4.13.10">section 4.13.10</cite>.</text>
+            <text>Combination of vehicles less than eighty (80) inches in width in driveaway/towaway operations shall carry lamp and reflectors as required in <code-cite path="attachments|law|IV|13|4.13.10">section 4.13.10</code-cite>.</text>
           </para>
         </para>
         <para>
@@ -5261,11 +5267,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Violators of <cite path="attachments|law|IV|13|4.13.28">this section</cite> are subject to a civil assessment fee of not less than thirty-seven dollars and fifty cents ($37.50) and not more than seventy-five dollars ($75.00), or not less than ten hours and not more than 30 hours of community service.</text>
+            <text>Violators of <code-cite path="attachments|law|IV|13|4.13.28">this section</code-cite> are subject to a civil assessment fee of not less than thirty-seven dollars and fifty cents ($37.50) and not more than seventy-five dollars ($75.00), or not less than ten hours and not more than 30 hours of community service.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>Evidence of a violation of <cite path="attachments|law|IV|13|4.13.28">this section</cite> shall be admissible for the purposes of mitigation of damages, appointment of damages or comparative fault, or other issues as determined by the court, with respect to any person who is involved in an accident and seeks to recover damages for injuries resulting from the accident.</text>
+            <text>Evidence of a violation of <code-cite path="attachments|law|IV|13|4.13.28">this section</code-cite> shall be admissible for the purposes of mitigation of damages, appointment of damages or comparative fault, or other issues as determined by the court, with respect to any person who is involved in an accident and seeks to recover damages for injuries resulting from the accident.</text>
           </para>
         </para>
         <para>
@@ -5320,15 +5326,15 @@
             <text>Civil Penalties.</text>
             <para>
               <num>i.</num>
-              <text>A first-time violator of <cite path="attachments|law|IV|13|4.13.29">this section</cite> is subject to a civil assessment fee not more than thirty-seven dollars and fifty cents ($37.50), or not less than ten (10) hours of community service. A second time violator of <cite path="attachments|law|IV|13|4.13.29">this section</cite> is subject to a civil assessment fee of not more than fifty dollars ($50), or not less than twenty (20) hours of community service. A person violating <cite path="attachments|law|IV|13|4.13.29">this section</cite> three times or more is subject to a civil assessment fee of not more than sixty-seven dollars and fifty cents ($67.50), or not less than thirty (30) hours of community service.</text>
+              <text>A first-time violator of <code-cite path="attachments|law|IV|13|4.13.29">this section</code-cite> is subject to a civil assessment fee not more than thirty-seven dollars and fifty cents ($37.50), or not less than ten (10) hours of community service. A second time violator of <code-cite path="attachments|law|IV|13|4.13.29">this section</code-cite> is subject to a civil assessment fee of not more than fifty dollars ($50), or not less than twenty (20) hours of community service. A person violating <code-cite path="attachments|law|IV|13|4.13.29">this section</code-cite> three times or more is subject to a civil assessment fee of not more than sixty-seven dollars and fifty cents ($67.50), or not less than thirty (30) hours of community service.</text>
             </para>
             <para>
               <num>ii.</num>
-              <text>Civil assessment fees collected from violations of <cite path="attachments|law|IV|13|4.13.29">this section</cite> shall be used for the purpose of purchasing child restraint seats for the Tribe.</text>
+              <text>Civil assessment fees collected from violations of <code-cite path="attachments|law|IV|13|4.13.29">this section</code-cite> shall be used for the purpose of purchasing child restraint seats for the Tribe.</text>
             </para>
             <para>
               <num>iii.</num>
-              <text>A civil assessment fee arising from a violation of <cite path="attachments|law|IV|13|4.13.29">this section</cite> can be reduced or waived if the individual attends a Children Are Precious Passengers (CAPP) course and provides proof within thirty (30) days that they have purchased a child passenger restraint system that meets the requirements of subsection A.</text>
+              <text>A civil assessment fee arising from a violation of <code-cite path="attachments|law|IV|13|4.13.29">this section</code-cite> can be reduced or waived if the individual attends a Children Are Precious Passengers (CAPP) course and provides proof within thirty (30) days that they have purchased a child passenger restraint system that meets the requirements of subsection A.</text>
             </para>
           </para>
           <para>
@@ -5341,11 +5347,11 @@
           <heading>UNSECURED PASSENGERS IN TRUCKS.</heading>
           <para>
             <num>A.</num>
-            <text>No person shall operate a truck when any person under the age of thirteen is riding in the unenclosed bed of the truck. The provisions of <cite path="attachments|law|IV|13|4.13.30">this section</cite> shall not apply if the truck has installed a means of preventing a person riding in the unenclosed bed from being thrown, falling, or jumping from the truck.</text>
+            <text>No person shall operate a truck when any person under the age of thirteen is riding in the unenclosed bed of the truck. The provisions of <code-cite path="attachments|law|IV|13|4.13.30">this section</code-cite> shall not apply if the truck has installed a means of preventing a person riding in the unenclosed bed from being thrown, falling, or jumping from the truck.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Violators of <cite path="attachments|law|IV|13|4.13.30">this section</cite> are subject to a civil assessment fee not more than three hundred fifty dollars ($350.00) or less than fifty (50) hours of community service.</text>
+            <text>Violators of <code-cite path="attachments|law|IV|13|4.13.30">this section</code-cite> are subject to a civil assessment fee not more than three hundred fifty dollars ($350.00) or less than fifty (50) hours of community service.</text>
           </para>
         </para>
       </container>
@@ -5359,11 +5365,11 @@
           <heading>SCOPE AND EFFECT OF ARTICLE.</heading>
           <para>
             <num>A.</num>
-            <text>The provisions of <cite path="attachments|law|IV|14">this chapter</cite> governing size, weight and load shall not apply to fire apparatus, road machinery engaged in highway construction or maintenance, or to implements of husbandry temporarily moved upon a highway, or to a vehicle operated under term of special permit.</text>
+            <text>The provisions of <code-cite path="attachments|law|IV|14">this chapter</code-cite> governing size, weight and load shall not apply to fire apparatus, road machinery engaged in highway construction or maintenance, or to implements of husbandry temporarily moved upon a highway, or to a vehicle operated under term of special permit.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <cite path="attachments|law|IV|14|4.14.1">this section</cite> to pay the full cost of repairing or replacing any property damaged as the result of such violation.</text>
+            <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <code-cite path="attachments|law|IV|14|4.14.1">this section</code-cite> to pay the full cost of repairing or replacing any property damaged as the result of such violation.</text>
           </para>
         </para>
         <para>
@@ -5421,7 +5427,7 @@
           <heading>PERMITS FOR EXCESSIVE SIZE AND WEIGHT.</heading>
           <para>
             <num>A.</num>
-            <text>Upon application to the appropriate tribal authority, a special permit may be issued authorizing the applicant to operate a vehicle or combination of vehicles of a size, weight or load exceeding the maximum specified in <cite path="attachments|law|IV|14">this chapter</cite>.</text>
+            <text>Upon application to the appropriate tribal authority, a special permit may be issued authorizing the applicant to operate a vehicle or combination of vehicles of a size, weight or load exceeding the maximum specified in <code-cite path="attachments|law|IV|14">this chapter</code-cite>.</text>
           </para>
           <para>
             <num>B.</num>
@@ -5457,11 +5463,11 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Any person convicted of violating <cite path="attachments|law|IV|15|4.15.3">this section</cite> shall be sentenced to not less than twenty-four (24) consecutive hours in jail. The court will not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serve not less than twenty-four consecutive hours in jail. The court shall order such person to pay a fine of not less than three hundred ($300.00) dollars and may order the person to perform not less than eight (8) nor more than forty (40) hours of community service. The Judge shall require the surrender of the offender's operator's or chauffeur's license and suspend the license for a period of ninety (90) days, for a first offense, one hundred eighty (180) days, for a second offense, and one (1) year, for a third offense.</text>
+            <text>Any person convicted of violating <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite> shall be sentenced to not less than twenty-four (24) consecutive hours in jail. The court will not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serve not less than twenty-four consecutive hours in jail. The court shall order such person to pay a fine of not less than three hundred ($300.00) dollars and may order the person to perform not less than eight (8) nor more than forty (40) hours of community service. The Judge shall require the surrender of the offender's operator's or chauffeur's license and suspend the license for a period of ninety (90) days, for a first offense, one hundred eighty (180) days, for a second offense, and one (1) year, for a third offense.</text>
           </para>
           <para>
             <num>D.</num>
-            <text>When the Trial Court requires a person convicted of violating the provisions of <cite path="attachments|law|IV|15|4.15.3">this section</cite> to surrender to the court the operator's or chauffeur's license of such person, it shall forward the surrendered license or permit to the state office issuing the license or permit together with a certified order of the court suspending or revoking the driving privileges of the convicted person.</text>
+            <text>When the Trial Court requires a person convicted of violating the provisions of <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite> to surrender to the court the operator's or chauffeur's license of such person, it shall forward the surrendered license or permit to the state office issuing the license or permit together with a certified order of the court suspending or revoking the driving privileges of the convicted person.</text>
           </para>
           <para>
             <num>E.</num>
@@ -5469,19 +5475,19 @@
           </para>
           <para>
             <num>F.</num>
-            <text>If a person is convicted of a second violation of <cite path="attachments|law|IV|15|4.15.3">this section</cite> within a period of twenty-four months, the person shall be ordered to serve a term of not less than thirty days in jail. A court shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than thirty days in jail. The court shall also order the person to pay a fine of not less than five hundred ($500.00) dollars. The dates of the commission of the offense shall be the determining factor in applying this rule. No judge may grant probation to, or suspend the imposition or execution of a jail sentence. If, in the court's opinion, the offender has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
+            <text>If a person is convicted of a second violation of <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite> within a period of twenty-four months, the person shall be ordered to serve a term of not less than thirty days in jail. A court shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than thirty days in jail. The court shall also order the person to pay a fine of not less than five hundred ($500.00) dollars. The dates of the commission of the offense shall be the determining factor in applying this rule. No judge may grant probation to, or suspend the imposition or execution of a jail sentence. If, in the court's opinion, the offender has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
           </para>
           <para>
             <num>G.</num>
-            <text>If a person is convicted of a third or subsequent violation of <cite path="attachments|law|IV|15|4.15.3">this section</cite> within a period of thirty-six months, the person shall be sentenced to serve not less than six months in jail. A judge shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than six months in jail. The dates of the commission of the offense are the determining factors in applying this rule. The Judge shall require the surrender of such offender's operator's or chauffeur's license and suspend the license for a period of five years. A judge shall not suspend the imposition of a prison sentence or fail to require the surrender of any license of a person for a third or subsequent conviction. If, in the court's opinion, the person has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
+            <text>If a person is convicted of a third or subsequent violation of <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite> within a period of thirty-six months, the person shall be sentenced to serve not less than six months in jail. A judge shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than six months in jail. The dates of the commission of the offense are the determining factors in applying this rule. The Judge shall require the surrender of such offender's operator's or chauffeur's license and suspend the license for a period of five years. A judge shall not suspend the imposition of a prison sentence or fail to require the surrender of any license of a person for a third or subsequent conviction. If, in the court's opinion, the person has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
           </para>
           <para>
             <num>H.</num>
-            <text>Any political subdivision processing or utilizing the services of a person ordered to perform community service pursuant to <cite path="attachments|law|IV|15|4.15.3">this section</cite>, shall not incur any civil liability to the person ordered to perform community service as a result of these activities, unless the political subdivision, its agent or employee is guilty of gross negligence or willful and wanton disregard for such person's safety.</text>
+            <text>Any political subdivision processing or utilizing the services of a person ordered to perform community service pursuant to <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite>, shall not incur any civil liability to the person ordered to perform community service as a result of these activities, unless the political subdivision, its agent or employee is guilty of gross negligence or willful and wanton disregard for such person's safety.</text>
           </para>
           <para>
             <num>I.</num>
-            <text>The court may, upon pronouncement of any jail sentence under <cite path="attachments|law|IV|15|4.15.3">this section</cite>, provide in the sentence that the defendant be permitted, if he or she is employed and can continue the employment, to continue such employment for not more than twelve (12) hours per day nor more than six (6) days per week; the remaining days or parts of days shall be spent in jail until the sentence is served. Such person shall be allowed out of jail only long enough to complete his or her actual hours of employment and no longer.</text>
+            <text>The court may, upon pronouncement of any jail sentence under <code-cite path="attachments|law|IV|15|4.15.3">this section</code-cite>, provide in the sentence that the defendant be permitted, if he or she is employed and can continue the employment, to continue such employment for not more than twelve (12) hours per day nor more than six (6) days per week; the remaining days or parts of days shall be spent in jail until the sentence is served. Such person shall be allowed out of jail only long enough to complete his or her actual hours of employment and no longer.</text>
           </para>
         </para>
         <para>
@@ -5490,11 +5496,11 @@
           <text>A person is guilty of aggravated driving or actual physical control while under the influence of intoxicating liquor or drugs, an offense, if the person does any of the following:</text>
           <para>
             <num>A.</num>
-            <text>Commits a violation of <cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
+            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </code-cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Commits a violation of <cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </cite>while a person under twelve years of age is in the vehicle.</text>
+            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </code-cite>while a person under twelve years of age is in the vehicle.</text>
           </para>
         </para>
         <para>
@@ -5510,7 +5516,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>The driving license or permit of any person found guilty of violating <cite path="attachments|law|IV|15|4.15.5">this section</cite> may be suspended by the court for a period not to exceed ninety (90) days.</text>
+            <text>The driving license or permit of any person found guilty of violating <code-cite path="attachments|law|IV|15|4.15.5">this section</code-cite> may be suspended by the court for a period not to exceed ninety (90) days.</text>
           </para>
         </para>
         <para>
@@ -5522,7 +5528,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Any person found guilty of violating <cite path="attachments|law|IV|15|4.15.6">this section</cite> shall attend a traffic safety education course, in addition to any other penalties imposed by the court.</text>
+            <text>Any person found guilty of violating <code-cite path="attachments|law|IV|15|4.15.6">this section</code-cite> shall attend a traffic safety education course, in addition to any other penalties imposed by the court.</text>
           </para>
           <para>
             <num>C.</num>
@@ -5548,14 +5554,14 @@
         <para>
           <num>4.15.8</num>
           <heading>PENALTY FOR REFUSAL TO SUBMIT TO CHEMICAL TEST.</heading>
-          <text>Any person who refuses to submit to a chemical test as requested by an officer pursuant to <cite path="attachments|law|IV|15|4.15.7">Section 4.15.7</cite>, shall have his driving privileges suspended by the court for a period of one year.</text>
+          <text>Any person who refuses to submit to a chemical test as requested by an officer pursuant to <code-cite path="attachments|law|IV|15|4.15.7">Section 4.15.7</code-cite>, shall have his driving privileges suspended by the court for a period of one year.</text>
         </para>
         <para>
           <num>4.15.9</num>
           <heading>PRESUMPTIONS OF INTOXICATION.</heading>
           <para>
             <num>A.</num>
-            <text>The results of a chemical test performed pursuant to <cite path="attachments|law|IV|15">this chapter</cite> may be introduced into evidence in any civil or criminal action arising out of acts alleged to have been committed while operating a motor vehicle under the influence of intoxicating liquor or drugs.</text>
+            <text>The results of a chemical test performed pursuant to <code-cite path="attachments|law|IV|15">this chapter</code-cite> may be introduced into evidence in any civil or criminal action arising out of acts alleged to have been committed while operating a motor vehicle under the influence of intoxicating liquor or drugs.</text>
           </para>
           <para>
             <num>B.</num>
@@ -5603,13 +5609,13 @@
           </para>
           <para>
             <num>E.</num>
-            <text>Nothing in <cite path="attachments|law|IV|15">this chapter</cite> will authorize any law enforcement officer, or any judicial or probation officer, to make an arrest or to direct the performance of a blood-alcohol and/or drug test not unauthorized by law.</text>
+            <text>Nothing in <code-cite path="attachments|law|IV|15">this chapter</code-cite> will authorize any law enforcement officer, or any judicial or probation officer, to make an arrest or to direct the performance of a blood-alcohol and/or drug test not unauthorized by law.</text>
           </para>
         </para>
         <para>
           <num>4.15.10</num>
           <heading>RECORDS OR DISPOSITION.</heading>
-          <text>All records regarding the disposition of cases in which a person is charged with a violation of <cite path="attachments|law|IV|15|4.15.3">Section 4.15.3 </cite>shall be maintained by the court and made accessible to the general public. The court shall include in these records an explanation of its reasons for accepting any plea agreement or dismissing any charge in violation of <cite path="attachments|law|IV|15|4.15.3">Section 4.15.3</cite>. 4.15.11 THROWING OR DROPPING OBJECTS AT MOVING VEHICLES. It is an offense for any person to intentionally or recklessly throw, or otherwise propel any object at a motor vehicle in operation. The Court shall consider the age of the violator, the extent of damage, as well as any injuries and may, in its discretion, reduce the classification or sentence.</text>
+          <text>All records regarding the disposition of cases in which a person is charged with a violation of <code-cite path="attachments|law|IV|15|4.15.3">Section 4.15.3 </code-cite>shall be maintained by the court and made accessible to the general public. The court shall include in these records an explanation of its reasons for accepting any plea agreement or dismissing any charge in violation of <code-cite path="attachments|law|IV|15|4.15.3">Section 4.15.3</code-cite>. 4.15.11 THROWING OR DROPPING OBJECTS AT MOVING VEHICLES. It is an offense for any person to intentionally or recklessly throw, or otherwise propel any object at a motor vehicle in operation. The Court shall consider the age of the violator, the extent of damage, as well as any injuries and may, in its discretion, reduce the classification or sentence.</text>
         </para>
         <para>
           <num>4.15.12</num>
@@ -5624,7 +5630,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>In addition, to any penalties imposed by the court, the Department may order that the conduct of any highway, roadway or street work construction or maintenance not in conformity with the requirements of <cite path="attachments|law|IV|15|4.15.12">this section</cite>, be secured and suspended until brought into full compliance and conformity with said requirements.</text>
+            <text>In addition, to any penalties imposed by the court, the Department may order that the conduct of any highway, roadway or street work construction or maintenance not in conformity with the requirements of <code-cite path="attachments|law|IV|15|4.15.12">this section</code-cite>, be secured and suspended until brought into full compliance and conformity with said requirements.</text>
           </para>
         </para>
       </container>
@@ -5638,11 +5644,11 @@
           <heading>WHEN ARRESTEE TO BE GIVEN NOTICE TO APPEAR IN COURT.</heading>
           <para>
             <num>A.</num>
-            <text>When a person is arrested for a criminal offense under <cite path="attachments|law|IV">this Title</cite>, he shall give his written promise to appear in court in order to secure release as provided in <cite path="attachments|law|IV|16|4.16.1">this section</cite> unless the arresting officers has good reason to believe the arrestee is incapable of safely operating a motor vehicle. The officer shall deliver a copy of the notice to the person promising to appear. The officer shall then release the person arrested from custody but shall not permit an impaired person to operate a motor vehicle and shall have the vehicle towed and stored if a third party is not promptly selected by the arrestee to drive their vehicle to arrestee's chosen destination.</text>
+            <text>When a person is arrested for a criminal offense under <code-cite path="attachments|law|IV">this Title</code-cite>, he shall give his written promise to appear in court in order to secure release as provided in <code-cite path="attachments|law|IV|16|4.16.1">this section</code-cite> unless the arresting officers has good reason to believe the arrestee is incapable of safely operating a motor vehicle. The officer shall deliver a copy of the notice to the person promising to appear. The officer shall then release the person arrested from custody but shall not permit an impaired person to operate a motor vehicle and shall have the vehicle towed and stored if a third party is not promptly selected by the arrestee to drive their vehicle to arrestee's chosen destination.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>An officer violating any of the provisions of <cite path="attachments|law|IV|16|4.16.1">this section</cite> is guilty of misconduct and is subject to removal.</text>
+            <text>An officer violating any of the provisions of <code-cite path="attachments|law|IV|16|4.16.1">this section</code-cite> is guilty of misconduct and is subject to removal.</text>
           </para>
         </para>
         <para>
@@ -5650,7 +5656,7 @@
           <heading>VIOLATION OF PROMISE TO APPEAR.</heading>
           <para>
             <num>A.</num>
-            <text>Any person knowingly violating his written promise to appear in court, given as provided in <cite path="attachments|law|IV|16|4.16.1">section 4.16.1 </cite>above, is guilty of a offense, regardless of the disposition or the charge upon which he was originally arrested.</text>
+            <text>Any person knowingly violating his written promise to appear in court, given as provided in <code-cite path="attachments|law|IV|16|4.16.1">section 4.16.1 </code-cite>above, is guilty of a offense, regardless of the disposition or the charge upon which he was originally arrested.</text>
           </para>
           <para>
             <num>B.</num>
@@ -5670,7 +5676,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>It is unlawful and official misconduct for any law enforcement officer or public employee to dispose of an original, copy or record of a traffic citation in a manner other than as required by <cite path="attachments|law|IV|16">this article</cite>.</text>
+            <text>It is unlawful and official misconduct for any law enforcement officer or public employee to dispose of an original, copy or record of a traffic citation in a manner other than as required by <code-cite path="attachments|law|IV|16">this article</code-cite>.</text>
           </para>
           <para>
             <num>D.</num>

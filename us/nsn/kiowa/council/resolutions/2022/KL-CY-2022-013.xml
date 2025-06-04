@@ -288,7 +288,7 @@
       <codify:insert/>
       <num codify:value="11.01.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the <strong>ESTABLISHMENT OF A KIOWA TRIBAL EDUCATION AGENCY</strong></text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the <strong>ESTABLISHMENT OF A KIOWA TRIBAL EDUCATION AGENCY</strong></text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -481,7 +481,7 @@
       <heading>Kiowa Tribal Education Agency</heading>
       <para>
         <num>1.</num>
-        <text><cite path="attachments|law">This Act</cite> establishes its TEA in order to achieve this goal of self-sufficiency, the Kiowa Tribe declares that an appropriate education for its Tribal Citizens is one that promotes and encourages the following:</text>
+        <text><code-cite path="attachments|law">This Act</code-cite> establishes its TEA in order to achieve this goal of self-sufficiency, the Kiowa Tribe declares that an appropriate education for its Tribal Citizens is one that promotes and encourages the following:</text>
         <para>
           <num>a.</num>
           <text>The formulation of age, grade, and/or developmentally appropriate competencies in all basic areas of academic and cognitive skills;</text>

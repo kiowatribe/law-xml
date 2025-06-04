@@ -218,13 +218,13 @@
       <codify:insert/>
       <num codify:value="10.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "NEPOTISM PREVENTION ACT OF 2018"("Act").</text>
+      <text><code-cite path="attachments|law">This enactment</code-cite> shall be known as the "NEPOTISM PREVENTION ACT OF 2018"("Act").</text>
     </section>
     <section>
       <codify:insert/>
       <num codify:value="10.03.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to prohibit a Director or employee of the Tribe from hiring a Close Relative, or to directly manage or supervise a Close Relative, in order to ensure the integrity of the personnel and management systems, and to otherwise avoid any appearance of impropriety.</text>
+      <text>The purpose of <code-cite path="attachments|law">this Act</code-cite> is to prohibit a Director or employee of the Tribe from hiring a Close Relative, or to directly manage or supervise a Close Relative, in order to ensure the integrity of the personnel and management systems, and to otherwise avoid any appearance of impropriety.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -271,7 +271,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>For all new hires after the effective date of <cite path="attachments|law">this Act</cite>, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
+        <text>For all new hires after the effective date of <code-cite path="attachments|law">this Act</code-cite>, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
       </para>
     </section>
     <section>
@@ -284,7 +284,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Upon the effective date of <cite path="attachments|law">this Act</cite>, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman in writing, and the Chairman shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
+        <text>Upon the effective date of <code-cite path="attachments|law">this Act</code-cite>, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman in writing, and the Chairman shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
       </para>
     </section>
   </attachment>
