@@ -328,17 +328,18 @@
         </container>
       </codify:insert>
       <container>
+        <codified:at path="1"/>
         <prefix>Chapter</prefix>
         <num>1</num>
         <heading>General Provisions.</heading>
         <section>
-          <codify:insert path="1"/>
+          <codify:insert/>
           <num codify:value="10.01.010">1.01</num>
           <heading>Purpose.</heading>
           <text>The Kiowa Tribe Legislature ("Legislature") pursuant to its authority under <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> has established <cite path="attachments|law|X">this title</cite> to the Kiowa Code to cover the various and complex matters related to labor and employment law on all entities, public and private, operating within the jurisdiction of the Kiowa Tribe. Labor and employment law also impacts the government and its entities, as employer, and its employees. It is the intent of the Legislature that all matters that arise under <cite path="attachments|law|X">this title</cite> be dealt with in a fair and balanced manner in the best interest of the Tribe, its entities, public and private entities operating on Kiowa Tribe lands, its citizens, its staff and all its employees.</text>
         </section>
         <section>
-          <codify:insert path="1"/>
+          <codify:insert/>
           <num codify:value="10.01.020">1.02</num>
           <heading>Incorporation of Existing Labor and Employment Laws.</heading>
           <text>In adopting <cite path="attachments|law">this Act</cite>, the Legislature hereby affirms and incorporates the following laws into <cite path="attachments|law|X">this Title</cite> of the Kiowa Code, and authorizes and directs legislative staff to renumber and incorporate them in a uniform and timely manner.</text>
@@ -348,30 +349,31 @@
           <text>Resolution No. 2018-0016- Tribal Employment Rights Act</text>
         </section>
         <section>
-          <codify:insert path="1"/>
+          <codify:insert/>
           <num codify:value="10.01.030">1.03</num>
           <heading>Kiowa Tribe as Employer.</heading>
           <text>All branches of the Kiowa Tribe government, as well as business enterprises of the Tribe, shall create employee policies and procedures consistent with <cite path="attachments|law">this Act</cite>.</text>
         </section>
       </container>
       <container>
+        <codified:at path="2"/>
         <prefix>Chapter</prefix>
         <num>2</num>
         <heading>Fair Labor Standards</heading>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.040">2.01</num>
           <heading>Purpose, Authority and Intent for this Chapter</heading>
           <text>The Tribe, as an exercise of its inherent governmental authority, adopts <cite path="attachments|law">this Act</cite> as a law of the Tribe. The purpose of <cite path="attachments|law|X|2">this Chapter</cite> is to ensure that all Employers, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, fairly compensate Employees, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, in accordance with the values and traditions of the Tribe.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.050">2.02</num>
           <heading>Scope and Jurisdiction of this Chapter</heading>
           <text><cite path="attachments|law|X|2">This Chapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Courts of the Kiowa Tribe shall have exclusive jurisdiction over any actions under <cite path="attachments|law|X|2">this Chapter</cite>.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.060">2.03</num>
           <heading>Definitions for this Chapter</heading>
           <para>
@@ -420,19 +422,19 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.070">2.04</num>
           <heading>Minimum Wages</heading>
           <text>The minimum wage applicable to the Employees of all Employers will be set the Legislature as needed and shall not be less than the minimum wage provided by the Federal Labor Standards Act. Except as otherwise provided in <cite path="attachments|law|X|2">this Chapter</cite>, Employers shall pay Employees a minimum wage of ___________ per hour.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.080">2.05</num>
           <heading>Overtime</heading>
           <text>Except as otherwise provided in <cite path="attachments|law|X|2">this Chapter</cite>, Employers shall pay Employees overtime for all hours worked in excess of 40 during each work week, and employees will receive overtime at the rate of one and one-half times the employee's regular rate. Paid leave shall not qualify as time worked for overtime calculation purposes.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.090">2.06</num>
           <heading>Exemption from Minimum Wages and Overtime</heading>
           <text><cite path="attachments|law">This Act</cite> exempts from both minimum wage and overtime pay all Employees employed as bona fide executive, administrative, professional, computer and outside sales employees. An Employee generally must be paid on a salary basis and perform certain types of work that:</text>
@@ -448,19 +450,19 @@
           </text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.100">2.07</num>
           <text>Pay Period and Overtime for Employees of Departments of Tribal Government</text>
           <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <cite path="attachments|law|X|2|2.09">Section 2.09</cite>, below.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.110">2.08</num>
           <text>Compensation Time Off Option for Specified Positions in Departments of Government</text>
           <text>Departments of the Government may offer certain Employees in pre-designated positions the option of receiving compensation time off (at the rate of one and a half hours) in lieu of overtime pay after such Employees have worked eighty (80) hours within a two (2) week pay period if said Employees have seasonally fluctuating workloads.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.120">2.09</num>
           <heading>Youth Work Opportunities; Internships</heading>
           <para>
@@ -475,19 +477,19 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.130">2.10</num>
           <heading>Implementation</heading>
           <text>Employers subject to the provisions of <cite path="attachments|law|X|2">this Chapter</cite> shall develop and adopt policies and procedures to implement the provisions of <cite path="attachments|law|X|2">this Chapter</cite> within 90 days of the effective date of <cite path="attachments|law">this Act</cite>.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.140">2.11</num>
           <heading>Limited Waiver of Sovereign Immunity</heading>
           <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in Court for the limited purpose of enforcing <cite path="attachments|law|X|2">this Chapter</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.150">2.12</num>
           <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
           <para>
@@ -584,7 +586,7 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="2"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.160">2.14</num>
           <heading>Severability; Amendments</heading>
           <para>
@@ -594,17 +596,18 @@
         </section>
       </container>
       <container>
+        <codified:at path="3"/>
         <prefix>Chapter</prefix>
         <num>3</num>
         <heading>Recognized Holidays</heading>
         <section>
-          <codify:insert renumber-paras="true" path="3"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.170">3.01</num>
           <heading>Purpose.</heading>
           <text>To define how holidays will be recognized and paid throughout the Kiowa Tribe.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="3"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.180">3.02</num>
           <heading>Holidays.</heading>
           <text>The following holidays are observed by the KT:</text>
@@ -672,18 +675,19 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="3"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.190">3.03</num>
           <heading>Holiday Pay.</heading>
           <text>Employers subject to <cite path="attachments|law">this Act</cite> shall develop policies and procedures for compensating employees for Holidays within ninety (90) days <cite path="attachments|law">this Act</cite> is passed.</text>
         </section>
       </container>
       <container>
+        <codified:at path="4"/>
         <prefix>Chapter</prefix>
         <num>4</num>
         <heading>Integrity of Laws Provisions</heading>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.200">4.01</num>
           <heading>Findings for this Chapter</heading>
           <para>
@@ -712,25 +716,25 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.210">4.02</num>
           <heading>Purpose</heading>
           <text>The purpose of <cite path="attachments|law|X|4">this Chapter</cite> is to protect the integrity of the procedures, rights, and remedies established by <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite> as described in the foregoing findings.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.220">4.03</num>
           <heading>Scope; Jurisdiction</heading>
           <text><cite path="attachments|law|X|4">This Chapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="attachments|law|X|4">this Chapter</cite>.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.230">4.04</num>
           <heading>Definitions</heading>
           <text>The definitions set forth in <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite> shall apply to the terms used in <cite path="attachments|law|X|4">this Chapter</cite> unless the context clearly indicates otherwise.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.240">4.05</num>
           <text>Prohibition of Employer Testimony and Documents Disclosure in External Proceedings When Employees Fail to Exhaust Tribal Remedies.</text>
           <para>
@@ -752,42 +756,43 @@
           </para>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.250">4.06</num>
           <heading>Actions for Injunctive Relief to Prevent Disclosures.</heading>
           <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <cite path="attachments|law|X|4|4.05">subsection 4.05</cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
         </section>
         <section>
-          <codify:insert renumber-paras="true" path="4"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.260">4.07</num>
           <text>Authority of the Court to Resolve Jurisdictional Disputes.</text>
           <text>In any case or proceeding commenced under <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
         </section>
       </container>
       <container>
+        <codified:at path="5"/>
         <prefix>Chapter</prefix>
         <num>5</num>
         <heading>Prevailing Wage</heading>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.270">5.01</num>
           <heading>Title of Chapter</heading>
           <text><cite path="attachments|law|X|5">This Chapter</cite> shall be known and may be cited as the Kiowa Tribe Prevailing Wage Act.</text>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.280">5.02</num>
           <heading>Purpose and Authority of Chapter</heading>
           <text>The purpose of <cite path="attachments|law|X|5">this Chapter</cite> is to codify the Tribe's authority to determine area prevailing wages to the extent not in violation of federal law so that the federal Davis-Bacon Act (40 U.S.C. § 3141 et seq.) area prevailing wage determinations will not apply to a Covered Agreement, as defined below.</text>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.290">5.03</num>
           <heading>Scope</heading>
           <text><cite path="attachments|law|X|5">This Chapter</cite> shall cover construction projects funded under programs of the Federal Government that would normally be covered by the Federal Davis-Bacon Act.</text>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.300">5.04</num>
           <heading>Definitions</heading>
           <para>
@@ -828,13 +833,13 @@
           </para>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.310">5.05</num>
           <heading>Payment of Prevailing Wage Required</heading>
           <text>Any agreement for construction projects, funded by programs of the federal government, to which the Davis- Bacon Act would normally apply, shall contain a provision requiring not less than Prevailing Wages, as determined by the Tribe, to be paid to the Contractor, Subcontractor, or other covered employees.</text>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.320">5.06</num>
           <heading>Determination of Prevailing Wage</heading>
           <para>
@@ -863,7 +868,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.330">5.07</num>
           <heading>Employer Requirements</heading>
           <para>
@@ -880,7 +885,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.340">5.08</num>
           <heading>Court Action and Remedies</heading>
           <para>
@@ -901,30 +906,31 @@
           </para>
         </section>
         <section>
-          <codify:insert path="5" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.350">5.09</num>
           <heading>Sovereign Immunity</heading>
           <text><cite path="attachments|law|X|5">This Chapter</cite> provides only those remedies and damages identified above and none other. Its provisions shall not be construed or interpreted to grant jurisdiction to any other court, except the Courts of the Kiowa Tribe, over the Tribe or over individuals acting in their official capacity. Nothing in <cite path="attachments|law|X|5">this Chapter</cite> shall be construed to be a waiver of any sovereign immunity except as specifically and expressly provided in <cite path="attachments|law|X|5">this Chapter</cite> and other titles of the Kiowa Code. Nothing herein shall act to waive sovereign immunity for injunctive or declaratory relief nor for monetary damages or penalties, however characterized or described, beyond reasonable attorney's fees and recovery against the employer, without any interest or penalties, of the Wage Penalty as defined above.</text>
         </section>
       </container>
       <container>
+        <codified:at path="6"/>
         <prefix>Chapter</prefix>
         <num>6</num>
         <heading>Family Medical Leave Protection</heading>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.360">6.01</num>
           <heading>Purpose; Authority and Intent</heading>
           <text>The purpose of <cite path="attachments|law|X|6">this Chapter</cite> is to entitle eligible Employees to take reasonable leave for medical reasons and to accomplish this purpose in a manner that accommodates the legitimate interests of Employers in accordance with the values and traditions of the Tribe.</text>
         </section>
         <section>
-          <codify:insert path="6"/>
+          <codify:insert/>
           <num codify:value="10.01.370">6.02</num>
           <heading>Scope; Jurisdiction</heading>
           <text><cite path="attachments|law|X|6">This Chapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="attachments|law|X|6">this Chapter</cite>.</text>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.380">6.03</num>
           <heading>Family Medical Leave Requirement</heading>
           <para>
@@ -1101,7 +1107,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.390">6.06</num>
           <heading>Definitions</heading>
           <para>
@@ -1206,7 +1212,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.400">6.07</num>
           <heading>Employee Benefits Protection</heading>
           <para>
@@ -1242,7 +1248,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.410">6.08</num>
           <heading>Effect on Existing Employee Benefits</heading>
           <para>
@@ -1257,7 +1263,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.420">6.09</num>
           <heading>Prohibited Acts</heading>
           <text>The following shall be considered prohibited acts for an Employer under <cite path="attachments|law|X|6">this Chapter</cite>:</text>
@@ -1275,19 +1281,19 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.430">6.10</num>
           <heading>Implementation</heading>
           <text>Employers subject to the provisions of <cite path="attachments|law|X|6">this Chapter</cite> shall develop and adopt, policies and procedures to implement the provisions of <cite path="attachments|law|X|6">this Chapter</cite>.</text>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.440">6.11</num>
           <heading>Limited Waiver of Sovereign Immunity</heading>
           <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in the Tribe's Courts for the limited purpose of enforcing <cite path="attachments|law|X|6">this Chapter</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.450">6.12</num>
           <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
           <para>
@@ -1384,7 +1390,7 @@
           </para>
         </section>
         <section>
-          <codify:insert path="6" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.460">6.13</num>
           <heading>Effective Date; Severability</heading>
           <para>
@@ -1398,23 +1404,24 @@
         </section>
       </container>
       <container>
+        <codified:at path="7"/>
         <prefix>Chapter</prefix>
         <num>7</num>
         <heading>Financial Hardship Programs</heading>
         <section>
-          <codify:insert path="7" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.470">7.01</num>
           <heading>Purpose.</heading>
           <text>The Tribe recognizes that, on rare occasions, employees and government officials and appointees may have an extraordinary personal financial need that is unable to be met by the traditional finance system. In addition, the Tribe is aware of the predatory nature of some pay day and title loan firms that entrap individuals who turn to those lending sources. As a response to this unmet need, the Tribe authorizes Employers to develop, offer and implement Financial Hardship Programs.</text>
         </section>
         <section>
-          <codify:insert path="7" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.480">7.02</num>
           <heading>Types of Financial Hardship Programs.</heading>
           <text>The Legislature authorizes the following programs: Payroll Advance Program and Financial Hardship Loan Program.</text>
         </section>
         <section>
-          <codify:insert path="7" renumber-paras="true"/>
+          <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.490">7.03</num>
           <heading>Minimum Terms and Conditions.</heading>
           <para>
