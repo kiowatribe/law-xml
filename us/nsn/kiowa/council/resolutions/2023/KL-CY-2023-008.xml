@@ -452,13 +452,13 @@
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.100">2.07</num>
-          <text>Pay Period and Overtime for Employees of Departments of Tribal Government</text>
+          <heading>Pay Period and Overtime for Employees of Departments of Tribal Government</heading>
           <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <code-cite path="attachments|law|X|2|2.09">Section 2.09</code-cite>, below.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.110">2.08</num>
-          <text>Compensation Time Off Option for Specified Positions in Departments of Government</text>
+          <heading>Compensation Time Off Option for Specified Positions in Departments of Government</heading>
           <text>Departments of the Government may offer certain Employees in pre-designated positions the option of receiving compensation time off (at the rate of one and a half hours) in lieu of overtime pay after such Employees have worked eighty (80) hours within a two (2) week pay period if said Employees have seasonally fluctuating workloads.</text>
         </section>
         <section>
@@ -491,7 +491,7 @@
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.150">2.12</num>
-          <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+          <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
           <para>
             <num>2.12.1</num>
             <text>Any Employee who claims that an Employer has violated <cite path="attachments|law|X|2">this Chapter</cite> must commence an administrative claim as provided herein within 180 days of the employee's discovery of an alleged violation.</text>
@@ -764,7 +764,7 @@
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.260">4.07</num>
-          <text>Authority of the Court to Resolve Jurisdictional Disputes.</text>
+          <heading>Authority of the Court to Resolve Jurisdictional Disputes.</heading>
           <text>In any case or proceeding commenced under <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this title</code-cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
         </section>
       </container>
@@ -1295,7 +1295,7 @@
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.450">6.12</num>
-          <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+          <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
           <para>
             <num>6.12.1</num>
             <text>Procedures. The provisions of <cite path="attachments|law|X|6">this Chapter</cite> shall be the sole procedures for an Employee seeking recovery for a violation of <cite path="attachments|law|X|6">this Chapter</cite>.</text>
