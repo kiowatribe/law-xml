@@ -336,13 +336,13 @@
           <codify:insert/>
           <num codify:value="10.01.010">1.01</num>
           <heading>Purpose.</heading>
-          <text>The Kiowa Tribe Legislature ("Legislature") pursuant to its authority under <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> has established <cite path="attachments|law|X">this title</cite> to the Kiowa Code to cover the various and complex matters related to labor and employment law on all entities, public and private, operating within the jurisdiction of the Kiowa Tribe. Labor and employment law also impacts the government and its entities, as employer, and its employees. It is the intent of the Legislature that all matters that arise under <cite path="attachments|law|X">this title</cite> be dealt with in a fair and balanced manner in the best interest of the Tribe, its entities, public and private entities operating on Kiowa Tribe lands, its citizens, its staff and all its employees.</text>
+          <text>The Kiowa Tribe Legislature ("Legislature") pursuant to its authority under <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> has established <code-cite path="attachments|law|X">this title</code-cite> to the Kiowa Code to cover the various and complex matters related to labor and employment law on all entities, public and private, operating within the jurisdiction of the Kiowa Tribe. Labor and employment law also impacts the government and its entities, as employer, and its employees. It is the intent of the Legislature that all matters that arise under <code-cite path="attachments|law|X">this title</code-cite> be dealt with in a fair and balanced manner in the best interest of the Tribe, its entities, public and private entities operating on Kiowa Tribe lands, its citizens, its staff and all its employees.</text>
         </section>
         <section>
           <codify:insert/>
           <num codify:value="10.01.020">1.02</num>
           <heading>Incorporation of Existing Labor and Employment Laws.</heading>
-          <text>In adopting <cite path="attachments|law">this Act</cite>, the Legislature hereby affirms and incorporates the following laws into <cite path="attachments|law|X">this Title</cite> of the Kiowa Code, and authorizes and directs legislative staff to renumber and incorporate them in a uniform and timely manner.</text>
+          <text>In adopting <code-cite path="attachments|law|X">this Act</code-cite>, the Legislature hereby affirms and incorporates the following laws into <code-cite path="attachments|law|X">this Title</code-cite> of the Kiowa Code, and authorizes and directs legislative staff to renumber and incorporate them in a uniform and timely manner.</text>
           <text>Resolution No. 2017-0014 - Employee Benefits Provider Selection Act</text>
           <text>Resolution No. 2018-0002 - Nepotism Act</text>
           <text>Resolution No. 2018-0009 - Tribal Member Preference &amp; Indian Preference Act</text>
@@ -352,7 +352,7 @@
           <codify:insert/>
           <num codify:value="10.01.030">1.03</num>
           <heading>Kiowa Tribe as Employer.</heading>
-          <text>All branches of the Kiowa Tribe government, as well as business enterprises of the Tribe, shall create employee policies and procedures consistent with <cite path="attachments|law">this Act</cite>.</text>
+          <text>All branches of the Kiowa Tribe government, as well as business enterprises of the Tribe, shall create employee policies and procedures consistent with <code-cite path="attachments|law|X">this Act</code-cite>.</text>
         </section>
       </container>
       <container>
@@ -364,7 +364,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.040">2.01</num>
           <heading>Purpose, Authority and Intent for this Chapter</heading>
-          <text>The Tribe, as an exercise of its inherent governmental authority, adopts <cite path="attachments|law">this Act</cite> as a law of the Tribe. The purpose of <cite path="attachments|law|X|2">this Chapter</cite> is to ensure that all Employers, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, fairly compensate Employees, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, in accordance with the values and traditions of the Tribe.</text>
+          <text>The Tribe, as an exercise of its inherent governmental authority, adopts <code-cite path="attachments|law|X">this Act</code-cite> as a law of the Tribe. The purpose of <cite path="attachments|law|X|2">this Chapter</cite> is to ensure that all Employers, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, fairly compensate Employees, as defined in <cite path="attachments|law|X|2">this Chapter</cite>, in accordance with the values and traditions of the Tribe.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
@@ -381,7 +381,7 @@
             <text>"Employee" means any person employed by an Employer, excluding:</text>
             <para>
               <num>1.</num>
-              <text>Any person in a position that would be excluded from minimum wage and overtime requirements of <cite path="attachments|law">this Act</cite>; or</text>
+              <text>Any person in a position that would be excluded from minimum wage and overtime requirements of <code-cite path="attachments|law|X">this Act</code-cite>; or</text>
             </para>
             <para>
               <num>2.</num>
@@ -437,7 +437,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.090">2.06</num>
           <heading>Exemption from Minimum Wages and Overtime</heading>
-          <text><cite path="attachments|law">This Act</cite> exempts from both minimum wage and overtime pay all Employees employed as bona fide executive, administrative, professional, computer and outside sales employees. An Employee generally must be paid on a salary basis and perform certain types of work that:</text>
+          <text><code-cite path="attachments|law|X">This Act</code-cite> exempts from both minimum wage and overtime pay all Employees employed as bona fide executive, administrative, professional, computer and outside sales employees. An Employee generally must be paid on a salary basis and perform certain types of work that:</text>
           <text>
             <ul proof="needed">
               <li>is directly related to the management of his or her employer's business, or</li>
@@ -453,7 +453,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.100">2.07</num>
           <text>Pay Period and Overtime for Employees of Departments of Tribal Government</text>
-          <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <cite path="attachments|law|X|2|2.09">Section 2.09</cite>, below.</text>
+          <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <code-cite path="attachments|law|X|2|2.09">Section 2.09</code-cite>, below.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
@@ -480,7 +480,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.130">2.10</num>
           <heading>Implementation</heading>
-          <text>Employers subject to the provisions of <cite path="attachments|law|X|2">this Chapter</cite> shall develop and adopt policies and procedures to implement the provisions of <cite path="attachments|law|X|2">this Chapter</cite> within 90 days of the effective date of <cite path="attachments|law">this Act</cite>.</text>
+          <text>Employers subject to the provisions of <cite path="attachments|law|X|2">this Chapter</cite> shall develop and adopt policies and procedures to implement the provisions of <cite path="attachments|law|X|2">this Chapter</cite> within 90 days of the effective date of <code-cite path="attachments|law|X">this Act</code-cite>.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
@@ -533,12 +533,12 @@
             </para>
             <para>
               <num>D.</num>
-              <text>An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|2">this Chapter</cite> after completion of all administrative steps under <cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</cite>, above, may bring suit in the Courts for a review of their claim.</text>
+              <text>An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|2">this Chapter</cite> after completion of all administrative steps under <code-cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</code-cite>, above, may bring suit in the Courts for a review of their claim.</text>
             </para>
           </para>
           <para>
             <num>2.12.4</num>
-            <text>An appeal of an administrative decision under <cite path="attachments|law|X|2|2.12">this section</cite> filed with the Court shall contain:</text>
+            <text>An appeal of an administrative decision under <code-cite path="attachments|law|X|2|2.12">this section</code-cite> filed with the Court shall contain:</text>
             <para>
               <num>A.</num>
               <text>The name and address of the Employee;</text>
@@ -562,7 +562,7 @@
           </para>
           <para>
             <num>2.12.5</num>
-            <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="attachments|law|X|2">this Chapter</cite> or failed to abide by an award granted to the Employee in the administrative process under <cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</cite>, above, the Court may order one or more of the following remedies:</text>
+            <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="attachments|law|X|2">this Chapter</cite> or failed to abide by an award granted to the Employee in the administrative process under <code-cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</code-cite>, above, the Court may order one or more of the following remedies:</text>
             <para>
               <num>A.</num>
               <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="attachments|law|X|2">this Chapter</cite>; or</text>
@@ -578,11 +578,11 @@
           </para>
           <para>
             <num>2.12.6</num>
-            <text>Any judicial complaint brought under <cite path="attachments|law|X|2">this Chapter</cite> must be brought within thirty (30) days of the final administrative decision issued under <cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</cite>, above.</text>
+            <text>Any judicial complaint brought under <cite path="attachments|law|X|2">this Chapter</cite> must be brought within thirty (30) days of the final administrative decision issued under <code-cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</code-cite>, above.</text>
           </para>
           <para>
             <num>2.12.7</num>
-            <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</cite>, above, or for testifying in any proceeding under <cite path="attachments|law|X|2">this Chapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+            <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <code-cite path="attachments|law|X|2|2.12|2.12.2">subsection 2.12.2</code-cite>, above, or for testifying in any proceeding under <cite path="attachments|law|X|2">this Chapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
           </para>
         </section>
         <section>
@@ -678,7 +678,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.190">3.03</num>
           <heading>Holiday Pay.</heading>
-          <text>Employers subject to <cite path="attachments|law">this Act</cite> shall develop policies and procedures for compensating employees for Holidays within ninety (90) days <cite path="attachments|law">this Act</cite> is passed.</text>
+          <text>Employers subject to <code-cite path="attachments|law|X">this Act</code-cite> shall develop policies and procedures for compensating employees for Holidays within ninety (90) days <code-cite path="attachments|law|X">this Act</code-cite> is passed.</text>
         </section>
       </container>
       <container>
@@ -692,14 +692,14 @@
           <heading>Findings for this Chapter</heading>
           <para>
             <num>4.01.1</num>
-            <text>The Legislature has enacted <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite> as a law of the Tribe.</text>
+            <text>The Legislature has enacted <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Act</cite> as a law of the Tribe.</text>
           </para>
           <para>
             <num>4.01.2</num>
             <text>In providing for procedures, rights, and remedies for Employer and Employees under <cite path="attachments|law|X|2">Chapter 2</cite>, including those afforded through actions in Court, the Legislature has carefully considered (and continues to consider) the values and interests of the Tribe in order to establish fair processes, rights, and remedies for the parties and interests at stake. This has included careful consideration of:</text>
             <para>
               <num>A.</num>
-              <text>The time, costs, and inconvenience of parties and witnesses involved in proceedings to resolve controversies or to establish rights and remedies provided by <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Title</cite>;</text>
+              <text>The time, costs, and inconvenience of parties and witnesses involved in proceedings to resolve controversies or to establish rights and remedies provided by <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Title</code-cite>;</text>
             </para>
             <para>
               <num>B.</num>
@@ -712,14 +712,14 @@
           </para>
           <para>
             <num>4.01.3</num>
-            <text>The integrity of <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite> is threatened if parties bypass the procedures, rights, and remedies established therein and seek, instead, to invoke procedures or remedies outside of the Tribe's law and jurisdiction for controversies that <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite> is designed to address and resolve in accordance with the unique public policies of the Tribe. Investigations or proceedings directed at Employers, apart from those provided for by <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Title</cite>, which seek to address controversies or rights covered by that Chapter, require the expenditure of time and resources to the detriment of those involved and, in many instances, to the Tribe or its Entities.</text>
+            <text>The integrity of <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this title</code-cite> is threatened if parties bypass the procedures, rights, and remedies established therein and seek, instead, to invoke procedures or remedies outside of the Tribe's law and jurisdiction for controversies that <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this title</code-cite> is designed to address and resolve in accordance with the unique public policies of the Tribe. Investigations or proceedings directed at Employers, apart from those provided for by <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Title</code-cite>, which seek to address controversies or rights covered by that Chapter, require the expenditure of time and resources to the detriment of those involved and, in many instances, to the Tribe or its Entities.</text>
           </para>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.210">4.02</num>
           <heading>Purpose</heading>
-          <text>The purpose of <cite path="attachments|law|X|4">this Chapter</cite> is to protect the integrity of the procedures, rights, and remedies established by <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite> as described in the foregoing findings.</text>
+          <text>The purpose of <cite path="attachments|law|X|4">this Chapter</cite> is to protect the integrity of the procedures, rights, and remedies established by <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Act</code-cite> as described in the foregoing findings.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
@@ -731,7 +731,7 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.230">4.04</num>
           <heading>Definitions</heading>
-          <text>The definitions set forth in <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite> shall apply to the terms used in <cite path="attachments|law|X|4">this Chapter</cite> unless the context clearly indicates otherwise.</text>
+          <text>The definitions set forth in <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this title</code-cite> shall apply to the terms used in <cite path="attachments|law|X|4">this Chapter</cite> unless the context clearly indicates otherwise.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
@@ -739,19 +739,19 @@
           <text>Prohibition of Employer Testimony and Documents Disclosure in External Proceedings When Employees Fail to Exhaust Tribal Remedies.</text>
           <para>
             <num>4.05.1</num>
-            <text>Employers are prohibited from giving testimony or witness statements of any kind or producing documents or other information of any kind in response to requests or subpoenas issued by outside authorities, other than those authorities expressly granted powers under <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Title</cite>, engaged in investigations or proceedings on behalf of current or former Employees, when such Employees have failed to exhaust their remedies provided by any provisions of <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite>.</text>
+            <text>Employers are prohibited from giving testimony or witness statements of any kind or producing documents or other information of any kind in response to requests or subpoenas issued by outside authorities, other than those authorities expressly granted powers under <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Title</code-cite>, engaged in investigations or proceedings on behalf of current or former Employees, when such Employees have failed to exhaust their remedies provided by any provisions of <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Act</code-cite>.</text>
           </para>
           <para>
             <num>4.05.2</num>
             <heading>Examples of failure to exhaust remedies.</heading>
-            <text>For the purposes of <cite path="attachments|law|X|4|4.05|4.05.1">subsection 4. 05. 1</cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law">this Act</cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Title</cite> to:</text>
+            <text>For the purposes of <code-cite path="attachments|law|X|4|4.05|4.05.1">subsection 4. 05. 1</code-cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Act</code-cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Act</code-cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Title</code-cite> to:</text>
             <para>
               <num>A.</num>
-              <text>Address controversies or rights covered by <cite path="attachments|law">this Act</cite>, such as unfair labor practices and proceedings for enforcement of the Tribe's wages and hours laws <cite path="attachments|law">this Act</cite>, or</text>
+              <text>Address controversies or rights covered by <code-cite path="attachments|law|X">this Act</code-cite>, such as unfair labor practices and proceedings for enforcement of the Tribe's wages and hours laws <code-cite path="attachments|law|X">this Act</code-cite>, or</text>
             </para>
             <para>
               <num>B.</num>
-              <text>Challenge the assertion of jurisdiction under <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this Title</cite>.</text>
+              <text>Challenge the assertion of jurisdiction under <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this Title</code-cite>.</text>
             </para>
           </para>
         </section>
@@ -759,13 +759,13 @@
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.250">4.06</num>
           <heading>Actions for Injunctive Relief to Prevent Disclosures.</heading>
-          <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <cite path="attachments|law|X|4|4.05">subsection 4.05</cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
+          <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <code-cite path="attachments|law|X|4|4.05">subsection 4.05</code-cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true"/>
           <num codify:value="10.01.260">4.07</num>
           <text>Authority of the Court to Resolve Jurisdictional Disputes.</text>
-          <text>In any case or proceeding commenced under <cite path="attachments|law|X|2">Chapter 2</cite> of <cite path="attachments|law|X">this title</cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
+          <text>In any case or proceeding commenced under <cite path="attachments|law|X|2">Chapter 2</cite> of <code-cite path="attachments|law|X">this title</code-cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
         </section>
       </container>
       <container>
@@ -939,7 +939,7 @@
           </para>
           <para>
             <num>6.03.2</num>
-            <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <cite path="attachments|law|X|6|6.03|6.03.3">Section 6.03.3</cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
+            <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <code-cite path="attachments|law|X|6|6.03|6.03.3">Section 6.03.3</code-cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
           </para>
           <para>
             <num>6.03.3</num>
@@ -975,11 +975,11 @@
           </para>
           <para>
             <num>6.03.5</num>
-            <text>Nature of Leave Requirement - Family Medical Leave granted under <cite path="attachments|law|X|6">this Chapter</cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <cite path="attachments|law|X|6|6.03|6.03.5">this section</cite>.</text>
+            <text>Nature of Leave Requirement - Family Medical Leave granted under <cite path="attachments|law|X|6">this Chapter</cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <code-cite path="attachments|law|X|6|6.03|6.03.5">this section</code-cite>.</text>
           </para>
           <para>
             <num>6.03.6</num>
-            <text>Conditions - The following conditions apply to Family Medical Leave granted under <cite path="attachments|law|X|6|6.03|6.03.6">this section</cite>:</text>
+            <text>Conditions - The following conditions apply to Family Medical Leave granted under <code-cite path="attachments|law|X|6|6.03|6.03.6">this section</code-cite>:</text>
             <para>
               <num>A.</num>
               <text>Notice. The Employee must give at least 30 calendar days' notice of the intended date upon which the medical leave will commence and terminate, unless prevented by a medical emergency from giving that notice. Where it is not possible for an Employee to provide 30 calendar days' notice, the Employee must provide notice to the employer as soon as possible.</text>
@@ -1058,7 +1058,7 @@
             </para>
             <para>
               <num>C.</num>
-              <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <cite path="attachments|law|X|6|6.03|6.03.6">this section</cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
+              <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <code-cite path="attachments|law|X|6|6.03|6.03.6">this section</code-cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
             </para>
             <para>
               <num>D.</num>
@@ -1081,7 +1081,7 @@
               </para>
               <para>
                 <num>3.</num>
-                <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <cite path="attachments|law|X|6|6.03|6.03.6">this section</cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
+                <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <code-cite path="attachments|law|X|6|6.03|6.03.6">this section</code-cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
               </para>
               <para>
                 <num>4.</num>
@@ -1090,7 +1090,7 @@
             </para>
             <para>
               <num>G.</num>
-              <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <cite path="attachments|law|X|6|6.03|6.03.6">this Section</cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <cite path="attachments|law|X|6|6.03|6.03.3">Section 6.03.3</cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
+              <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <code-cite path="attachments|law|X|6|6.03|6.03.6">this Section</code-cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <code-cite path="attachments|law|X|6|6.03|6.03.3">Section 6.03.3</code-cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
             </para>
             <para>
               <num>H.</num>
@@ -1218,7 +1218,7 @@
           <para>
             <num>6.07.1</num>
             <heading>Restoration to position.</heading>
-            <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <cite path="attachments|law|X|6">this Chapter</cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <cite path="attachments|law|X|6">this Chapter</cite>, an Employer may deny restoration under <cite path="attachments|law|X|6|6.07|6.07.1">this section</cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
+            <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <cite path="attachments|law|X|6">this Chapter</cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <cite path="attachments|law|X|6">this Chapter</cite>, an Employer may deny restoration under <code-cite path="attachments|law|X|6|6.07|6.07.1">this section</code-cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
             <para>
               <num>A.</num>
               <text>If the Employee would not otherwise have been employed at the time reinstatement is requested (for example, if an Employee is laid off, if the Employee's shift has been eliminated, or if the Employee was hired for a specific term or only to perform work on a discrete project and that term/project has expired or been completed);</text>
@@ -1239,7 +1239,7 @@
           <para>
             <num>6.07.2</num>
             <heading>Maintenance of Employee Benefits.</heading>
-            <text>During any Family Medical Leave taken under <cite path="attachments|law|X|6">this Chapter</cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <cite path="attachments|law|X|6">this Chapter</cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <cite path="attachments|law|X|6|6.07|6.07.2">this section</cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
+            <text>During any Family Medical Leave taken under <cite path="attachments|law|X|6">this Chapter</cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <cite path="attachments|law|X|6">this Chapter</cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <code-cite path="attachments|law|X|6|6.07|6.07.2">this section</code-cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
           </para>
           <para>
             <num>6.07.3</num>
@@ -1254,7 +1254,7 @@
           <para>
             <num>6.08.1</num>
             <heading>Benefit accrual.</heading>
-            <text>The taking of Family Medical Leave under <cite path="attachments|law|X|6">this Chapter</cite> shall not result in the loss of any Employee benefit accrued before the date on which the leave commenced. However, an Employee has no greater right to benefits and conditions of employment than if the Employee had been continuously employed during the leave period. In accordance with the policies of the Tribe, Employees who are out on unpaid leave pursuant to <cite path="attachments|law|X|6">this Chapter</cite> shall not be entitled to accrue paid time off while on leave.</text>
+            <text>The taking of Family Medical Leave under <cite path="attachments|law|X|6">this Chapter</cite> shall not result in the loss of any Employee benefit accrued before the date on which the leave commenced. However, an Employee has no greater right to benefits and conditions of employment than if the Employee had been continuously employed during the leave period. In accordance with the policies of the Tribe, Employees who are out on unpaid leave pursuant to <code-cite path="attachments|law|X|6">this Chapter</code-cite> shall not be entitled to accrue paid time off while on leave.</text>
           </para>
           <para>
             <num>6.08.2</num>
@@ -1338,11 +1338,11 @@
           </para>
           <para>
             <num>6.12.4</num>
-            <text>An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|6">this Chapter</cite> after completion of all administrative steps under <cite path="attachments|law|X|6|6.12|6.12.3">subsection 6.12.3</cite>, above, may bring suit in Court for a review of their claim.</text>
+            <text>An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|6">this Chapter</cite> after completion of all administrative steps under <code-cite path="attachments|law|X|6|6.12|6.12.3">subsection 6.12.3</code-cite>, above, may bring suit in Court for a review of their claim.</text>
           </para>
           <para>
             <num>6.12.5</num>
-            <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|6">this Chapter</cite> after completion of all three administrative steps under <cite path="attachments|law|X|6|6.12|6.12.2">subsection 6.12.2</cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <cite path="attachments|law|X|6">this Chapter</cite> must be brought within one (1) year of the final administrative decision issued under <cite path="attachments|law|X|6|6.12|6.12.3">subsection 6.12.3</cite>, above. An appeal of an administrative decision under <cite path="attachments|law|X|6|6.12">this section</cite> filed with the Court shall contain:</text>
+            <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <cite path="attachments|law|X|6">this Chapter</cite> after completion of all three administrative steps under <code-cite path="attachments|law|X|6|6.12|6.12.2">subsection 6.12.2</code-cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <cite path="attachments|law|X|6">this Chapter</cite> must be brought within one (1) year of the final administrative decision issued under <code-cite path="attachments|law|X|6|6.12|6.12.3">subsection 6.12.3</code-cite>, above. An appeal of an administrative decision under <code-cite path="attachments|law|X|6|6.12">this section</code-cite> filed with the Court shall contain:</text>
             <para>
               <num>A.</num>
               <text>The name and address of the Employee;</text>
@@ -1386,7 +1386,7 @@
           </para>
           <para>
             <num>6.12.7</num>
-            <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|6|6.12|6.12.2">subsection 6.12.2</cite>, above, or for testifying in any proceeding under <cite path="attachments|law|X|6">this Chapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+            <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <code-cite path="attachments|law|X|6|6.12|6.12.2">subsection 6.12.2</code-cite>, above, or for testifying in any proceeding under <cite path="attachments|law|X|6">this Chapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
           </para>
         </section>
         <section>
@@ -1496,7 +1496,7 @@
           <para>
             <num>7.03.3</num>
             <heading>Authorization.</heading>
-            <text>All branches of Tribe's government, as well as business enterprises of the Tribe, shall create employee policies and procedures consistent with <cite path="attachments|law">this Act</cite>.</text>
+            <text>All branches of Tribe's government, as well as business enterprises of the Tribe, shall create employee policies and procedures consistent with <code-cite path="attachments|law|X">this Act</code-cite>.</text>
           </para>
         </section>
       </container>
