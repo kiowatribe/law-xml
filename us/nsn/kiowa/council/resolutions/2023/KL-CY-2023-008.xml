@@ -278,52 +278,52 @@
       <text class="center">
         <strong>Labor and Employment Act of 2023</strong>
       </text>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>1</num>
+          <num path-omit="true">1</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>2</num>
+          <num path-omit="true">2</num>
           <heading>Fair Labor Standards</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>3</num>
+          <num path-omit="true">3</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>4</num>
+          <num path-omit="true">4</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>5</num>
+          <num path-omit="true">5</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>6</num>
+          <num path-omit="true">6</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true">
+      <codify:insert>
         <container>
           <prefix>Subchapter</prefix>
-          <num>7</num>
+          <num path-omit="true">7</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
