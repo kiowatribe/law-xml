@@ -273,38 +273,38 @@
   </section>
   <attachment id="law">
     <codified:at path="9.02"/>
-    <codify:insert path-omit="true">
+    <codify:insert>
       <container>
         <prefix>Subchapter</prefix>
-        <num>1</num>
+        <num path-omit="true">1</num>
         <heading>GENERAL PROVISIONS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true">
+    <codify:insert>
       <container>
         <prefix>Subchapter</prefix>
-        <num>2</num>
+        <num path-omit="true">2</num>
         <heading>BOARD OF COMMISSIONERS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true">
+    <codify:insert>
       <container>
         <prefix>Subchapter</prefix>
-        <num>3</num>
+        <num path-omit="true">3</num>
         <heading>POWERS OF THE AUTHORITY</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true">
+    <codify:insert>
       <container>
         <prefix>Subchapter</prefix>
-        <num>4</num>
+        <num path-omit="true">4</num>
         <heading>OBLIGATIONS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true">
+    <codify:insert>
       <container>
         <prefix>Subchapter</prefix>
-        <num>5</num>
+        <num path-omit="true">5</num>
         <heading>MISCELLANEOUS PROVISIONS</heading>
       </container>
     </codify:insert>
