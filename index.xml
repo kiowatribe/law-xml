@@ -17,6 +17,7 @@
   <xi:include href="./us/nsn/kiowa/council/constitution/index.xml"/>
   <collection name="us/nsn/kiowa/council/resolutions">
     <heading>Legislative Resolutions/Bills</heading>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2022/index.xml"/>
