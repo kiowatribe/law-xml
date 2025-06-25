@@ -28,4 +28,5 @@
     <xi:include href="./us/nsn/kiowa/council/resolutions/2018/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2017/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/kiowa/council/model-rules-judicial-conduct/index.xml"/>
 </library>
