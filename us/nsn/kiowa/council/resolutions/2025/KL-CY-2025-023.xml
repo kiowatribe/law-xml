@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-023">
   <meta>
-    <stub/>
     <effective>2025-10-21</effective>
     <history>
       <adopted>2025-10-11</adopted>
@@ -12,10 +11,9 @@
   </meta>
   <num>KL-CY-2025-023</num>
   <heading>Kiowa Criminal Code</heading>
+  <text>[Resolution text pending]</text>
   <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">
-      <u>KIOWA CRIMINAL CODE</u>
-    </text>
+    <heading>KIOWA CRIMINAL CODE</heading>
     <container>
       <prefix>Title</prefix>
       <num>I</num>
@@ -524,10 +522,8 @@
         <heading>ARREST, DELIVERY ON WARRANT, AND HOT PURSUIT</heading>
         <para>
           <num>2.3.1</num>
-          <text>
-            <u>ARREST - DEFINED; PERSONS QUALIFIED TO MAKE; AID MAY</u>
-          </text>
-          <text><u>BE REQUIRED.</u> Arrest is the taking of any person subject to the jurisdiction of the Kiowa Tribal Courts in custody and held to answer for a Tribal offense. An arrest may be made by:</text>
+          <heading>ARREST - DEFINED; PERSONS QUALIFIED TO MAKE; AID MAY BE REQUIRED.</heading>
+          <text>Arrest is the taking of any person subject to the jurisdiction of the Kiowa Tribal Courts in custody and held to answer for a Tribal offense. An arrest may be made by:</text>
           <para>
             <num>1.</num>
             <text>A duly authorized police officer under a warrant as provided in <cite path="attachments|law|II|3|2.3.2">Section 2.3.2 </cite>of <cite path="attachments|law">this Code</cite>.</text>
@@ -583,8 +579,7 @@
         <para>
           <num>2.3.5</num>
           <heading>BREAKING INTO DWELLING HOUSE OR OTHER STRUCTURE TO MAKE ARREST OR TO PROTECT A POTENTIAL VICTIM OF A CRIME.</heading>
-          <text>Any</text>
-          <text>Enforcement officer having authority to make an arrest may break open an outer or inner door or window of a dwelling house or other structure for the purpose of making an arrest, or where a reasonable person has reason to believe that a person's life or limb is in immediate danger.</text>
+          <text>Any Enforcement officer having authority to make an arrest may break open an outer or inner door or window of a dwelling house or other structure for the purpose of making an arrest, or where a reasonable person has reason to believe that a person's life or limb is in immediate danger.</text>
         </para>
         <para>
           <num>2.3.6</num>
@@ -600,6 +595,166 @@
           <num>2.3.8</num>
           <heading>EXTRADITION.</heading>
           <text>The Chairman is hereby empowered to negotiate for the extradition of persons accused of criminal offenses, both to and from the Territory of the Kiowa Tribe, with any state, county, municipal jurisdiction or Indian Tribe, and to enter into reciprocal agreements that are substantially in the form attached. Such agreements shall be the law of the Tribe until the date or expiration thereof or until rescinded by both the Chairman and the Legislature.</text>
+          <include xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law-1">
+            <heading>RECIPROCAL EXTRADITION AGREEMENT</heading>
+            <text>This agreement, entered into this day of	_, between the Kiowa Tribe and	_, by and through their authorized representatives, is intended to provide a practical, workable framework in which said jurisdictions can obtain the extradition, for purposes of criminal prosecution, of persons violating the laws of either jurisdiction and fleeing to or found in the territory of the other.</text>
+            <section>
+              <num>1</num>
+              <heading>Definitions</heading>
+              <para>
+                <num>(1)</num>
+                <text>"Executive Authority" means the Chairman of the Kiowa Tribe, in the case of the Kiowa Tribe, and ______________ the in the case of _______________.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>"Territorial Jurisdiction" means all lands and property within the limits of the territorial jurisdiction of either party hereto.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>"Criminal offense" means any act or failure to act which is defined by the law of the requesting jurisdiction to be criminal, and in the case of the Kiowa Tribe shall include any act or failure to act made criminal by any code, ordinance or law of the Kiowa Tribe, and in the case of requesting jurisdictions, shall mean any act or failure to act which is declared to be, or punished as if it were, a felony. "Criminal offense" shall include a sentence of imprisonment for a criminal offense from which the accused person has fled or escaped before completing or being released by lawful procedure.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Requesting jurisdiction" means the jurisdiction which initiates a request for the other jurisdiction to turn over a person accused of a criminal offense.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>"Responding jurisdiction" means the jurisdiction which receives a request to turn over a person accused of a criminal offense.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>"Prosecuting authority" means the officer of either jurisdiction charged with the duty to prosecute the criminal offense for which extradition is sought.</text>
+              </para>
+            </section>
+            <section>
+              <num>2</num>
+              <text>Persons charged with criminal offense to be delivered upon demand. Subject  to the laws applicable to each  party  hereto, and  except  as otherwise provided in this agreement, the executive authority of each jurisdiction which is a party hereto shall cause to be arrested and delivered up to the executive authority of the  requesting  jurisdiction,  any  person  within  the  territorial  jurisdiction  of  the responding jurisdiction accused of committing a criminal offense within the territorial jurisdiction of the requesting jurisdiction, upon receipt of a request for extradition as specified herein.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Request for Extradition.</heading>
+              <para>
+                <num>(1)</num>
+                <text>The request for extradition shall be in writing and addressed from the executive authority of the requesting jurisdiction to the executive authority of the responding jurisdiction, and shall request the extradition of a person charged with committing a criminal offense in the requesting jurisdiction and having thereafter fled from the requesting jurisdiction.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The request for extradition must be accompanied by certified copies of the following documents:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The indictment, information, or criminal complaint, together with any affidavits relating thereto, or, in the case of the failure to serve or</text>
+                  <text>complete a sentence or imprisonment lawfully imposed, the judgment and sentence and any affidavits or documents relating thereto plus a certificate of the executive authority of the requesting jurisdiction that the person requested has escaped from the confinement, or has otherwise unlawfully failed to complete same.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A warrant of arrest, issued by the requesting jurisdiction.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The indictment, information or criminal complaint, together with supporting affidavits, must substantially charge the person requested with having committed a criminal offense under the law of the requesting jurisdiction.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>The authenticity of the documents submitted and the validity and good faith of the request for extradition must be certified to in the request by the executive authority of the requesting jurisdiction.</text>
+              </para>
+            </section>
+            <section>
+              <num>4</num>
+              <text>Procedure Upon Receipt of a Request for Extradition</text>
+              <text>The executive authority of the responding jurisdiction shall, within five (5) days after receipt of a request for extradition, do one of the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>Forward the request, with his approval endorsed thereon, to a judge of his jurisdiction empowered to issue warrants of arrest; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Return the request to the executive authority of the requesting jurisdiction with his reasons for not approving the request endorsed thereon, provided however, that the executive authority shall not inquire into the guilt or innocence of the accused as a condition to granting or withholding approval.</text>
+              </para>
+            </section>
+            <section>
+              <num>5</num>
+              <heading>Arrest of Accused Person</heading>
+              <para>
+                <num>(1)</num>
+                <text>Upon receipt of a request for extradition with the approval of the executive authority of the responding jurisdiction endorsed thereon, the judge of the responding jurisdiction shall issue a warrant of arrest for the person named in the request, and deliver said warrant of arrest to the law enforcement officers of the responding jurisdiction having authority to make arrests.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The warrant of arrest so issued shall substantially conform to the requirements for such documents in the responding jurisdiction and shall recite the facts necessary to the validity of its issuance.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Such warrants of arrest shall authorize the arrest of the accused at any time or place within the territorial jurisdiction of the responding jurisdiction in the manner provided for other arrests in that jurisdiction, and the authority of the officers executing said warrant shall be the same as when making other, arrests.</text>
+              </para>
+            </section>
+            <section>
+              <num>6</num>
+              <heading>Procedure upon Arrest</heading>
+              <para>
+                <num>(1)</num>
+                <text>As soon as practicable after the arrest of the accused, he shall be taken before the judge issuing the warrant of arrest and, after confirming his identity, there he shall be advised or the cause of the arrest, and, if he so desires, given an opportunity to obtain counsel.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>If the accused or his counsel desires to test the legality of the arrest, a hearing to determine such issue shall be scheduled and held as soon as is practicable. Notice of such hearing-shall be given to the prosecuting authority of the responding jurisdiction, and to the agent of the requesting jurisdiction into whose custody the accused would otherwise be delivered.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>No person arrested under this agreement shall be delivered up to the requesting jurisdiction until he has either had a hearing to test the legality of his arrest, or has, in open court, made an informed waiver of such hearing.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Persons arrested pursuant to this agreement shall be incarcerated in the local jail of the respective jurisdiction, as in the case of regular arrests.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Any person arrested pursuant to this agreement shall be given the opportunity to make bail in any case where his delivery to the requesting jurisdiction is not imminent. Such bail shall be in amount sufficient to reasonably assure the appearance of the accused at a time and place specified by the court. Forfeiture of bail and arrest for nonappearance, where appropriate, may be made as in other cases.</text>
+              </para>
+            </section>
+            <section>
+              <num>7</num>
+              <text>Procedure if Prosecution is pending in the Responding Jurisdiction</text>
+              <text>If a criminal prosecution has been instituted in the responding jurisdiction against the person whose extradition is sought, the executive authority of the responding jurisdiction, in his discretion, may either surrender the accused to the requesting jurisdiction or hold him until he has been tried and discharged or convicted and punished in the responding jurisdiction.</text>
+            </section>
+            <section>
+              <num>8</num>
+              <heading>Manner of Initiating Requests for Extradition</heading>
+              <text>The prosecuting authority of each jurisdiction shall have authority to initiate requests for extradition, to administer the details thereof, and to designate officers to receive persons extradited from the other jurisdiction.</text>
+            </section>
+            <section>
+              <num>9</num>
+              <heading>Prosecution in Requesting Jurisdiction</heading>
+              <para>
+                <num>(1)</num>
+                <text>A person extradited under this agreement shall be given the same rights and privileges under the laws of the requesting jurisdiction as any other person accused of a criminal offense by that jurisdiction.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Criminal prosecution in the requesting jurisdiction shall not be limited to the criminal offense specified in the request for extradition and any lesser included offenses.</text>
+              </para>
+            </section>
+            <section>
+              <num>10</num>
+              <heading>Sovereignty</heading>
+              <text>Nothing in this agreement or in the implementation hereof shall be deemed to be a grant, cession or waiver of any of the sovereign governmental rights, powers, or jurisdiction of either party hereto, including sovereign immunity.</text>
+            </section>
+            <section>
+              <num>11</num>
+              <heading>Duration of Agreement.</heading>
+              <para>
+                <num>(1)</num>
+                <text>This agreement shall become effective upon its execution by the executive authorities of the parties hereto.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>This agreement shall remain in effect until canceled by notification from the executive authority of either jurisdiction to the other.</text>
+                <text>Done at	on the day and year first above written. KIOWA TRIBE</text>
+                <text>By:  		 Chairman</text>
+                <text>By:</text>
+              </para>
+            </section>
+          </include>
         </para>
         <para>
           <num>2.3.10</num>
@@ -610,7 +765,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>4</num>
-        <heading>. SEARCH WARRANT</heading>
+        <heading>SEARCH WARRANT</heading>
         <para>
           <num>2.4.1</num>
           <heading>SEARCH WARRANT DEFINED.</heading>
@@ -628,10 +783,8 @@
         </para>
         <para>
           <num>2.4.4</num>
-          <text>
-            <u>TIME	LIMIT;	EXECUTION	OF 	WARRANT;	VOID	AT</u>
-          </text>
-          <text><u>EXPIRATION. </u>A search warrant must be executed and returned to the Trial Court judge by whom it was issued within ten (10) days. The</text>
+          <heading>TIME	LIMIT;	EXECUTION	OF 	WARRANT;	VOID	AT EXPIRATION. </heading>
+          <text>A search warrant must be executed and returned to the Trial Court judge by whom it was issued within ten (10) days. The</text>
           <text>warrant is void after the expiration of that time, unless extended at</text>
           <text>the discretion of the Trial Court, and so endorsed.</text>
         </para>
@@ -683,8 +836,7 @@
         <para>
           <num>2.5.7</num>
           <heading>ARREST OF DEFENDANT BY SURETY.</heading>
-          <text>At any time before the defendant is required to appear and at any place within the Territory, for the purpose of surrendering the defendant, the surety may himself arrest the defendant, or, by written authority endorsed on a certified</text>
-          <text>copy of the bond, may empower any person of suitable age and discretion to do so and cause the delivery of the defendant before the Court forthwith, whereupon said bond shall be released.</text>
+          <text>At any time before the defendant is required to appear and at any place within the Territory, for the purpose of surrendering the defendant, the surety may himself arrest the defendant, or, by written authority endorsed on a certified copy of the bond, may empower any person of suitable age and discretion to do so and cause the delivery of the defendant before the Court forthwith, whereupon said bond shall be released.</text>
         </para>
         <para>
           <num>2.5.8</num>
@@ -795,10 +947,8 @@
         </para>
         <para>
           <num>2.7.3</num>
-          <text>
-            <u>ORDER SETTING ASIDE COMPLAINT NOT BAR TO SUBSEQUENT</u>
-          </text>
-          <text><u>PROSECUTION. </u>An order to set aside the complaint is no bar to future prosecution for the same offense, except when the complaint was set aside for a lack of jurisdiction.</text>
+          <heading>ORDER SETTING ASIDE COMPLAINT NOT BAR TO SUBSEQUENT PROSECUTION.</heading>
+          <text>An order to set aside the complaint is no bar to future prosecution for the same offense, except when the complaint was set aside for a lack of jurisdiction.</text>
         </para>
         <para>
           <num>2.7.4</num>
@@ -833,10 +983,8 @@
         </para>
         <para>
           <num>2.8.2</num>
-          <text>
-            <u>IRREGULARITIES, MISTAKES OMISSIONS HAVE NO   LEGAL</u>
-          </text>
-          <text><u>EFFECT UNLESS ACTUALLY PREJUDICIAL. </u> Neither a departure from the form or mode prescribed in <cite path="attachments|law|II|8">this chapter</cite> in respect to any pleading or proceedings nor an error or mistake therein renders it invalid, unless it has prejudiced the defendant.</text>
+          <heading>IRREGULARITIES, MISTAKES OMISSIONS HAVE NO LEGAL EFFECT UNLESS ACTUALLY PREJUDICIAL.</heading>
+          <text>Neither a departure from the form or mode prescribed in <cite path="attachments|law|II|8">this chapter</cite> in respect to any pleading or proceedings nor an error or mistake therein renders it invalid, unless it has prejudiced the defendant.</text>
         </para>
         <para>
           <num>2.8.3</num>
@@ -937,10 +1085,8 @@
         </para>
         <para>
           <num>2.8.10</num>
-          <text>
-            <u>DEATH,	ILLNESS;	SUBSTITUTIONS 	AUTHORITY	OF</u>
-          </text>
-          <text><u>SUBSTITUTE JUDGE. </u>After the commencement of the trial of a criminal action or proceeding, if the judge presiding at such trial shall die, become ill, or for any other reason be unable to proceed with and finish the trial, another judge may proceed with and finish the trial. If no other judge is available, then the Clerk of that Court shall adjourn the Court until such time as by stipulation in writing between the parties to the proceeding, a judge shall be agreed upon by them and shall arrive to complete the trial. The judge authorized by <cite path="attachments|law|II|8|2.8.10">this section</cite> shall proceed with and complete the trial and has the same power, authority, and jurisdiction as if the trial had originally commenced before him.</text>
+          <heading>DEATH, ILLNESS; SUBSTITUTIONS AUTHORITY OF SUBSTITUTE JUDGE.</heading>
+          <text>After the commencement of the trial of a criminal action or proceeding, if the judge presiding at such trial shall die, become ill, or for any other reason be unable to proceed with and finish the trial, another judge may proceed with and finish the trial. If no other judge is available, then the Clerk of that Court shall adjourn the Court until such time as by stipulation in writing between the parties to the proceeding, a judge shall be agreed upon by them and shall arrive to complete the trial. The judge authorized by <cite path="attachments|law|II|8|2.8.10">this section</cite> shall proceed with and complete the trial and has the same power, authority, and jurisdiction as if the trial had originally commenced before him.</text>
         </para>
       </container>
       <container>
@@ -1121,8 +1267,8 @@
         </para>
         <para>
           <num>2.10.2</num>
-          <heading>PRESUMPTION OF INNOCENCE; EFFECT:</heading>
-          <text><u>REASONABLE DOUBT; DEFENDANT'S REFUSAL TO TESTIFY; DEFENDANT'S WAIVER OF RIGHT TO BE PRESENT.</u> A defendant in a criminal action need not testify and is presumed to be innocent until the contrary is proven. The effect of this presumption is only to place upon the Tribe the burden of proving him guilty beyond a reasonable doubt.  The defendant's failure to testify on his own behalf shall in no way be construed against him nor commented upon by the Tribe. When a defendant has waived his right to be present at trial, the Court, in its discretion, may allow the Tribe to comment upon the defendant's absence and waiver.</text>
+          <heading>PRESUMPTION OF INNOCENCE; EFFECT: REASONABLE DOUBT; DEFENDANT'S REFUSAL TO TESTIFY; DEFENDANT'S WAIVER OF RIGHT TO BE PRESENT.</heading>
+          <text>A defendant in a criminal action need not testify and is presumed to be innocent until the contrary is proven. The effect of this presumption is only to place upon the Tribe the burden of proving him guilty beyond a reasonable doubt.  The defendant's failure to testify on his own behalf shall in no way be construed against him nor commented upon by the Tribe. When a defendant has waived his right to be present at trial, the Court, in its discretion, may allow the Tribe to comment upon the defendant's absence and waiver.</text>
         </para>
         <para>
           <num>2.10.3</num>
@@ -1226,10 +1372,7 @@
         </para>
         <para>
           <num>2.12.6</num>
-          <heading>EXPUNGEMENT.</heading>
-          <text>
-            <u>SETTING ASIDE JUDGMENT OF CONVICTION.</u>
-          </text>
+          <heading>EXPUNGEMENT. SETTING ASIDE JUDGMENT OF CONVICTION.</heading>
           <para>
             <num>A.</num>
             <text>Every person convicted of a criminal offense, on fulfillment of the conditions of probation or sentence and discharge of the court, may apply to the judge, to have the judgment of guilt set aside. The convicted person shall be informed of this right at the time of discharge.</text>
@@ -1394,8 +1537,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The person seeking recognition or enforcement of a foreign judgment complies with the conditions and procedures set</text>
-            <text>forth in <cite path="attachments|law|II|16|2.16.3">2.16.3</cite>.</text>
+            <text>The person seeking recognition or enforcement of a foreign judgment complies with the conditions and procedures set forth in <cite path="attachments|law|II|16|2.16.3">2.16.3</cite>.</text>
           </para>
           <para>
             <num>C.</num>
@@ -1433,120 +1575,119 @@
         <para>
           <num>2.16.3</num>
           <heading>PROCEDURES FOR RECOGNITION OR ENFORCEMENT OF FOREIGN JUDGMENTS.</heading>
-        </para>
-        <para>
-          <num>A.</num>
-          <text><u>Application. </u>In accordance with the foreign judgment recognition provisions set forth in <cite path="attachments|law|II|16|2.16.2">2.16.2</cite>, a foreign judgment that is final and conclusive is enforceable in the Trial Court pursuant to the following procedure.</text>
-        </para>
-        <para>
-          <num>B.</num>
-          <text><u>Registration of Foreign Judgment</u><strong>. </strong>A person seeking enforcement of a foreign judgment shall file:</text>
           <para>
-            <num>1.</num>
-            <text>A copy of the foreign judgment, which has been authenticated by the clerk or registrar of the foreign court in the following manner:</text>
+            <num>A.</num>
+            <text><u>Application. </u>In accordance with the foreign judgment recognition provisions set forth in <cite path="attachments|law|II|16|2.16.2">2.16.2</cite>, a foreign judgment that is final and conclusive is enforceable in the Trial Court pursuant to the following procedure.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text><u>Registration of Foreign Judgment</u><strong>. </strong>A person seeking enforcement of a foreign judgment shall file:</text>
             <para>
-              <num>a.</num>
-              <text>The clerk or registrar of the foreign court must attest in writing that he or she:</text>
+              <num>1.</num>
+              <text>A copy of the foreign judgment, which has been authenticated by the clerk or registrar of the foreign court in the following manner:</text>
               <para>
-                <num>i.</num>
-                <text>Is the clerk or registrar of the foreign court;</text>
+                <num>a.</num>
+                <text>The clerk or registrar of the foreign court must attest in writing that he or she:</text>
+                <para>
+                  <num>i.</num>
+                  <text>Is the clerk or registrar of the foreign court;</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>Is the custodian of the records of the foreign court; and</text>
+                </para>
+                <para>
+                  <num>iii.</num>
+                  <text>Has compared an attached copy of the foreign judgment from the case with the original(s) on file and of record in the foreign court, and has found the copy of the foreign judgment to be a true copy of the whole of the original(s).</text>
+                </para>
               </para>
               <para>
-                <num>ii.</num>
-                <text>Is the custodian of the records of the foreign court; and</text>
-              </para>
-              <para>
-                <num>iii.</num>
-                <text>Has compared an attached copy of the foreign judgment from the case with the original(s) on file and of record in the foreign court, and has found the copy of the foreign judgment to be a true copy of the whole of the original(s).</text>
+                <num>b.</num>
+                <text>Upon completing the written attestation above, the clerk or registrar of the foreign court must:</text>
+                <para>
+                  <num>i.</num>
+                  <text>Sign and date the attestation;</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>Affix the seal of the foreign court to the attestation; and</text>
+                </para>
+                <para>
+                  <num>iii.</num>
+                  <text>Attach a certified copy of the original foreign judgment to the attestation.</text>
+                </para>
               </para>
             </para>
             <para>
-              <num>b.</num>
-              <text>Upon completing the written attestation above, the clerk or registrar of the foreign court must:</text>
+              <num>2.</num>
+              <text>An affidavit by the judgment holder, or his/her attorney or lay advocate, which includes the following:</text>
               <para>
-                <num>i.</num>
-                <text>Sign and date the attestation;</text>
+                <num>a.</num>
+                <text>The name and last known post office address of the judgment debtor and the judgment creditor;</text>
               </para>
               <para>
-                <num>ii.</num>
-                <text>Affix the seal of the foreign court to the attestation; and</text>
+                <num>b.</num>
+                <text>Proof that the judgment is final and statement that no appeal is pending;</text>
               </para>
               <para>
-                <num>iii.</num>
-                <text>Attach a certified copy of the original foreign judgment to the attestation.</text>
+                <num>c.</num>
+                <text>A statement that no subsequent orders vacating, modifying or reversing the judgment have been entered in the rendering jurisdiction;</text>
               </para>
+              <para>
+                <num>d.</num>
+                <text>Proof that the person against whom the foreign judgment has been rendered (i.e., judgment debtor) is subject to the jurisdiction of the Trial Court with regard to enforcement of the judgment; and</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Proof that the court from which the foreign judgment was issued provides reciprocal recognition and enforcement to the judgments of the Trial Court.</text>
+              </para>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>A receipt filing fee for registering the foreign judgment.</text>
             </para>
           </para>
           <para>
-            <num>2.</num>
-            <text>An affidavit by the judgment holder, or his/her attorney or lay advocate, which includes the following:</text>
+            <num>C.</num>
+            <text><u>Notice of Registration of Foreign Judgment</u><strong>. </strong>Upon the filing of the foreign judgment, attestation, affidavit and filing fee, the Clerk of the Court shall within fourteen (14) days mail a notice of the filing of the foreign judgment along with a copy of the foreign judgment, attestation, and affidavit to the judgment debtor at the address provided by the judgment creditor and shall complete a proof of service. The notice of the filing of the foreign judgment shall include the following:</text>
             <para>
-              <num>a.</num>
-              <text>The name and last known post office address of the judgment debtor and the judgment creditor;</text>
+              <num>1.</num>
+              <text>The name and post office address of the judgment holder and the judgment holder's attorney or lay advocate, if any; and</text>
             </para>
             <para>
-              <num>b.</num>
-              <text>Proof that the judgment is final and statement that no appeal is pending;</text>
-            </para>
-            <para>
-              <num>c.</num>
-              <text>A statement that no subsequent orders vacating, modifying or reversing the judgment have been entered in the rendering jurisdiction;</text>
-            </para>
-            <para>
-              <num>d.</num>
-              <text>Proof that the person against whom the foreign judgment has been rendered (i.e., judgment debtor) is subject to the jurisdiction of the Trial Court with regard to enforcement of the judgment; and</text>
-            </para>
-            <para>
-              <num>e.</num>
-              <text>Proof that the court from which the foreign judgment was issued provides reciprocal recognition and enforcement to the judgments of the Trial Court.</text>
+              <num>2.</num>
+              <text>A statement giving notice that an order entering the enforcement of the foreign judgment shall be entered by the court within twenty–one (21) days of the same having been served on the judgment debtor unless the judgment debtor files written objections with the court along with a request for a hearing within twenty–one (21) days.</text>
             </para>
           </para>
           <para>
-            <num>3.</num>
-            <text>A receipt filing fee for registering the foreign judgment.</text>
-          </para>
-        </para>
-        <para>
-          <num>C.</num>
-          <text><u>Notice of Registration of Foreign Judgment</u><strong>. </strong>Upon the filing of the foreign judgment, attestation, affidavit and filing fee, the Clerk of the Court shall within fourteen (14) days mail a notice of the filing of the foreign judgment along with a copy of the foreign judgment, attestation, and affidavit to the judgment debtor at the address provided by the judgment creditor and shall complete a proof of service. The notice of the filing of the foreign judgment shall include the following:</text>
-          <para>
-            <num>1.</num>
-            <text>The name and post office address of the judgment holder and the judgment holder's attorney or lay advocate, if any; and</text>
+            <num>D.</num>
+            <text><u>Notice for Written Objection</u>. A statement that gives the debtor notice that he/she has twenty–one (21) days to file written objections of either recognition or enforcement of the Judgment along with a request for hearing. If no objection is filed the court will enter an order recognizing and/or enforcing the judgment. The written objections shall include a statement of the basis for the objections.</text>
           </para>
           <para>
-            <num>2.</num>
-            <text>A statement giving notice that an order entering the enforcement of the foreign judgment shall be entered by the court within twenty–one (21) days of the same having been served on the judgment debtor unless the judgment debtor files written objections with the court along with a request for a hearing within twenty–one (21) days.</text>
-          </para>
-        </para>
-        <para>
-          <num>D.</num>
-          <text><u>Notice for Written Objection</u>. A statement that gives the debtor notice that he/she has twenty–one (21) days to file written objections of either recognition or enforcement of the Judgment along with a request for hearing. If no objection is filed the court will enter an order recognizing and/or enforcing the judgment. The written objections shall include a statement of the basis for the objections.</text>
-        </para>
-        <para>
-          <num>E.</num>
-          <text><u>Objections; Hearing; Entry of Order When Objections</u>. In the event that the judgment debtor files written objections within the twenty–one (21) day period set forth in (D) above along with</text>
-          <text>a request for a hearing, the Clerk of the Court shall send by first– class mail a copy of the objections to the judgment holder, or his/her attorney or lay advocate. In addition, the Clerk of the Court shall send by first–class mail a notice of the hearing setting forth the date and time of hearing or the denial of such hearing to the judgment holder and judgment debtor, or their respective attorney(s) or lay advocate(s). The judgment debtor at the hearing will be required to show cause why the foreign judgment should not be recognized and/or enforced by the Trial Court. At the scheduled hearing, after reviewing all the relevant evidence concerning the foreign judgment, the court shall issue an order either granting or denying recognition and/or enforcement of the foreign judgment.</text>
-        </para>
-        <para>
-          <num>F.</num>
-          <text><u>Entry of Order Where No Objections</u>. In the event that the judgment debtor does not file written objections within the twenty–one (21) daytime period set forth in (D) above, an order granting the recognition and/or enforcement of the foreign judgment shall be issued by the court.</text>
-        </para>
-        <para>
-          <num>G.</num>
-          <text><u>Appeal; Stay of Execution; Stay of Proceedings</u>. If the judgment debtor satisfies the court that an appeal from the foreign judgment is pending or will be taken, or that a stay of execution has been granted, the Trial Court may stay recognition and enforcement of the foreign judgment until the appeal is concluded, the time for appeal expires, or the stay of execution expires or is vacated.</text>
-        </para>
-        <para>
-          <num>H.</num>
-          <text>
-            <u>Post–Judgment Proceedings Regarding Foreign Judgment; No Waiver of Immunity.</u>
-          </text>
-          <para>
-            <num>1.</num>
-            <text>A foreign judgment holder may proceed to post–judgment proceedings upon entry of an order enforcing the foreign judgment by the Trial Court.  The entry of the order enforcing the foreign judgment by the Trial Court shall entitle the judgment holder to enforce its judgment against the judgment debtor in any manner available to judgment creditors.</text>
+            <num>E.</num>
+            <text><u>Objections; Hearing; Entry of Order When Objections</u>. In the event that the judgment debtor files written objections within the twenty–one (21) day period set forth in (D) above along with a request for a hearing, the Clerk of the Court shall send by first– class mail a copy of the objections to the judgment holder, or his/her attorney or lay advocate. In addition, the Clerk of the Court shall send by first–class mail a notice of the hearing setting forth the date and time of hearing or the denial of such hearing to the judgment holder and judgment debtor, or their respective attorney(s) or lay advocate(s). The judgment debtor at the hearing will be required to show cause why the foreign judgment should not be recognized and/or enforced by the Trial Court. At the scheduled hearing, after reviewing all the relevant evidence concerning the foreign judgment, the court shall issue an order either granting or denying recognition and/or enforcement of the foreign judgment.</text>
           </para>
           <para>
-            <num>2.</num>
-            <text>The Tribe does not waive its immunity from suit with regard to the recognition and/or enforcement of a foreign judgment in any post–judgment proceedings, even when the Tribe is served as a garnishee–defendant for the wages or property of an employee who is a judgment debtor.</text>
+            <num>F.</num>
+            <text><u>Entry of Order Where No Objections</u>. In the event that the judgment debtor does not file written objections within the twenty–one (21) daytime period set forth in (D) above, an order granting the recognition and/or enforcement of the foreign judgment shall be issued by the court.</text>
+          </para>
+          <para>
+            <num>G.</num>
+            <text><u>Appeal; Stay of Execution; Stay of Proceedings</u>. If the judgment debtor satisfies the court that an appeal from the foreign judgment is pending or will be taken, or that a stay of execution has been granted, the Trial Court may stay recognition and enforcement of the foreign judgment until the appeal is concluded, the time for appeal expires, or the stay of execution expires or is vacated.</text>
+          </para>
+          <para>
+            <num>H.</num>
+            <text>
+              <u>Post–Judgment Proceedings Regarding Foreign Judgment; No Waiver of Immunity.</u>
+            </text>
+            <para>
+              <num>1.</num>
+              <text>A foreign judgment holder may proceed to post–judgment proceedings upon entry of an order enforcing the foreign judgment by the Trial Court.  The entry of the order enforcing the foreign judgment by the Trial Court shall entitle the judgment holder to enforce its judgment against the judgment debtor in any manner available to judgment creditors.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The Tribe does not waive its immunity from suit with regard to the recognition and/or enforcement of a foreign judgment in any post–judgment proceedings, even when the Tribe is served as a garnishee–defendant for the wages or property of an employee who is a judgment debtor.</text>
+            </para>
           </para>
         </para>
       </container>
@@ -1638,8 +1779,7 @@
         <para>
           <num>3.1.6</num>
           <heading>RULE OF CONSTRUCTION.</heading>
-          <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law">this code</cite>, but the provisions herein must be construed</text>
-          <text>according to the fair meaning of the terms to promote justice and effect the objects of law, including the purpose stated in <cite path="attachments|law|III|1|3.1.2">Section 3.1.2</cite>.</text>
+          <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law">this code</cite>, but the provisions herein must be construed according to the fair meaning of the terms to promote justice and effect the objects of law, including the purpose stated in <cite path="attachments|law|III|1|3.1.2">Section 3.1.2</cite>.</text>
         </para>
         <para>
           <num>3.1.7</num>
@@ -2032,9 +2172,6 @@
             <text>In proceedings in which the Trial Court is exercising Special Tribal Criminal Jurisdiction, defendants shall have the right to trial by a jury of six (6) fair and impartial jurors drawn from the community pursuant to <cite path="attachments|law|II|9|2.9.1">Section 2.9.1 </cite>of <cite path="attachments|law">this Code</cite>.</text>
           </para>
         </para>
-        <para>
-          <num>3.1</num>
-        </para>
       </container>
       <container>
         <prefix>Chapter</prefix>
@@ -2252,14 +2389,12 @@
         <para>
           <num>3.6.4</num>
           <heading>CONTRIBUTING TO THE DELINQUENCY OF A MINOR.</heading>
-          <text>An adult</text>
-          <text>who knowingly causes or entices the delinquency of a minor is guilty of a misdemeanor.</text>
+          <text>An adult who knowingly causes or entices the delinquency of a minor is guilty of a misdemeanor.</text>
         </para>
         <para>
           <num>3.6.5</num>
           <heading>FAILURE TO SEND CHILDREN TO SCHOOL.</heading>
-          <text>A person who</text>
-          <text>neglects or refuses, without good cause, to send his children or legal wards to school, is guilty of a misdemeanor.</text>
+          <text>A person who neglects or refuses, without good cause, to send his children or legal wards to school, is guilty of a misdemeanor.</text>
         </para>
         <para>
           <num>3.6.6</num>
@@ -2633,8 +2768,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>A person who engages in sexual acts or oral sexual acts with another	person,	without	his	or	her	consent,	is	guilty	of</text>
-            <text>aggravated sexual assault, a felony.</text>
+            <text>A person who engages in sexual acts or oral sexual acts with another	person,	without	his	or	her	consent,	is	guilty	of aggravated sexual assault, a felony.</text>
           </para>
         </para>
         <para>
@@ -2750,8 +2884,7 @@
         <para>
           <num>3.11.1</num>
           <heading>MISCONDUCT INVOLVING FIREARMS.</heading>
-          <text>A	person	who</text>
-          <text>knowingly discharges a firearm within three hundred (300) feet of any inhabited building or on any road or highway within the Territory, is guilty of a misdemeanor.</text>
+          <text>A	person who knowingly discharges a firearm within three hundred (300) feet of any inhabited building or on any road or highway within the Territory, is guilty of a misdemeanor.</text>
           <para>
             <num>A.</num>
             <text>This offense shall not apply to persons who discharge their firearms for ceremonial or law enforcement purposes, to those who discharge their firearms in protection of their farming or ranching activities, to those who discharge their firearms within a designated area such as an archery or rifle range, or to those who discharge their firearms in accordance with other laws of the Tribe.</text>
@@ -2873,8 +3006,7 @@
         <para>
           <num>3.14.1</num>
           <heading>IMPERSONATION OF A PUBLIC OFFICIAL.</heading>
-          <text>A person who</text>
-          <text>intentionally impersonates a law enforcement officer or other public official is guilty of a misdemeanor.</text>
+          <text>A person who intentionally impersonates a law enforcement officer or other public official is guilty of a misdemeanor.</text>
         </para>
         <para>
           <num>3.14.2</num>
@@ -3035,10 +3167,7 @@
         </para>
         <para>
           <num>3.15.2</num>
-          <heading>BOOTLEGGING.</heading>
-          <text>
-            <u>SALE, DISTRIBUTION, TRANSPORTATION OF ALCOHOL, MARIJUANA OR CONTROLLED SUBSTANCES.</u>
-          </text>
+          <heading>BOOTLEGGING. SALE, DISTRIBUTION, TRANSPORTATION OF ALCOHOL, MARIJUANA OR CONTROLLED SUBSTANCES.</heading>
           <para>
             <num>A.</num>
             <text>A person who knowingly sells, distributes, transports or imports or offers to sell, distribute, transport or import alcoholic beverages, marijuana or controlled substances is guilty of a felony.</text>
@@ -3303,7 +3432,8 @@
             </para>
             <para>
               <num>21.</num>
-              <text>POLICE or LAW ENFORCEMENT OFFICER: any officer duly authorized or commissioned by the authority of the Kiowa Tribe to direct or regulate traffic or to enforce or make arrests for violations of the Kiowa Motor Vehicle Code.</text>
+              <heading>POLICE or LAW ENFORCEMENT OFFICER:</heading>
+              <text>any officer duly authorized or commissioned by the authority of the Kiowa Tribe to direct or regulate traffic or to enforce or make arrests for violations of the Kiowa Motor Vehicle Code.</text>
             </para>
             <para>
               <num>22.</num>
@@ -3550,7 +3680,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>3</num>
-        <heading>: ACCIDENTS</heading>
+        <heading>ACCIDENTS</heading>
         <para>
           <num>4.3.1</num>
           <heading>DUTIES OF DRIVERS IN ACCIDENTS INVOLVING DEATH OR PERSONAL INJURY.</heading>
@@ -3602,11 +3732,7 @@
         <para>
           <num>4.3.4</num>
           <heading>DUTY OF GARAGES, DEALERS AND WRECKERS TO REPORT ACCIDENTS.</heading>
-          <text>If a vehicle showing recent evidence of an accident under Section</text>
-        </para>
-        <para>
-          <num>4.2.1</num>
-          <text>(C) is brought in for services, the owner or manager of the garage, repair shop, dealership or wrecker service shall report the vehicle to the department within twenty-four hours after such vehicle is received. The report must include the engine number, registration number and the name and address of the owner or operator of such vehicle. Non-compliance may result in the loss of business license.</text>
+          <text>If a vehicle showing recent evidence of an accident under <cite path="attachments|law|IV|3|4.2.1|(C)">Section 4.2.1(C)</cite> is brought in for services, the owner or manager of the garage, repair shop, dealership or wrecker service shall report the vehicle to the department within twenty-four hours after such vehicle is received. The report must include the engine number, registration number and the name and address of the owner or operator of such vehicle. Non-compliance may result in the loss of business license.</text>
         </para>
         <para>
           <num>4.3.5</num>
@@ -3641,7 +3767,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>4</num>
-        <heading>: SPEED REGULATIONS</heading>
+        <heading>SPEED REGULATIONS</heading>
         <para>
           <num>4.4.1</num>
           <heading>SPEED REGULATIONS.</heading>
@@ -3704,7 +3830,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>5</num>
-        <heading>: TRAFFIC SIGNS AND SIGNALS</heading>
+        <heading>TRAFFIC SIGNS AND SIGNALS</heading>
         <para>
           <num>4.5.1</num>
           <heading>OBEDIENCE TO TRAFFIC-CONTROL DEVICES.</heading>
@@ -3835,14 +3961,11 @@
             <text>Any violation of <cite path="attachments|law|IV|5|4.5.7.">this section</cite> shall be punishable by a fine not to exceed $100.00.</text>
           </para>
         </para>
-        <para>
-          <num>C.</num>
-        </para>
       </container>
       <container>
         <prefix>Chapter</prefix>
         <num>6</num>
-        <heading>: RIGHT-OF-WAY</heading>
+        <heading>RIGHT-OF-WAY</heading>
         <para>
           <num>4.6.1</num>
           <heading>RIGHT-OF-WAY	WHEN	APPROACHING	OR	ENTERING INTERSECTIONS.</heading>
@@ -3896,7 +4019,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>7</num>
-        <heading>:  DRIVING, OVERTAKING AND PASSING</heading>
+        <heading>DRIVING, OVERTAKING AND PASSING</heading>
         <para>
           <num>4.7.1</num>
           <heading>OVERTAKING A VEHICLE ON THE LEFT.</heading>
@@ -3950,11 +4073,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Every bus used for the transportation of school children shall bear upon the front and rear thereof a plainly visible sign containing the words "School Bus" in letters not less than eight</text>
-            <para>
-              <num>(8)</num>
-              <text>inches in height.</text>
-            </para>
+            <text>Every bus used for the transportation of school children shall bear upon the front and rear thereof a plainly visible sign containing the words "School Bus" in letters not less than eight (8) inches in height.</text>
           </para>
           <para>
             <num>C.</num>
@@ -4031,21 +4150,21 @@
               <num>3.</num>
               <text>On a roadway divided into three marked lanes for traffic under the rules applicable on the roadway.</text>
             </para>
+            <para>
+              <num>4.</num>
+              <text>On a roadway designated and signposted for one-way traffic.</text>
+            </para>
           </para>
           <para>
-            <num>4.</num>
-            <text>On a roadway designated and signposted for one-way traffic.</text>
-            <para>
-              <num>B.</num>
-              <text>On all roadways, a person driving a vehicle proceeding at less than the normal speed of traffic at the time and place and under the conditions then existing shall drive the vehicle in the right-hand lane then available for traffic or as close as practicable to the right-hand curb or edge of the roadway, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.</text>
-            </para>
+            <num>B.</num>
+            <text>On all roadways, a person driving a vehicle proceeding at less than the normal speed of traffic at the time and place and under the conditions then existing shall drive the vehicle in the right-hand lane then available for traffic or as close as practicable to the right-hand curb or edge of the roadway, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.</text>
           </para>
         </para>
       </container>
       <container>
         <prefix>Chapter</prefix>
         <num>8</num>
-        <heading>: SIGNALS ON STARTING, TURNING AND STOPPING</heading>
+        <heading>SIGNALS ON STARTING, TURNING AND STOPPING</heading>
         <para>
           <num>4.8.1</num>
           <heading>REQUIRED	POSITION	AND	METHOD	OF	TURNING	AT INTERSECTIONS.</heading>
@@ -4116,7 +4235,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>9</num>
-        <heading>: STANDING OR PARKING</heading>
+        <heading>STANDING OR PARKING</heading>
         <para>
           <num>4.9.1</num>
           <heading>STOPPING, STANDING OR PARKING.</heading>
@@ -4219,7 +4338,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>10</num>
-        <heading>: PEDESTRIANS' RIGHTS AND DUTIES</heading>
+        <heading>PEDESTRIANS' RIGHTS AND DUTIES</heading>
         <para>
           <num>4.10.1</num>
           <heading>PEDESTRIANS SUBJECT TO TRAFFIC REGULATIONS.</heading>
@@ -4328,7 +4447,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>11</num>
-        <heading>: OPERATION OF BICYCLES AND PLAY VEHICLES</heading>
+        <heading>OPERATION OF BICYCLES AND PLAY VEHICLES</heading>
         <para>
           <num>4.11.1</num>
           <heading>APPLICATION OF PROVISIONS.</heading>
@@ -4386,7 +4505,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>12</num>
-        <heading>:  MISCELLANEOUS PROVISIONS</heading>
+        <heading>MISCELLANEOUS PROVISIONS</heading>
         <para>
           <num>4.12.1</num>
           <heading>RIDING ON MOTORCYCLES.</heading>
@@ -4464,7 +4583,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>13</num>
-        <heading>: EQUIPMENT</heading>
+        <heading>EQUIPMENT</heading>
         <para>
           <num>4.13.1</num>
           <heading>GENERAL APPLICABILITY.</heading>
@@ -4650,10 +4769,7 @@
         </para>
         <para>
           <num>4.13.12</num>
-          <heading>LAMPS AND REFLECTORS:</heading>
-          <text>
-            <u>TRUCK TRACTORS AND ROAD TRACTORS.</u>
-          </text>
+          <heading>LAMPS AND REFLECTORS: TRUCK TRACTORS AND ROAD TRACTORS.</heading>
           <text>Every truck tractor and road tractor shall be equipped as follows:</text>
           <para>
             <num>1.</num>
@@ -4666,10 +4782,7 @@
         </para>
         <para>
           <num>4.13.13</num>
-          <heading>LAMPS AND REFLECTORS:</heading>
-          <text>
-            <u>LARGE SEMITRAILERS, FULL TRAILERS AND HOUSE TRAILERS.</u>
-          </text>
+          <heading>LAMPS AND REFLECTORS: LARGE SEMITRAILERS, FULL TRAILERS AND HOUSE TRAILERS.</heading>
           <para>
             <num>A.</num>
             <text>Every semitrailer, full trailer or house trailer eighty (80) inches or more in overall width and in motion shall be equipped as follows:</text>
@@ -4693,18 +4806,12 @@
         </para>
         <para>
           <num>4.13.14</num>
-          <heading>LAMPS AND REFLECTORS:</heading>
-          <text>
-            <u>SMALL SEMITRAILERS, HOUSE TRAILERS AND TRAILERS.</u>
-          </text>
+          <heading>LAMPS AND REFLECTORS: SMALL SEMITRAILERS, HOUSE TRAILERS AND TRAILERS.</heading>
           <text>On the rear of every semitrailer, house trailer or trailer less than eighty (80) inches in overall width there shall be the following equipment: one red tail lamp; two red reflectors, one at each side; and one red stop lamp, if the semitrailer, house trailer or trailer obscures the stop lamp on the towing vehicle.</text>
         </para>
         <para>
           <num>4.13.15</num>
-          <heading>LAMPS AND REFLECTORS:</heading>
-          <text>
-            <u>POLE TRAILERS.</u>
-          </text>
+          <heading>LAMPS AND REFLECTORS: POLE TRAILERS.</heading>
           <text>Every pole trailer shall be equipped as follows:</text>
           <para>
             <num>1.</num>
@@ -4717,10 +4824,7 @@
         </para>
         <para>
           <num>4.13.16</num>
-          <heading>LAMPS AND REFLECTORS:</heading>
-          <text>
-            <u>COMBINATION IN DRIVEAWAY- TOWAWAY OPERATIONS.</u>
-          </text>
+          <heading>LAMPS AND REFLECTORS: COMBINATION IN DRIVEAWAY-TOWAWAY OPERATIONS.</heading>
           <text>Combinations	of	motor	vehicles	engaged	in	driveaway/towaway operations shall be equipped as follows:</text>
           <para>
             <num>1.</num>
@@ -4847,9 +4951,7 @@
                   <tr>
                     <td>Vehicles or combination of vehicles not having brakes on all wheels</td>
                     <td>40</td>
-                    <td>
-                      <cite>10.7</cite>
-                    </td>
+                    <td>10.7</td>
                   </tr>
                 </tbody>
               </table>
@@ -5079,8 +5181,7 @@
           <heading>SAFETY BELT REQUIREMENT.</heading>
           <para>
             <num>A.</num>
-            <text>All adults, children 13 years of old and older, or 4 feet 9 inches in height or taller, in a moving non-commercial vehicle operated in the Kiowa Territory shall use a properly fastened lap and shoulder belt, or a lap belt only in those vehicles without a lap and shoulder restraint system. This requirement shall not apply to any person possessing a written statement from a physician indicating that the person is unable to wear a safety belt for medical or psychological reasons.   A copy of the physician's</text>
-            <text>statement must be in the person's possession while operating the vehicle in the Territory of the Tribe.</text>
+            <text>All adults, children 13 years of old and older, or 4 feet 9 inches in height or taller, in a moving non-commercial vehicle operated in the Kiowa Territory shall use a properly fastened lap and shoulder belt, or a lap belt only in those vehicles without a lap and shoulder restraint system. This requirement shall not apply to any person possessing a written statement from a physician indicating that the person is unable to wear a safety belt for medical or psychological reasons. A copy of the physician's statement must be in the person's possession while operating the vehicle in the Territory of the Tribe.</text>
           </para>
           <para>
             <num>B.</num>
@@ -5172,18 +5273,14 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Violators of <cite path="attachments|law|IV|13|4.13.30">this section</cite> are subject to a civil assessment fee not more than three hundred fifty dollars ($350.00) or less than fifty</text>
-            <para>
-              <num>(50)</num>
-              <text>hours of community service.</text>
-            </para>
+            <text>Violators of <cite path="attachments|law|IV|13|4.13.30">this section</cite> are subject to a civil assessment fee not more than three hundred fifty dollars ($350.00) or less than fifty (50) hours of community service.</text>
           </para>
         </para>
       </container>
       <container>
         <prefix>Chapter</prefix>
         <num>14</num>
-        <heading>:  WEIGHT AND SIZE LIMITATIONS</heading>
+        <heading>WEIGHT AND SIZE LIMITATIONS</heading>
         <para>
           <num>4.14.1</num>
           <heading>SCOPE AND EFFECT OF ARTICLE.</heading>
@@ -5199,11 +5296,7 @@
         <para>
           <num>4.14.2</num>
           <heading>PROJECTING LOADS ON PASSENGER VEHICLES.</heading>
-          <text>No passenger-type vehicle, except a motorcycle, shall be operated on any highway with any load carried on it extending beyond the line of the fenders on the left side of the vehicle nor extending more than six</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>inches beyond the line of the fenders on the right side of the vehicle.</text>
+          <text>No passenger-type vehicle, except a motorcycle, shall be operated on any highway with any load carried on it extending beyond the line of the fenders on the left side of the vehicle nor extending more than six (6) inches beyond the line of the fenders on the right side of the vehicle.</text>
         </para>
         <para>
           <num>4.14.3</num>
@@ -5266,7 +5359,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>15</num>
-        <heading>: CRIMINAL OFFENSES</heading>
+        <heading>CRIMINAL OFFENSES</heading>
         <para>
           <num>4.15.1</num>
           <heading>OBEDIENCE TO POLICE OFFICERS.</heading>
@@ -5290,15 +5383,11 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Any person convicted of violating <cite path="attachments|law|IV|15|4.15.3">this section</cite> shall be sentenced to not less than twenty-four (24) consecutive hours in jail. The court will not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serve not less than twenty-four consecutive hours in jail. The court shall order such person to pay a fine of not less than three hundred ($300.00) dollars and may order the person to perform not less than eight nor more than forty (40) hours of community service. The Judge shall require the surrender of the offender's operator's or chauffeur's license and suspend the license for a period of ninety</text>
-            <para>
-              <num>(90)</num>
-              <text>days, for a first offense, one hundred eighty (180) days, for a second offense, and one year, for a third offense.</text>
-            </para>
-            <para>
-              <num>D.</num>
-              <text>When the Trial Court requires a person convicted of violating the provisions of <cite path="attachments|law|IV|15|4.15.3">this section</cite> to surrender to the court the operator's or chauffeur's license of such person, it shall forward the surrendered license or permit to the state office issuing the license or permit together with a certified order of the court suspending or revoking the driving privileges of the convicted person.</text>
-            </para>
+            <text>Any person convicted of violating <cite path="attachments|law|IV|15|4.15.3">this section</cite> shall be sentenced to not less than twenty-four (24) consecutive hours in jail. The court will not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serve not less than twenty-four consecutive hours in jail. The court shall order such person to pay a fine of not less than three hundred ($300.00) dollars and may order the person to perform not less than eight nor more than forty (40) hours of community service. The Judge shall require the surrender of the offender's operator's or chauffeur's license and suspend the license for a period of ninety (90) days, for a first offense, one hundred eighty (180) days, for a second offense, and one year, for a third offense.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>When the Trial Court requires a person convicted of violating the provisions of <cite path="attachments|law|IV|15|4.15.3">this section</cite> to surrender to the court the operator's or chauffeur's license of such person, it shall forward the surrendered license or permit to the state office issuing the license or permit together with a certified order of the court suspending or revoking the driving privileges of the convicted person.</text>
           </para>
           <para>
             <num>E.</num>
@@ -5327,9 +5416,7 @@
           <text>A person is guilty of aggravated driving or actual physical control while under the influence of intoxicating liquor or drugs, an offense, if the person does any of the following:</text>
           <para>
             <num>A.</num>
-            <text>Commits a violation of <cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or</text>
-            <text>refused or while a restriction is placed on the person's driver</text>
-            <text>license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
+            <text>Commits a violation of <cite path="attachments|law|IV|15|4.15.3">section 4.15.3 </cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
           </para>
           <para>
             <num>B.</num>
@@ -5365,11 +5452,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>Upon a second or subsequent conviction committed within a period of twenty-four (24) months, such person shall be punished by imprisonment for a term of not less than twenty</text>
-            <para>
-              <num>(20)</num>
-              <text>days, or be ordered to pay a fine of not less than two hundred twenty-five dollars ($225.00), or both.</text>
-            </para>
+            <text>Upon a second or subsequent conviction committed within a period of twenty-four (24) months, such person shall be punished by imprisonment for a term of not less than twenty (20) days, or be ordered to pay a fine of not less than two hundred twenty-five dollars ($225.00), or both.</text>
           </para>
         </para>
         <para>
@@ -5428,27 +5511,26 @@
         <para>
           <num>4.15.9</num>
           <heading>ADMINISTRATION OF CHEMICAL TESTS.</heading>
-        </para>
-        <para>
-          <num>A.</num>
-          <text>Only a physician, practical nurse, phlebotomist, certified technician, laboratory technician or technologist employed by a hospital or physician shall withdraw blood from any person in the performance of a blood-alcohol and/or drug test. This limitation does not apply to the taking of samples of breath or urine.</text>
-        </para>
-        <para>
-          <num>B.</num>
-          <text>A physician, nurse, technician or technologist who performs a blood-alcohol and/or drug test at the direction of any law enforcement agency, shall be held liable in any civil or criminal</text>
-          <text>action for assault, battery, false imprisonment, or any conduct of any police officer</text>
-        </para>
-        <para>
-          <num>C.</num>
-          <text>The person tested shall be given an opportunity to arrange for a physician, licensed nurse or hospital laboratory technician of his own choosing to perform a chemical test, in addition to any test performed at the direction of a law enforcement officer. If a person exercises his right to have a chemical test performed by a person of his own choosing, then the cost of that test shall be paid by the person exercising that right.</text>
-        </para>
-        <para>
-          <num>D.</num>
-          <text>Upon the request of the person tested, full information concerning the test or tests performed at the direction of the law enforcement officer shall be made available to him as soon as it is available.</text>
-        </para>
-        <para>
-          <num>E.</num>
-          <text>Nothing in <cite path="attachments|law|IV|15">this chapter</cite> will authorize any law enforcement officer, or any judicial or probation officer, to make an arrest or to direct the performance of a blood-alcohol and/or drug test otherwise unauthorized by law.</text>
+          <para>
+            <num>A.</num>
+            <text>Only a physician, practical nurse, phlebotomist, certified technician, laboratory technician or technologist employed by a hospital or physician shall withdraw blood from any person in the performance of a blood-alcohol and/or drug test. This limitation does not apply to the taking of samples of breath or urine.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>A physician, nurse, technician or technologist who performs a blood-alcohol and/or drug test at the direction of any law enforcement agency, shall be held liable in any civil or criminal action for assault, battery, false imprisonment, or any conduct of any police officer</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>The person tested shall be given an opportunity to arrange for a physician, licensed nurse or hospital laboratory technician of his own choosing to perform a chemical test, in addition to any test performed at the direction of a law enforcement officer. If a person exercises his right to have a chemical test performed by a person of his own choosing, then the cost of that test shall be paid by the person exercising that right.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>Upon the request of the person tested, full information concerning the test or tests performed at the direction of the law enforcement officer shall be made available to him as soon as it is available.</text>
+          </para>
+          <para>
+            <num>E.</num>
+            <text>Nothing in <cite path="attachments|law|IV|15">this chapter</cite> will authorize any law enforcement officer, or any judicial or probation officer, to make an arrest or to direct the performance of a blood-alcohol and/or drug test otherwise unauthorized by law.</text>
+          </para>
         </para>
         <para>
           <num>4.15.10</num>
@@ -5492,7 +5574,7 @@
       <container>
         <prefix>Chapter</prefix>
         <num>16</num>
-        <heading>: PROCEDURE FOR THE TRAFFIC COURT</heading>
+        <heading>PROCEDURE FOR THE TRAFFIC COURT</heading>
         <para>
           <num>4.16.1</num>
           <heading>WHEN ARRESTEE TO BE GIVEN NOTICE TO APPEAR IN COURT.</heading>
@@ -5552,171 +5634,5 @@
         </para>
       </container>
     </container>
-  </attachment>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law-1">
-    <text>
-      <strong>
-        <u>RECIPROCAL EXTRADITION AGREEMENT</u>
-      </strong>
-    </text>
-    <text>This agreement, entered into this</text>
-    <text>day of	_, between the Kiowa Tribe</text>
-    <text>and	_, by and through their authorized representatives, is intended to provide a practical, workable framework in which said jurisdictions can obtain the extradition, for purposes of criminal prosecution, of persons violating the laws of either jurisdiction and fleeing to or found in the territory of the other.</text>
-    <section>
-      <num>1</num>
-      <heading>Definitions</heading>
-      <para>
-        <num>(1)</num>
-        <text>"Executive Authority" means the Chairman of the Kiowa Tribe, in the case of the Kiowa Tribe, and ______________ the in the case of _______________.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>"Territorial Jurisdiction" means all lands and property within the limits of the territorial jurisdiction of either party hereto.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>"Criminal offense" means any act or failure to act which is defined by the law of the requesting jurisdiction to be criminal, and in the case of the Kiowa Tribe shall include any act or failure to act made criminal by any code, ordinance or law of the Kiowa Tribe, and in the case of requesting jurisdictions, shall mean any act or failure to act which is declared to be, or punished as if it were, a felony. "Criminal offense" shall include a sentence of imprisonment for a criminal offense from which the accused person has fled or escaped before completing or being released by lawful procedure.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Requesting jurisdiction" means the jurisdiction which initiates a request for the other jurisdiction to turn over a person accused of a criminal offense.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>"Responding jurisdiction" means the jurisdiction which receives a request to turn over a person accused of a criminal offense.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>"Prosecuting authority" means the officer of either jurisdiction charged with the duty to prosecute the criminal offense for which extradition is sought.</text>
-      </para>
-    </section>
-    <section>
-      <num>2</num>
-      <text>Persons charged with criminal offense to be delivered upon demand. Subject  to the laws applicable to each  party  hereto, and  except  as otherwise provided in this agreement, the executive authority of each jurisdiction which is a party hereto shall cause to be arrested and delivered up to the executive authority of the  requesting  jurisdiction,  any  person  within  the  territorial  jurisdiction  of  the responding jurisdiction accused of committing a criminal offense within the territorial jurisdiction of the requesting jurisdiction, upon receipt of a request for extradition as specified herein.</text>
-    </section>
-    <section>
-      <num>3</num>
-      <heading>Request for Extradition.</heading>
-      <para>
-        <num>(1)</num>
-        <text>The request for extradition shall be in writing and addressed from the executive authority of the requesting jurisdiction to the executive authority of the responding jurisdiction, and shall request the extradition of a person charged with committing a criminal offense in the requesting jurisdiction and having thereafter fled from the requesting jurisdiction.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The request for extradition must be accompanied by certified copies of the following documents:</text>
-        <para>
-          <num>(a)</num>
-          <text>The indictment, information, or criminal complaint, together with any affidavits relating thereto, or, in the case of the failure to serve or</text>
-          <text>complete a sentence or imprisonment lawfully imposed, the judgment and sentence and any affidavits or documents relating thereto plus a certificate of the executive authority of the requesting jurisdiction that the person requested has escaped from the confinement, or has otherwise unlawfully failed to complete same.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A warrant of arrest, issued by the requesting jurisdiction.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The indictment, information or criminal complaint, together with supporting affidavits, must substantially charge the person requested with having committed a criminal offense under the law of the requesting jurisdiction.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>The authenticity of the documents submitted and the validity and good faith of the request for extradition must be certified to in the request by the executive authority of the requesting jurisdiction.</text>
-      </para>
-    </section>
-    <section>
-      <num>4</num>
-      <text>Procedure Upon Receipt of a Request for Extradition</text>
-      <text>The executive authority of the responding jurisdiction shall, within five (5) days after receipt of a request for extradition, do one of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Forward the request, with his approval endorsed thereon, to a judge of his jurisdiction empowered to issue warrants of arrest; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Return the request to the executive authority of the requesting jurisdiction with his reasons for not approving the request endorsed thereon, provided however, that the executive authority shall not inquire into the guilt or innocence of the accused as a condition to granting or withholding approval.</text>
-      </para>
-    </section>
-    <section>
-      <num>5</num>
-      <heading>Arrest of Accused Person</heading>
-      <para>
-        <num>(1)</num>
-        <text>Upon receipt of a request for extradition with the approval of the executive authority of the responding jurisdiction endorsed thereon, the judge of the responding jurisdiction shall issue a warrant of arrest for the person named in the request, and deliver said warrant of arrest to the law enforcement officers of the responding jurisdiction having authority to make arrests.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The warrant of arrest so issued shall substantially conform to the requirements for such documents in the responding jurisdiction and shall recite the facts necessary to the validity of its issuance.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Such warrants of arrest shall authorize the arrest of the accused at any time or place within the territorial jurisdiction of the responding jurisdiction in the manner provided for other arrests in that jurisdiction, and the authority of the officers executing said warrant shall be the same as when making other, arrests.</text>
-      </para>
-    </section>
-    <section>
-      <num>6</num>
-      <heading>Procedure upon Arrest</heading>
-      <para>
-        <num>(1)</num>
-        <text>As soon as practicable after the arrest of the accused, he shall be taken before the judge issuing the warrant of arrest and, after confirming his identity, there he shall be advised or the cause of the arrest, and, if he so desires, given an opportunity to obtain counsel.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>If the accused or his counsel desires to test the legality of the arrest, a hearing to determine such issue shall be scheduled and held as soon as is practicable. Notice of such hearing-shall be given to the prosecuting authority of the responding jurisdiction, and to the agent of the requesting jurisdiction into whose custody the accused would otherwise be delivered.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>No person arrested under this agreement shall be delivered up to the requesting jurisdiction until he has either had a hearing to test the legality of his arrest, or has, in open court, made an informed waiver of such hearing.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Persons arrested pursuant to this agreement shall be incarcerated in the local jail of the respective jurisdiction, as in the case of regular arrests.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Any person arrested pursuant to this agreement shall be given the opportunity to make bail in any case where his delivery to the requesting jurisdiction is not imminent. Such bail shall be in amount sufficient to reasonably assure the appearance of the accused at a time and place specified by the court. Forfeiture of bail and arrest for nonappearance, where appropriate, may be made as in other cases.</text>
-      </para>
-    </section>
-    <section>
-      <num>7</num>
-      <text>Procedure if Prosecution is pending in the Responding Jurisdiction</text>
-      <text>If a criminal prosecution has been instituted in the responding jurisdiction against the person whose extradition is sought, the executive authority of the responding jurisdiction, in his discretion, may either surrender the accused to the requesting jurisdiction or hold him until he has been tried and discharged or convicted and punished in the responding jurisdiction.</text>
-    </section>
-    <section>
-      <num>8</num>
-      <heading>Manner of Initiating Requests for Extradition</heading>
-      <text>The prosecuting authority of each jurisdiction shall have authority to initiate requests for extradition, to administer the details thereof, and to designate officers to receive persons extradited from the other jurisdiction.</text>
-    </section>
-    <section>
-      <num>9</num>
-      <heading>Prosecution in Requesting Jurisdiction</heading>
-      <para>
-        <num>(1)</num>
-        <text>A person extradited under this agreement shall be given the same rights and privileges under the laws of the requesting jurisdiction as any other person accused of a criminal offense by that jurisdiction.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Criminal prosecution in the requesting jurisdiction shall not be limited to the criminal offense specified in the request for extradition and any lesser included offenses.</text>
-      </para>
-    </section>
-    <section>
-      <num>10</num>
-      <heading>Sovereignty</heading>
-      <text>Nothing in this agreement or in the implementation hereof shall be deemed to be a grant, cession or waiver of any of the sovereign governmental rights, powers, or jurisdiction of either party hereto, including sovereign immunity.</text>
-    </section>
-    <section>
-      <num>11</num>
-      <heading>Duration of Agreement.</heading>
-      <para>
-        <num>(1)</num>
-        <text>This agreement shall become effective upon its execution by the executive authorities of the parties hereto.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>This agreement shall remain in effect until canceled by notification from the executive authority of either jurisdiction to the other.</text>
-        <text>Done at	on the day and year first above written. KIOWA TRIBE</text>
-        <text>By:  		 Chairman</text>
-        <text>By:</text>
-      </para>
-    </section>
   </attachment>
 </document>

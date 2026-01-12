@@ -299,12 +299,7 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <text class="center">
-      <strong>2026 CHARTER OF THE</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA CASINO OPERATIONS AUTHORITY</strong>
-    </text>
+    <heading>2026 CHARTER OF THE KIOWA CASINO OPERATIONS AUTHORITY</heading>
     <container>
       <prefix>Article</prefix>
       <num>1</num>
@@ -591,14 +586,14 @@
         <para>
           <num>(b)</num>
           <text>pledge as security for any debt or other obligation any revenues or assets of the Tribe.</text>
-          <para>
-            <num>(c)</num>
-            <text>bind or create any obligation or liability of the Tribe.</text>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>effect any liquidation, dissolution, or winding up of the Authority; or</text>
-          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>bind or create any obligation or liability of the Tribe.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>effect any liquidation, dissolution, or winding up of the Authority; or</text>
         </para>
         <para>
           <num>(e)</num>
@@ -633,11 +628,11 @@
         <para>
           <num>(a)</num>
           <text>The Board shall consist of ﬁve (5) members, hereby designated "Directors", who shall serve two-year staggered terms of office as established <s>by the Chairman of the Tribe</s> by law beginning with all Directors nominated by the Chairman of the Tribe and confirmed by the Legislature. The terms shall be staggered so that every year, either two or three Directors' terms, as the case may be, shall expire. Upon a vacancy among the Board of Directors, the Chairman shall nominate a candidate for confirmation by the Legislature within forty-five (45) calendar days. Should any such nominee fail to achieve legislative approval, then the Chairman shall nominate an alternate candidate within forty-five (45) calendar days of the vote of the Legislature rejecting same nominee. Should any confirmed nominee decline to be sworn in to their respective seat, then the Chairman shall nominate an alternate candidate within forty-five (45) calendar days of communication from the confirmed nominee rejecting their appointment.</text>
-          <para>
-            <num>(b)</num>
-            <text>Each member of the Board shall serve until the earlier of his resignation,</text>
-            <text>removal, or the expiration of his term. Should the Chairman wish to renominate a currently serving member of the Board, then he may issue a renomination for confirmation by the Legislature up to 60 days prior to the expiration of the present term.</text>
-          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Each member of the Board shall serve until the earlier of his resignation,</text>
+          <text>removal, or the expiration of his term. Should the Chairman wish to renominate a currently serving member of the Board, then he may issue a renomination for confirmation by the Legislature up to 60 days prior to the expiration of the present term.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -751,10 +746,10 @@
         <para>
           <num>(a)</num>
           <text>The Board may establish committees to address discrete issues (for instance to manage development), and may charge such committees with discrete tasks, but may not delegate authority to the committees to act on behalf of the Board.</text>
-          <para>
-            <num>(b)</num>
-            <text><cite path="attachments|law|13|13.11">Section 13.11 </cite>and <cite path="attachments|law|13|13.12">13.12 </cite>shall be applicable to all committees of the Board.</text>
-          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><cite path="attachments|law|13|13.11">Section 13.11 </cite>and <cite path="attachments|law|13|13.12">13.12 </cite>shall be applicable to all committees of the Board.</text>
         </para>
       </section>
       <section>
@@ -886,18 +881,18 @@
         <para>
           <num>(a)</num>
           <text>an unaudited balance sheet, income statement and cash ﬂow statement for the quarter then ended;</text>
-          <para>
-            <num>(b)</num>
-            <text>a computation of Net Revenues;</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>a computation of Reserves;</text>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>a computation of Distributable Cash;</text>
-          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a computation of Net Revenues;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a computation of Reserves;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a computation of Distributable Cash;</text>
         </para>
         <para>
           <num>(e)</num>
@@ -910,11 +905,10 @@
         <para>
           <num>(g)</num>
           <text>the amount of all funds placed that month into the Tribal Reserve Account.</text>
-          <para>
-            <num>(h)</num>
-            <text>and</text>
-            <text>such other information requested by the Board, Legislature, or the Chairman.</text>
-          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>and such other information requested by the Board, Legislature, or the Chairman.</text>
         </para>
       </section>
       <section>
@@ -923,18 +917,18 @@
         <para>
           <num>(a)</num>
           <text>an audited balance sheet, income statement, and cash ﬂow statement for the ﬁscal year then ended;</text>
-          <para>
-            <num>(b)</num>
-            <text>a computation of Net Revenue;</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>a computation of Reserves;</text>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>a computation of Distributable Cash;</text>
-          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a computation of Net Revenue;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a computation of Reserves;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a computation of Distributable Cash;</text>
         </para>
         <para>
           <num>(e)</num>
@@ -943,23 +937,23 @@
         <para>
           <num>(f)</num>
           <text>any supplemental information necessary to provide the reader with a good understanding of the financial results;</text>
-          <para>
-            <num>(g)</num>
-            <text>plans for the upcoming ﬁscal year; and</text>
-          </para>
-          <para>
-            <num>(h)</num>
-            <text>such other information as the Board or Legislature by law deems pertinent.</text>
-          </para>
-          <para>
-            <num>17.6</num>
-            <text>The Authority shall also provide the Chairman of the Tribe and the Legislature with a written report on October 1st and April 1st of each year detailing to the status of the Tribe's casino operations and the financial condition of the Authority.</text>
-          </para>
-          <para>
-            <num>17.7</num>
-            <text>The Authority shall submit a proposed operating budget to the Chairman by January 15 of each year with copy to the Legislature.  The proposed budget shall be itemized and shall be subject to approval in the Annual Tribal Budgetary Process. Any changes to an Annual Budget shall be subject to approval in a Modification Budgetary Process as outlined in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
-          </para>
         </para>
+        <para>
+          <num>(g)</num>
+          <text>plans for the upcoming ﬁscal year; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>such other information as the Board or Legislature by law deems pertinent.</text>
+        </para>
+      </section>
+      <section>
+        <num>17.6</num>
+        <text>The Authority shall also provide the Chairman of the Tribe and the Legislature with a written report on October 1st and April 1st of each year detailing to the status of the Tribe's casino operations and the financial condition of the Authority.</text>
+      </section>
+      <section>
+        <num>17.7</num>
+        <text>The Authority shall submit a proposed operating budget to the Chairman by January 15 of each year with copy to the Legislature.  The proposed budget shall be itemized and shall be subject to approval in the Annual Tribal Budgetary Process. Any changes to an Annual Budget shall be subject to approval in a Modification Budgetary Process as outlined in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
       </section>
     </container>
     <container>
