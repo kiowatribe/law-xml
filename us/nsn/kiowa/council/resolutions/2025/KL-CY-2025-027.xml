@@ -374,7 +374,7 @@
     <num>1.11</num>
     <text>No application will be accepted unless the form supplied is completely filled out (if a paper check is requested, an address is necessary).</text>
   </section>
-  <section>
+  <section name="double">
     <num>1.11</num>
     <text>The Chairman (or his designee) shall compare each application to the official roll of the Tribe and document that each applicant is an enrolled Kiowa before approving any application for aid.</text>
   </section>
