@@ -375,7 +375,7 @@
         <heading>COMMISSION CREATED – NUMBER.</heading>
         <text>Pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6</cite>, (h) there is hereby created the Kiowa Housing Commission. The Commission shall provide oversight and direction to the Authority. The Commission shall meet no less than quarterly, and shall make a written report of the operations of the Authority as required in <cite path="attachments|law|5|501">Section 501</cite>, below, to the Kiowa Chairman and Legislature each quarter. A quarter shall run from the fiscal calendar of the Kiowa Tribe, with the first quarter beginning on October 1, and the first report being due on January 1 each year.</text>
       </section>
-      <section>
+      <section name="double">
         <num>201</num>
         <heading>APPOINTMENT OF BOARD MEMBERS.</heading>
         <text>Five persons shall be nominated by the Chairman, and may be re- nominated by the Chairman with hearing and confirmation before the Legislature. The Judicial Branch shall administer the Oath of Office of each confirmed nominee.</text>
