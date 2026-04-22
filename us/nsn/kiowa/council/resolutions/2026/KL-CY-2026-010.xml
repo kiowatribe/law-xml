@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Kiowa Tribe Res. No. KL-CY-2026-010">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2026-010">
   <num>KL-CY-2026-010</num>
   <heading>The Second Amendment to the Kiowa Casino Operations Authority Charter Act of 2026</heading>
   <meta>
-    <stub/>
     <effective>2026-03-30</effective>
     <history>
       <adopted>2026-03-26</adopted>
@@ -12,4 +11,291 @@
       <citation type="res" url="./adopted/KL-CY-2026-010.pdf">Kiowa Tribe Res. No. KL-CY-2026-010</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a sovereign nation and has been so since time immemorial; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe exercises full enjoyment of the inherent powers of government, including self-determination and autonomy over internal affairs encompassing Tribe citizens, lands, and resources; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on April 17, 2017, qualified voters of the Tribe ratified the Kiowa Constitution as "the supreme law of the land"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a)</cite> of same Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> in 2023, the Legislature enacted and approved an amended Charter to establish and govern the Kiowa Casino Operations Authority ("KCOA") to operate and manage the Tribe's profitable gaming businesses; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature enacted a First Amendment to same Charter in July 2025; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature has determined that further statutory codification and clarification are in the best interests of the Tribe to delineate the fiduciary obligations of the KCOA Board of Directors as well as high standards of conduct for same Board, in order to ensure that all enterprises under KCOA purview operate with the highest degree of financial and business ethics, integrity, and professionalism;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text> that the Legislature hereby approves and enacts the "SECOND AMENDMENT TO THE KIOWA CASINO OPERATIONS AUTHORITY CHARTER ACT," which may also be cited as THE KIOWA CASINO OPERATIONS AUTHORITY CHARTER ACT OF 2026.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2026-010 was duly voted upon by the Legislature on March 26, 2026, at a Legislative Special Session II-(2), with a vote of (4) in favor and (0) opposed, (0) abstaining, and (3) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+    <text>
+      <strong>LEGISLATIVE RESOLUTION – KL-CY-2026-010</strong>
+    </text>
+    <text><strong>Sponsor</strong>:  Kyle Ataddlety, D1, Michael Primus, D2, Timothy Satepauhoodle, D3, Cole Kickingbird-DeLaune, D4, Tiya Rosario, D5, Ben Wolf, D6, Warren Queton, D7.</text>
+    <text>
+      <strong>Co-Sponsors:</strong>
+    </text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>LEGISLATORS</td>
+            <td proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </td>
+            <td proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </td>
+            <td proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </td>
+            <td proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Q. Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2026-010 was presented to the Chairman of the Kiowa Tribe on the ___ day of March, 2026, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2026.</text>
+    <text>
+      <strong>David B. Sullivan</strong>
+    </text>
+    <text>
+      <strong>Chairman of the Kiowa Tribe</strong>
+    </text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2026.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2026-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2026-00X was duly voted upon by the Legislature on __________________, 2026, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+  </procedural-data>
 </document>
