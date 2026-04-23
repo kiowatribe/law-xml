@@ -3,7 +3,6 @@
   <num>KL-CY-2023-010</num>
   <heading>Resolution in and for the Kiowa Tribe for the Establishment and Operation of the Kiowa Tribe District Children's Court</heading>
   <meta>
-    <stub/>
     <effective>2023-04-10</effective>
     <history>
       <adopted>2023-04-04</adopted>
@@ -12,11 +11,8 @@
       <citation type="res" url="./adopted/KL-CY-2023-010.pdf">Kiowa Tribe Res. No. KL-CY-2023-010</citation>
     </citations>
   </meta>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">KIOWA TRIBE OF OKLAHOMA</text>
-    <text class="center">LAW AND ORDER CODE</text>
-    <text class="center">TITLE</text>
-    <text class="center">JUVENILE PROCEDURE</text>
+  <attachment id="law">
+    <heading>KIOWA TRIBE OF OKLAHOMA LAW AND ORDER CODE TITLE JUVENILE PROCEDURE</heading>
     <section>
       <num>1.</num>
       <heading>Citation</heading>

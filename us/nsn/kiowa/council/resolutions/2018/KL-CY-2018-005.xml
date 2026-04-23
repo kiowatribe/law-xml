@@ -266,19 +266,8 @@
     <heading>Modifications to the KCOA Charter</heading>
     <text>The Legislature hereby approves the modifications to the KCOA Charter attached hereto.</text>
   </section>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">
-      <strong>SIXTH AMENDED AND RESTATED</strong>
-    </text>
-    <text class="center">
-      <strong>CHARTER</strong>
-    </text>
-    <text class="center">
-      <strong>OF THE</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA CASINO OPERATIONS AUTHORITY</strong>
-    </text>
+  <attachment id="law" name="SIXTH AMENDED AND RESTATED CHARTER OF THE KIOWA CASINO OPERATIONS AUTHORITY">
+    <heading>SIXTH AMENDED AND RESTATED CHARTER OF THE KIOWA CASINO OPERATIONS AUTHORITY</heading>
     <container>
       <prefix>Article</prefix>
       <num>1</num>
@@ -888,7 +877,7 @@
       </section>
     </container>
   </attachment>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law-1">
+  <attachment id="law-1" name="NEPOTISM PREVENTION ACT OF 2018">
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>
@@ -937,11 +926,11 @@
       <heading>Hiring</heading>
       <para>
         <num>(a)</num>
-        <text>. 	Upon review of the candidates applying for a job with the Tribe, the Hiring Authority shall not make any decision to hire a Close Relative, and the person or persons serving as the Hiring Authority shall recuse from the decision, notwithstanding any law or policy to the contrary.</text>
+        <text>Upon review of the candidates applying for a job with the Tribe, the Hiring Authority shall not make any decision to hire a Close Relative, and the person or persons serving as the Hiring Authority shall recuse from the decision, notwithstanding any law or policy to the contrary.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>. 	For all new hires after the effective date of <cite path="attachments|law">this Act</cite>, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
+        <text>For all new hires after the effective date of <cite path="attachments|law">this Act</cite>, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
       </para>
     </section>
     <section>

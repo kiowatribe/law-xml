@@ -271,7 +271,8 @@
       <text>All housing goals shall be documented in the IHP current Kiowa Housing Law, which describes the Authority as the Kiowa Tribally designated Housing Entity (TDHE) and the Recipient as required by the Department of Housing and Urban Development.</text>
     </para>
   </section>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
+  <attachment id="law">
+    <heading>KIOWA TRIBE HOUSING AUTHORITY REFORM ACT OF 2017</heading>
     <container>
       <prefix>Chapter</prefix>
       <num>1</num>

@@ -328,13 +328,8 @@
     <heading>Severability</heading>
     <text>If any provision(s) of this law are declared invalid by the Judicial Branch, the invalid provision(s) shall be severed, and the remaining provisions shall continue in full force and effect.</text>
   </section>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">
-      <strong>KIOWA TRIBE ELECTION LAW OF 2022</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA TRIBE ELECTION LAW OF 2022</strong>
-    </text>
+  <attachment id="law">
+    <heading>KIOWA TRIBE ELECTION LAW OF 2022</heading>
     <section>
       <num>1.</num>
       <text>Authority 	This election ordinance is established by the Election Commission of the Kiowa Tribe under authority delegated to it by Article IX, Sec 3. (a) of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>

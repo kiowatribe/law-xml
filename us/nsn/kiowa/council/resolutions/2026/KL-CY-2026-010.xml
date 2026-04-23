@@ -299,12 +299,7 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <text class="center">
-      <strong>2026 CHARTER OF THE</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA CASINO OPERATIONS AUTHORITY</strong>
-    </text>
+    <heading>2026 CHARTER OF THE KIOWA CASINO OPERATIONS AUTHORITY</heading>
     <container>
       <prefix>Article</prefix>
       <num>1</num>

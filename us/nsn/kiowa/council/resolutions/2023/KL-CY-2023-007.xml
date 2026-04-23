@@ -261,13 +261,8 @@
       <text>The Legislature has enacted and approved a Charter to establish and govern the KCOA to operate and manage the Tribe's profitable gaming businesses.</text>
     </para>
   </section>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">
-      <strong>2023 CHARTER OF THE</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA CASINO OPERATIONS AUTHORITY</strong>
-    </text>
+  <attachment id="law">
+    <heading>2023 CHARTER OF THE KIOWA CASINO OPERATIONS AUTHORITY</heading>
     <container>
       <prefix>Article</prefix>
       <num>1</num>

@@ -270,13 +270,11 @@
     </para>
   </section>
   <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
+    <heading>Labor and Employment Act of 2023</heading>
     <container>
       <prefix>Title</prefix>
       <num>X</num>
       <heading>LABOR AND EMPLOYEMT</heading>
-      <text class="center">
-        <strong>Labor and Employment Act of 2023</strong>
-      </text>
       <container>
         <prefix>Chapter</prefix>
         <num>1</num>
