@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-023">
+  <num>KL-CY-2025-023</num>
+  <heading>Kiowa Criminal Code</heading>
   <meta>
-    <stub/>
     <effective>2025-10-21</effective>
     <history>
       <adopted>2025-10-11</adopted>
@@ -10,6 +11,261 @@
       <citation type="res" url="./adopted/KL-CY-2025-023.pdf">Kiowa Tribe Res. No. KL-CY-2025-023</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-023</num>
-  <heading>Kiowa Criminal Code</heading>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a federally recognized Indian Tribe with a Constitution approved by the Secretary of the Interior; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature, is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature, is authorized under the Kiowa Constitution and is empowered to promulgate and enforce codes and laws, to protect Kiowa Tribal Citizens; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> this Kiowa Criminal Code is intended to replace the previous criminal codes of the Kiowa Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> this Kiowa Criminal Code is further intended to adopt certain provisions related to Special Tribal Criminal Jurisdiction as established in the United States' Violence Against Women Act, see e.g. 25 U.S.C. 1304.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE BE IT RESOLVED,</conjunction>
+      <text> the Kiowa Tribe Legislature, having been delegated certain authorities under the Kiowa Constitution, the governing body of the Kiowa Tribe, does hereby adopt the attached "Kiowa Criminal Code."</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text> that any laws substantially similar to the attached Kiowa Criminal Code, such as the Kiowa Code of 2017 and the updated version of the Kiowa Code of 2017 included in the Kiowa Tribe Code of Laws (but not the Kiowa Tribe Peacekeeping Act), are hereby repealed.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2025-023 was duly voted upon by the Legislature on October, 11th 2025, at a Legislative Regular Session CII-(102), with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>LEGISLATIVE RESOLUTION – KL-CY-2025-00X</strong>
+    </text>
+    <text><strong>Sponsors:</strong> Michael Primus, District 2.</text>
+    <text>
+      <strong>Co-Sponsors:</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-00X was presented to the Chairman of the Kiowa Tribe on the ____ day of _____, 202__, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2025-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2025-00X was duly voted upon by the Legislature on __________________, 2025, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
 </document>

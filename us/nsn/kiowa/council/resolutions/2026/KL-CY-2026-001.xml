@@ -3,13 +3,268 @@
   <num>KL-CY-2026-001</num>
   <heading>Kiowa Tribe Juvenile Procedures Act</heading>
   <meta>
-    <stub/>
-    <effective>2026-02-28</effective>
+    <effective>2026-02-24</effective>
     <history>
       <adopted>2026-02-14</adopted>
+      <narrative>Posted on Kiowa Tribe Website: August 09, 2025. Read into Record by: Warren Queton, District 7, at Legislature Regular Session C-(100), August 09, 2025. Legislative Regular Session CI-(101), September 13, 2026. Legislative Regular Session CII-(102), October 11, 2026, Legislative Regular Session CIII-(103), November 08, 2026. Legislative Regular Session CIV-(104), December 13, 2026. Legislative Regular Session CV-(105), January 10, 2026. Legislative Public Hearing II-(2), February 13, 2026. Legislative Regular Session CVI-(106), February 14, 2026.</narrative>
     </history>
     <citations>
       <citation type="res" url="./adopted/KL-CY-2026-001.pdf">Kiowa Tribe Res. No. KL-CY-2026-001</citation>
     </citations>
   </meta>
+  <text>At a duly called Legislative Regular Session CVI-(6) of the Legislature of the Kiowa Tribe held this 14th day of February, 2026, the following resolution, was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a federally recognized Indian Tribe with a Constitution approved by the Secretary of the Interior; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature, is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature is authorized under <cite doc="Constitution of the Kiowa Tribe">the Kiowa Constitution</cite> and is empowered to promulgate and enforce codes and laws, to protect Kiowa Tribal Citizens; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>	the Kiowa Legislature has previously created a Juvenile Division of the Kiowa Trial Court (see <cite doc="Kiowa Tribe Res. No. KL-CY-2023-010">Legislative Resolution KL-CY-2023-010</cite>); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> this Kiowa Tribe Juvenile Procedures Act is intended to secure Kiowa children care and guidance that will best serve their welfare, the interest of the Kiowa Tribe, and society in general.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE BE IT RESOLVED,</conjunction>
+      <text> the Kiowa Tribe Legislature, having been delegated certain authorities under <cite doc="Constitution of the Kiowa Tribe">the Kiowa Constitution</cite>, the governing body of the Kiowa Tribe, does hereby adopt the attached "Kiowa Tribe Juvenile Procedures Act."</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2026-001 was duly voted upon by the Legislature on February 14, 2026, at a Legislative Regular Session CVI-(106), with a vote of (5) in favor and (0) opposed, (0) abstaining, and (2) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus II</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>LEGISLATIVE RESOLUTION – KL-CY-2026-001</strong>
+    </text>
+    <text><strong>Sponsors:</strong> Warren Queton, District 7.</text>
+    <text><strong>Co-Sponsors:</strong> Kyle Ataddlety, D1; Michael Primus II, D2; Timothy Satepauhoodle, D3; Cole Kickingbird-DeLaune, D4; Tiya Rosario, D5; Ben Wolf, D6.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th>
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th>
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th>
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Michael Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td>
+              <p>X</p>
+              <p>out of district</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2026-001 was presented to the Chairman of the Kiowa Tribe on the 20<sup>th</sup>  day of February, 2026, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus II</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2026.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2026.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2026-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2026-00X was duly voted upon by the Legislature on __________________, 2026, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus II</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
 </document>
