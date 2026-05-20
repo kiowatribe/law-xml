@@ -12,7 +12,7 @@
   <num>KL-CY-2025-023</num>
   <heading>Kiowa Criminal Code</heading>
   <text>[Resolution text pending]</text>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
+  <attachment id="law">
     <heading>KIOWA CRIMINAL CODE</heading>
     <container>
       <prefix>Title</prefix>
@@ -595,7 +595,7 @@
           <num>2.3.8</num>
           <heading>EXTRADITION.</heading>
           <text>The Chairman is hereby empowered to negotiate for the extradition of persons accused of criminal offenses, both to and from the Territory of the Kiowa Tribe, with any state, county, municipal jurisdiction or Indian Tribe, and to enter into reciprocal agreements that are substantially in the form attached. Such agreements shall be the law of the Tribe until the date or expiration thereof or until rescinded by both the Chairman and the Legislature.</text>
-          <include xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law-1">
+          <include>
             <heading>RECIPROCAL EXTRADITION AGREEMENT</heading>
             <text>This agreement, entered into this day of	_, between the Kiowa Tribe and	_, by and through their authorized representatives, is intended to provide a practical, workable framework in which said jurisdictions can obtain the extradition, for purposes of criminal prosecution, of persons violating the laws of either jurisdiction and fleeing to or found in the territory of the other.</text>
             <section>
