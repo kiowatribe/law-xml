@@ -55,19 +55,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th>
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -75,73 +75,73 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Kyle Ataddlety</p>
               <p>District 1</p>
             </td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Michael Q. Primus II</p>
               <p>District 2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Timothy Satepauhoodle</p>
               <p>District 3</p>
             </td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Cole Kickingbird-DeLaune</p>
               <p>District 4</p>
             </td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Tiya Rosario</p>
               <p>District 5</p>
             </td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Ben Wolf</p>
               <p>District 6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Warren Queton</p>
               <p>District 7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
             <td>X</td>
           </tr>
         </tbody>
@@ -150,7 +150,7 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. <strong>KL-CY-2026-011</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>____</strong> day of <strong>March</strong>, <strong>2026</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. <strong>KL-CY-2026-011</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>30</strong><sup><strong>th</strong></sup> day of <strong>March</strong>, <strong>2026</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
     <text>
       <strong>Cole Kickingbird-DeLaune</strong>
     </text>
@@ -164,9 +164,9 @@
     <text>
       <strong>CHAIRMAN'S ACTION:</strong>
     </text>
-    <text>[    ] 	APPROVED</text>
+    <text>[ X ] 	APPROVED</text>
     <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
-    <text>On this <strong>____</strong> day of <strong>_________</strong>, 2026.</text>
+    <text>On this <strong>30</strong> day of <strong>March</strong>, 2026.</text>
     <text>
       <strong>David B. Sullivan</strong>
     </text>
@@ -202,19 +202,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th>
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th>
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -222,74 +222,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Kyle Ataddlety</p>
               <p>District 1</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Michael Q. Primus II</p>
               <p>District 2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Timothy Satepauhoodle</p>
               <p>District 3</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Cole Kickingbird-DeLaune</p>
               <p>District 4</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Tiya Rosario</p>
               <p>District 5</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Ben Wolf</p>
               <p>District 6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td>
               <p>Warren Queton</p>
               <p>District 7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -335,7 +335,7 @@
         <tbody>
           <tr>
             <th>Beginning Cash Balance Restricted Trust Funds</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>Investment Fund Casino Distribution</td>
@@ -343,7 +343,7 @@
           </tr>
           <tr>
             <th>Revenue</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>Oil and Gas Severance Tax</td>
@@ -415,7 +415,7 @@
           </tr>
           <tr>
             <td>Restricted Revenue:</td>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>KCOA Board Operating Budget</td>
@@ -442,20 +442,20 @@
             <td>$     20,184,095.00</td>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>Total Operating Revenue</th>
             <th>$     58,095,477.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>General Budget</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>Executive Office</td>
@@ -515,7 +515,7 @@
           </tr>
           <tr>
             <td>Other:</td>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>Tribal Member Services</td>
@@ -538,12 +538,12 @@
             <th>$     11,466,913.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Legislative Branch</td>
@@ -562,12 +562,12 @@
             <th>$       2,556,161.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>Indirect Cost-Administration</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>Administration Office/Tribal Operations</td>
@@ -610,16 +610,16 @@
             <th>$       5,668,787.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>Total FY-2026-2027 Tribal Budget:</th>
             <th>$     19,691,861.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>KCOA Board Operating Budget</th>
@@ -638,16 +638,16 @@
             <th>$       1,768,568.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>INDIAN SELF GOVERNANCE PROGRAMS:</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>2% Transportation Improvement Planning</td>
@@ -714,12 +714,12 @@
             <th>$     14,177,953.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>OTHER GOVERNMENT PROGRAMS:</th>
-            <td proof="needed"/>
+            <td/>
           </tr>
           <tr>
             <td>AOA Title VI (A)</td>
@@ -838,28 +838,28 @@
             <th>$     20,184,095.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <th>Grand Total Of Kiowa Tribe Annual Budget</th>
             <th>$     58,095,477.00</th>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>KCA-ILUC</td>
             <td>$           100,000.00</td>
           </tr>
           <tr>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
