@@ -360,11 +360,15 @@
   </section>
   <section>
     <num>4</num>
-    <heading>New Law.  A new Section 1.1.3 is added to the Kiowa Code to read as follows:</heading>
-    <para>
-      <num>1.1.3.</num>
-      <text>Annual Meeting.  An annual meeting of the Judicial Commission, all the Judges of the Trial Court and Justices of the Supreme Court, the Chairman, and the Legislature shall be called and conducted by the Chairman for the Judicial Commission to report on its activities for the past year, to outline any planned activities for the coming year, and to present any proposed codes or rules.  Any Code of Ethics approved by the Judicial Commission or regulations promulgated by the Judicial Commission to regulate the conduct of lawyers and advocates shall be presented to Chief Justice for publication.</text>
-    </para>
+    <heading>New Law.</heading>
+    <text>A new Section 1.1.3 is added to the Kiowa Code to read as follows:</text>
+    <include>
+      <section>
+        <num>1.1.3.</num>
+        <heading>Annual Meeting.</heading>
+        <text>An annual meeting of the Judicial Commission, all the Judges of the Trial Court and Justices of the Supreme Court, the Chairman, and the Legislature shall be called and conducted by the Chairman for the Judicial Commission to report on its activities for the past year, to outline any planned activities for the coming year, and to present any proposed codes or rules.  Any Code of Ethics approved by the Judicial Commission or regulations promulgated by the Judicial Commission to regulate the conduct of lawyers and advocates shall be presented to Chief Justice for publication.</text>
+      </section>
+    </include>
     <text><strong><u>Effective Date</u></strong><strong>.</strong><cite path="">This enactment</cite> shall be deemed effective as of the date that it is approved by the Legislature and (a) signed into law by the Chairman or (b) the expiration of the period of ten (10) calendar days allotted by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> to the Chairman for consideration following presentment of an enactment or (c) a veto override is duly approved and signed by the Speaker of the Legislature or Speaker pro tempore.</text>
   </section>
 </document>
