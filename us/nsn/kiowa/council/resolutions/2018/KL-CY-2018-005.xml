@@ -266,19 +266,11 @@
     <heading>Modifications to the KCOA Charter</heading>
     <text>The Legislature hereby approves the modifications to the KCOA Charter attached hereto.</text>
   </section>
-  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
-    <text class="center">
-      <strong>SIXTH AMENDED AND RESTATED</strong>
-    </text>
-    <text class="center">
-      <strong>CHARTER</strong>
-    </text>
-    <text class="center">
-      <strong>OF THE</strong>
-    </text>
-    <text class="center">
-      <strong>KIOWA CASINO OPERATIONS AUTHORITY</strong>
-    </text>
+  <attachment id="law">
+    <text class="center"><strong>SIXTH AMENDED AND RESTATED</strong></text>
+    <text class="center"><strong>CHARTER</strong></text>
+    <text class="center"><strong>OF THE</strong></text>
+    <text class="center"><strong>KIOWA CASINO OPERATIONS AUTHORITY</strong></text>
     <container>
       <prefix>Article</prefix>
       <num>1</num>
@@ -835,6 +827,7 @@
       <heading>Dissolution or Liquidation.</heading>
       <section>
         <num>18.1</num>
+        <text/>
         <para>
           <num>(a)</num>
           <text>In the event of the dissolution or final liquidation of the Authority, (i) none of the property of the Authority nor any proceeds thereof shall be distributed to or divided among any of the directors or officers of the Authority or inure to the benefit of any individual, and (ii) the Tribe shall be successor to the Authority for all purposes, including pursuant to any contracts entered into by the Authority. All contracts and security grants provided by the authority in any such contracts are not binding on the Tribe unless affirmed or ratified by the Legislature.</text>
