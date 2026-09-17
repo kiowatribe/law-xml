@@ -29,10 +29,11 @@
   <xi:include href="./KL-CY-2025-009.xml"/>
   <xi:include href="./KL-CY-2025-008.xml"/>
   <xi:include href="./KL-CY-2025-007.xml"/>
-  <xi:include href="./KL-CY-2025-006.xml"/>
   <xi:include href="./KL-CY-2025-005.xml"/>
   <xi:include href="./KL-CY-2025-004.xml"/>
   <xi:include href="./KL-CY-2025-003.xml"/>
   <xi:include href="./KL-CY-2025-002.xml"/>
   <xi:include href="./KL-CY-2025-001.xml"/>
+  <subheading>Dead Bills</subheading>
+  <xi:include href="./KL-CY-2025-006.xml"/>
 </collection>
