@@ -254,4 +254,360 @@
     <text>Michael Primus</text>
     <text>Speaker of the Legislature</text>
   </procedural-data>
+  <attachment xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="law">
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>LEGISLATORS</td>
+            <td proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </td>
+            <td proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </td>
+            <td proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </td>
+            <td proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <section>
+      <num>101</num>
+      <heading>Title.</heading>
+      <text><cite path="attachments|law">This Act</cite> shall be known as the False Claims Act ("Act").</text>
+    </section>
+    <section>
+      <num>102</num>
+      <heading>Purpose.</heading>
+      <text><cite path="attachments|law">This Act</cite> is passed to ensure that no person takes money or property improperly from the Kiowa Tribe ("Tribe"). In the past, appointed and elected officials, and others, took money and property from the Tribe without the authority of law. <cite path="attachments|law">This Act</cite> is passed to create a significant disincentive to any future taking of money and property and a mechanism to recover the money and property improperly taken.</text>
+    </section>
+    <section>
+      <num>103</num>
+      <heading>Definitions.</heading>
+      <text>The following are defined terms that shall apply to <cite path="attachments|law">this Act</cite> and any application or interpretation of it:</text>
+      <para>
+        <num>(a)</num>
+        <text>the terms "knowing" and "knowingly"—</text>
+        <para>
+          <num>(1)</num>
+          <text>means that a person, with respect to information:</text>
+          <para>
+            <num>(A)</num>
+            <text>has actual knowledge of the information;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>acts in deliberate ignorance of the truth or falsity of the information; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>acts in reckless disregard of the truth or falsity of the information; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>requires no proof of specific intent to defraud.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the term "claim"—</text>
+        <para>
+          <num>(1)</num>
+          <text>means any request or demand, whether under a contract or otherwise, for money or property and whether or not the Tribe has title to the money or property, that:</text>
+          <para>
+            <num>(A)</num>
+            <text>is presented to an officer, employee, or agent of the Tribe or any business that it owns; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>is made to a contractor, grantee, or other recipient, if the money or property is to be spent or used on the Tribe's behalf or to advance a Tribe business, program or interest, and if the Tribe:</text>
+            <para>
+              <num>(i)</num>
+              <text>provides or has provided any portion of the money or property requested or demanded; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded; and</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>does not include requests or demands for money or property that the Tribe has paid to an individual as compensation for employment or as an income subsidy with no restrictions on that individual's use of the money or property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the term "material" means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>the term "obligation" means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the term "Relator" shall mean the person filing a claim under <cite path="attachments|law">this Act</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <num>104</num>
+      <heading>Exclusions and Limitations.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of <cite path="attachments|law">this Act</cite> shall not apply to the Chairman of the Tribe, the Vice-Chairman of the Tribe, the Legislators of the Tribe, the Judges of the Trial Court, or the Justices of the Supreme Court.   Said persons shall neither be a defendant nor a relator in any action under this law, during their terms of office.  No statute of limitations on any claim against any elected enumerated in <cite path="attachments|law|104">this section</cite> shall be begin to run until the day that person leaves office.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Statute of Limitations applicable to the prosecution of claims under the Act shall be six (6) years from the date of the claim.</text>
+      </para>
+    </section>
+    <section>
+      <num>105</num>
+      <heading>Cause of Action.</heading>
+      <text>Any person who:</text>
+      <para>
+        <num>(a)</num>
+        <text>knowingly presents, or causes to be presented, a false or fraudulent claim for payment or approval; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>knowingly makes, uses, or causes to be made or used, a false record or statement that is material to a false or fraudulent claim; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>has possession, custody, or control of property or money used, or to be used, by the Tribe and knowingly delivers, or causes to be delivered, less than all of that money or property; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>is authorized to make or deliver a document certifying receipt of property used, or to be used, by the Tribe and, intending to defraud the Tribe, makes or delivers the receipt without completely knowing that the information on the receipt is true; or</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Tribe who lawfully may not sell or pledge property; or</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation to pay or transmit money or property to the Tribe, or knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay or transmit money or property to the Tribe; or</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>conspires to commit a violation of subparagraph (A), (B), (C), (D), (E), or (F),</text>
+        <text>is liable to the Tribe for a civil penalty of not less than $5,000 and not more than $10,000 for each false or fraudulent claim, plus the actual damages which the Tribe sustains because of the act of that person, plus a multiplier of not less than three (3) times and not more than ten (10) times actual damages as the Court may determine is appropriate based on the facts and circumstances of each case.</text>
+      </para>
+    </section>
+    <section>
+      <num>106</num>
+      <heading>Procedure.</heading>
+      <text>The following shall be the procedure applicable to any claim or cause of action to enforce the provisions of <cite path="attachments|law">this Act</cite>:</text>
+      <para>
+        <num>(a)</num>
+        <text>Any person may bring a claim or cause of action under <cite path="attachments|law">this Act</cite> as a Relator.  The relator shall bring the claim in the name of the Tribe or the relevant entity owned or controlled by the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any claim or cause of action brought under <cite path="attachments|law">this Act</cite> shall be brought in the Trial Court of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Complaint filed in an action under <cite path="attachments|law">this Act</cite> shall be filed under seal pursuant to the procedures of the Trial Court.  The Case shall be recorded in the official Court records by the Court Clerk, but the existence of the case shall remain a secret and shall not be published until the case is unsealed. The Clerk of the Trial Court shall immediately transmit one copy of the sealed complaint to the Tribal Prosecutor.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>There shall be no filing fee for a Complaint under <cite path="attachments|law">this Act</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On day sixty-one (61) after filing, the complaint shall be unsealed and filed in the open court records, unless the Prosecutor informs the Court Clerk of pending investigations before the time for unsealing.  In which case, the matter shall remain secret and the Complaint sealed for up to sixty (60) additional days.  In no event shall the matter remain secret or the Complaint sealed for more than one hundred twenty (120) days.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Upon receipt of the Complaint, the Tribal Prosecutor shall investigate the matters alleged.  The Tribal Prosecutor may, at any time while the matter remains sealed, elect to prosecute the matter on behalf of the Tribe.  If the Tribal Prosecutor does not elect to prosecute the matter, the Relator may prosecute or dismiss the matter.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If the prosecution of the matter results in an award of damages, the Relator shall be entitled to 1/3 of the damages awarded, inclusive of both civil penalties and actual damages, whether or not the Prosecutor prosecutes the matter.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>If the prosecution of the matter results in an award of damages, the Relator or the Tribe shall be entitled the costs of the action and attorney fees at a reasonable rate as the Court may determine.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The current rules of civil procedure, evidence and appellate procedure adopted by the Tribe shall apply in any pretrial, trial or appeal of an action under <cite path="attachments|law">this Act</cite>.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>No lawyer who serves the Kiowa Tribe in any capacity may serve as either a Relator nor as legal counsel for any individual person in any proceeding under this law.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Every Relator shall be represented by counsel and may not prosecute an action in a <em>pro se</em> capacity.</text>
+      </para>
+    </section>
+  </attachment>
 </document>
